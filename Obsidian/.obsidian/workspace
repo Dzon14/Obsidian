@@ -4,14 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a392eafce2949f",
+        "id": "3c4c3cc6222afa4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DigTek Förel.1.md",
+            "file": "Digitalteknik.md",
             "mode": "source"
           }
+        },
+        "group": "17868fe84c12a20a"
+      },
+      {
+        "id": "ee2a42fe81654678",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Digitalteknik.md",
+            "mode": "source"
+          }
+        },
+        "group": "17868fe84c12a20a"
+      },
+      {
+        "id": "e7b6412fd1daf178",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Digitalteknik.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b000ca0ec0fb8ff2",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elektr",
+                "query": "tag:#moc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,19 +80,36 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 180
+    "width": 159
   },
   "right": {
     "id": "41b017e71151d7bd",
     "type": "split",
     "children": [
       {
+        "id": "d64c10830eb0dc83",
+        "type": "tabs",
+        "dimension": 41.35220125786164,
+        "children": [
+          {
+            "id": "8b78c25d30051673",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "2a206e9f51f27a73",
         "type": "tabs",
+        "dimension": 58.64779874213837,
         "children": [
           {
             "id": "21e6cf4fb81462da",
@@ -68,14 +117,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DigTek Förel.1.md",
+                "file": "Digitalteknik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -96,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DigTek Förel.1.md",
+                "file": "Digitalteknik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,30 +160,65 @@
             }
           },
           {
-            "id": "8e42e67771795c35",
+            "id": "5978b345f8afa3c2",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "todo",
               "state": {}
+            }
+          },
+          {
+            "id": "aead7cc2fd8e1962",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Digitalteknik.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.624157094571954,
+                  "close": true
+                }
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244
   },
-  "active": "c9a392eafce2949f",
+  "active": "ee2a42fe81654678",
   "lastOpenFiles": [
-    "DigTek Förel.1.md",
-    "Gravitationskraft.md",
-    "Ljus.md",
-    "Elektromagnetisk Strålning.md",
-    "Brytningsindex.md",
-    "Absorption.md",
-    "Day Planners/Day Planner-20211031.md",
     "Digitalteknik.md",
-    "Programmering.md",
-    "Fysik MOC.md"
+    "DigTek F15.md",
+    "VHDL.md",
+    "Implementing Digital Circuits.md",
+    "Fysik MOC.md",
+    "Hardware Description Language.md",
+    "ASIC.md",
+    "Adder.md",
+    "Modulo-16 räknare.md",
+    "Konfiguerbar logik.md"
   ]
 }

@@ -1,7 +1,5 @@
 ---
-aliases:
-  - "D-element"
-  - "D-vippa"
+aliases: [D-element, D-vippa, D-vippor]
 ---
 
 Ett minneselement kommer ihåg ett värde till nästa klock-tick. 

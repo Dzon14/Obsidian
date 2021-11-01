@@ -5,5 +5,7 @@
   "dataview",
   "note-refactor-obsidian",
   "obsidian-day-planner",
-  "obsidian-icons-plugin"
+  "obsidian-icons-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-checklist-plugin"
 ]

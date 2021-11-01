@@ -1,5 +1,9 @@
 # Digitalteknik #moc 
 
+## Föreläsningar:
+[[DigTek F15]]
+
+
 [[LFSR]]
 [[Linear Sequential Circuit]]
 [[D-transform]]
@@ -11,3 +15,7 @@
 [[Karnaugh Map]]
 [[Normalformer]]
 [[Tillståndsgraf]]
+[[Implementing Digital Circuits]]
+[[Propagation delay]] 
+[[VHDL]]
+[[Abstraktion DigitalTeknik]]
