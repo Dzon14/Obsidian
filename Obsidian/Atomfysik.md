@@ -1,0 +1,4 @@
+# Atomfysik
+
+## [[Spektroskopi]]
+## [[Kvantmekanik]]

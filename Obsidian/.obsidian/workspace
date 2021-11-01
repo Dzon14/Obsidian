@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ac0af5003d369889",
+        "id": "c9a392eafce2949f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "DigTek Förel.1.md",
             "mode": "source"
           }
         }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "elektr",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 180
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "DigTek Förel.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,16 +96,25 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DigTek Förel.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b56385daf6cab436",
+            "id": "9ab1866075b8c57f",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e42e67771795c35",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -115,8 +124,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ac0af5003d369889",
+  "active": "c9a392eafce2949f",
   "lastOpenFiles": [
-    "Untitled.md"
+    "DigTek Förel.1.md",
+    "Gravitationskraft.md",
+    "Ljus.md",
+    "Elektromagnetisk Strålning.md",
+    "Brytningsindex.md",
+    "Absorption.md",
+    "Day Planners/Day Planner-20211031.md",
+    "Digitalteknik.md",
+    "Programmering.md",
+    "Fysik MOC.md"
   ]
 }

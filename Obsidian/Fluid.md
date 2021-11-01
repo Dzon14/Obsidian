@@ -1,0 +1,1 @@
+Gaser och vätskor klassas som fluider

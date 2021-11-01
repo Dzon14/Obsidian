@@ -1,3 +1,9 @@
 [
-  "calendar"
+  "calendar",
+  "sliding-panes-obsidian",
+  "table-editor-obsidian",
+  "dataview",
+  "note-refactor-obsidian",
+  "obsidian-day-planner",
+  "obsidian-icons-plugin"
 ]
