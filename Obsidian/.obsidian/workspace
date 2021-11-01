@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitalteknik.md",
+            "file": "Arbete.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitalteknik.md",
-            "mode": "source"
+            "file": "Arbete.md",
+            "mode": "preview"
           }
         },
         "group": "17868fe84c12a20a"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitalteknik.md",
+                "file": "Arbete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digitalteknik.md",
+                "file": "Arbete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Digitalteknik.md",
+                "file": "Arbete.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,6 +210,7 @@
   },
   "active": "ee2a42fe81654678",
   "lastOpenFiles": [
+    "Arbete.md",
     "Digitalteknik.md",
     "DigTek F15.md",
     "VHDL.md",
@@ -218,7 +219,6 @@
     "Hardware Description Language.md",
     "ASIC.md",
     "Adder.md",
-    "Modulo-16 räknare.md",
-    "Konfiguerbar logik.md"
+    "Modulo-16 räknare.md"
   ]
 }
