@@ -1,4 +1,4 @@
-# Industriell Ekonomi #moc
+# Industriell Ekonomi #indek
 Allmänn info:
 
 Föreläsningar:

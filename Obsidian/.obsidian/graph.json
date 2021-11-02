@@ -20,18 +20,25 @@
         "a": 1,
         "rgb": 11752160
       }
+    },
+    {
+      "query": "tag:#indek",
+      "color": {
+        "a": 1,
+        "rgb": 14735186
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "collapse-forces": false,
+  "centerStrength": 0.498263888888889,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.08690608063693607,
-  "close": true
+  "scale": 0.2208310106397531,
+  "close": false
 }
