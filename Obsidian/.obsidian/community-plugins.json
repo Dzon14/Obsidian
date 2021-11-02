@@ -7,5 +7,7 @@
   "obsidian-day-planner",
   "obsidian-icons-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "templater-obsidian",
+  "cycle-through-panes"
 ]

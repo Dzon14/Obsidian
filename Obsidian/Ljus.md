@@ -1,7 +1,5 @@
 ---
-aliases:
-  - "ljuset"
-  - "ljusets"
+aliases: [ljuset, ljusets]
 ---
 
 # Ljus

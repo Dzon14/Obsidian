@@ -1,0 +1,5 @@
+---
+aliases: [datastrukturer]
+---
+
+# Datastruktur #prog 

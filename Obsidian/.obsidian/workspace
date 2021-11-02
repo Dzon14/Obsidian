@@ -4,46 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3c4c3cc6222afa4e",
+        "id": "4bce78541228ffae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Arbete.md",
-            "mode": "source"
-          }
-        },
-        "group": "17868fe84c12a20a"
-      },
-      {
-        "id": "ee2a42fe81654678",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Arbete.md",
+            "file": "Binärsökning.md",
             "mode": "preview"
-          }
-        },
-        "group": "17868fe84c12a20a"
-      },
-      {
-        "id": "e7b6412fd1daf178",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Digitalteknik.md",
-            "mode": "source"
           }
         }
       },
       {
-        "id": "b000ca0ec0fb8ff2",
+        "id": "a5c71ed44982d005",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rekursion.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -71,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#moc",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,12 +59,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 159
+    "width": 159,
+    "collapsed": true
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -109,7 +88,7 @@
       {
         "id": "2a206e9f51f27a73",
         "type": "tabs",
-        "dimension": 58.64779874213837,
+        "dimension": 58.64779874213836,
         "children": [
           {
             "id": "21e6cf4fb81462da",
@@ -117,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arbete.md",
+                "file": "Rekursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arbete.md",
+                "file": "Rekursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arbete.md",
+                "file": "Rekursion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,19 +185,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 237
   },
-  "active": "ee2a42fe81654678",
+  "active": "a5c71ed44982d005",
   "lastOpenFiles": [
-    "Arbete.md",
-    "Digitalteknik.md",
-    "DigTek F15.md",
-    "VHDL.md",
-    "Implementing Digital Circuits.md",
-    "Fysik MOC.md",
-    "Hardware Description Language.md",
-    "ASIC.md",
-    "Adder.md",
-    "Modulo-16 räknare.md"
+    "Rekursion.md",
+    "Binärsökning.md",
+    "generisk metod.md",
+    "typparameter.md",
+    "generisk.md",
+    "Algoritm.md",
+    "nyckel.md",
+    "samling.md",
+    "Untitled.md",
+    "Basfall.md"
   ]
 }
