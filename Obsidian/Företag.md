@@ -1,3 +1,6 @@
+---
+aliases: [företaget, företagen, företagets]
+---
 # Företag 
 ### Vad är ett företag?
 - En organisation som samordnar arbetskraft, realkapital, teknik, information och kunskap för att producera varor och tjänster.

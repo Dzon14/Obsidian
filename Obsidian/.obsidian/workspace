@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9b4bac31e4cc8752",
+        "id": "b15704ad93c16198",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Indek F3.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Indek F3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Indek F3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Indek F3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,19 +174,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 244
   },
-  "active": "9b4bac31e4cc8752",
+  "active": "b15704ad93c16198",
   "lastOpenFiles": [
-    "Indek F2.md",
-    "Intressentredovisning.md",
-    "Intressentmodellen.md",
-    "Arbetsmarknadsmodell.md",
-    "Internationellt företagande.md",
-    "Lokaliseringspåverkande faktorer.md",
-    "Offentliga företag.md",
-    "Kooperativa företag.md",
-    "Privata företag.md",
-    "Ägarförhållanden.md"
+    "Indek F3.md",
+    "Industriell Ekonomi.md",
+    "Promotion.md",
+    "Marknadsskumning.md",
+    "Penetrationspris.md",
+    "Konkurrensmedel.md",
+    "Pris.md",
+    "Påverkan - marknadskommunikation.md",
+    "PLATS.md",
+    "Produkten.md"
   ]
 }

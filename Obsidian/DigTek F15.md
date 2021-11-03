@@ -3,7 +3,7 @@
 
 ### General information
 
-E-bok: Quick start guide to VHDL - Brock J. LaMeres
+E-bok: Quick start guide to [[VHDL]] - Brock J. LaMeres
 lubcat.lub.lu.se
 
 Vivado 2016 - license: webpack?
@@ -11,7 +11,7 @@ Vivado 2016 - license: webpack?
 ##### Content:
 - Hardware technologies
 - hardware description language
-- Introduction to VHDL
+- Introduction to [[VHDL]]
 - simulations
 
 ## Föreläsningsinnehåll:

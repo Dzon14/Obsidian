@@ -2,6 +2,5 @@
 Allmänn info:
 
 Föreläsningar:
-
-
-Se [[Företagsekonomi]]
+[[Indek F2]]
+[[Indek F3]]

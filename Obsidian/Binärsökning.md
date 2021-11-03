@@ -1,4 +1,4 @@
-# Binärsökning #prog 
+# Binärsökning 
 En teknik för att söka efter ett riktat värde eller t.ex en [[nyckel]] i en [[samling]]. 
 
 [[Algoritm]] för att söka efter ett [[element]] x i en vektor (sorterad i växande ordning):
@@ -35,3 +35,4 @@ Låt metoden vara [[generisk]] och deklarera en [[typparameter]]:
 public static < E> int indefOf ( E[ ] a, E x ).
 Använd [[generisk metod]]
  
+ #prog 

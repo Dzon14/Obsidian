@@ -2,6 +2,7 @@
 
 ## Föreläsningar:
 [[DigTek F15]]
+[[DigTek F16]]
 
 
 [[LFSR]]
