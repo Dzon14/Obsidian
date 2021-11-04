@@ -1,4 +1,0 @@
-Isbergssallad
-Gurka
-Tomat
-Paprika

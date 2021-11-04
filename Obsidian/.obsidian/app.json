@@ -1,4 +1,5 @@
 {
   "foldHeading": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "images"
 }

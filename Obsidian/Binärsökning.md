@@ -1,4 +1,6 @@
 # Binärsökning 
+Titta här innan lab 5
+Funkar endast om vektorn är sorterad. 
 En teknik för att söka efter ett riktat värde eller t.ex en [[nyckel]] i en [[samling]]. 
 
 [[Algoritm]] för att söka efter ett [[element]] x i en vektor (sorterad i växande ordning):
@@ -10,13 +12,13 @@ Rekursiva steget:
 - Om större, sök i höger halvan av vektorn. 
 
 ```java
-public static int indefOf(int[] a, int x) {
+public static int indexOf(int[] a, int x) {
 	return binarySearch(a, x, 0, a.length - 1);
 }
 
 private static int binarySearch(int[] a, int x, int first, int last) {
 	if (first > last) {
-		return -1;
+		return -1; //avslutar
 	} else {
 		int mid = first + ((last - first) / 2);
 		if (x == a[mid]) {

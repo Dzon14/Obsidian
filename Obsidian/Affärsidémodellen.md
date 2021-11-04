@@ -1,8 +1,12 @@
+---
+aliases: [affärsidé]
+---
 ## Affärsidémodellen
 **Marknad - Produkt/Tjänst - Resurs/kompetens**
 Marknad och Produkt/tjänst är en yttre effektivitet. 
 Resurs/kompetens är inre effektivitet(produktivitet)
 Tillsammans gör de den totala effektiviteten.
+![[Pasted image 20211104105102.png|300]]
 ![[Pasted image 20211103145154.png|300]]
 Ett exempel på hur marknad och resurs/kompetens kan knytas ihop är IKEA där kunden själva monterar möbler osv (med instruktioner).
 
@@ -10,5 +14,11 @@ Ett exempel på inre effektivitet är: Zara, där man sköter allt frpn design t
 Det bidrar till ett större **Kundvärde**.  Nya produkter ofta, inget lager, Lanserar kontinuerligt
 
 Den yttre effektivitet är [[Marknadsföring]]
+Den inre effektivitet = [[Inre affärsidén]]
+
+## Affärsidén
+1. VILKEN är vår marknad (bransch)?
+2. VAD skall vi erbjuda?
+3. HUR skall vi använda våra resurser & kompetens?
 
 #indek 

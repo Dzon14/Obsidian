@@ -19,3 +19,10 @@ public class Utilities {
 	String[] a = new String[5];
 	Utilities.fill(a, "abc");
 }
+```
+
+Man kan skriva 
+```java
+private static <E extends Comparable<E>> 
+```
+För att visa att man måste implementera comparable (compareTo). 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b15704ad93c16198",
+        "id": "0fdefcc9fc7d5fa7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Indek F3.md",
+            "file": "Indek F4.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#indek",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 159,
-    "collapsed": true
+    "width": 159
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indek F3.md",
+                "file": "Indek F4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indek F3.md",
+                "file": "Indek F4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Indek F3.md",
+                "file": "Indek F4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,17 +175,17 @@
     "direction": "horizontal",
     "width": 244
   },
-  "active": "b15704ad93c16198",
+  "active": "0fdefcc9fc7d5fa7",
   "lastOpenFiles": [
-    "Indek F3.md",
+    "Indek F4.md",
+    "Day Planners/Day Planner-20211102.md",
+    "LED.md",
+    "Salladsgrund.md",
     "Industriell Ekonomi.md",
-    "Promotion.md",
-    "Marknadsskumning.md",
-    "Penetrationspris.md",
-    "Konkurrensmedel.md",
-    "Pris.md",
-    "Påverkan - marknadskommunikation.md",
-    "PLATS.md",
-    "Produkten.md"
+    "Inre affärsidén.md",
+    "Företagets uppgift.md",
+    "Indek F3.md",
+    "Indek F2.md",
+    "Företag.md"
   ]
 }

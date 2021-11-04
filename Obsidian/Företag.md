@@ -17,6 +17,8 @@ Affärsbaserat perspektiv:
 - [[Verksamhetstyper]]
 - [[Värdeskapande affärsnätverk]]
 
+[[Företagets uppgift]]
+
 
 
 #indek 

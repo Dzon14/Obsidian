@@ -1,4 +1,4 @@
-# Driffraktion
+x# Driffraktion
 Diffraktion är hur [[Ljus]] böjs a då det passerar hinder. Spridningen hos ljuset bestäms av hindrets form och storlek.
 
 ![[Pasted image 20211023174902.png|400]]
