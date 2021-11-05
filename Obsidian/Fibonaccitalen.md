@@ -35,10 +35,24 @@ public static long fib(int n) {
 ## Problemet kan dock lösas rekursivt genom [[Dynamisk programmering]]
 
 En vektor där -1 betyder att resultat ej beräknats används (-1 eftersom fibonacci börjar på 0):
-
-FORTSÄTT SEN
-
-glöm ej long[] table (enkelt misstag på tentor)
-
+```java
+public static long fib(int n) {
+	long[] table = new long[n + 1]; //skapa en tabell
+	Arrays.fill(table, -1);
+	return fib(n, table);
+}
+//glöm ej long[] table, enkelt fel på tenta
+private static long fib(int n, long[] table) {}
+	if (table[n] == -1) {
+		if (n <= 1) {
+			table[n] = n;
+		} else {
+			table[n] = fib(n - 1, table) + fib(n - 2, table);
+		}
+	}
+	return table[n];
+}
+```
+Detta har linjär [[tidskomplexitet]]
 
 #prog 

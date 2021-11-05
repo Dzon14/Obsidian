@@ -1,5 +1,5 @@
 ---
-aliases: [rekursivt]
+aliases: [rekursivt, rekursiv]
 ---
 # Rekursion #prog 
 Att tänka rekursivt: "Jag fyller ett år mer än förra året"
@@ -20,10 +20,17 @@ public static long factorial (int n) {
 ### [[Exekvering]] och [[metodanrop]]:
 ![[Pasted image 20211102103234.png | 500]]
 
-## [[Rekursiv metod]]
-## [[Rekursion och listor]]
-## [[Divide and conquer]]
+Se även:
+[[Rekursiv metod]]
+[[Rekursion och listor]]
+[[Divide and conquer]]
+[[Fibonaccitalen]]
 
-## [[Fibonaccitalen]]
+## När ska rekursion användas?
+Många exemplen (t.ex n!) kan lösas icke-rekursivt. Ibland leder även rekursion till ineffektiva algoritmer.
+Det ska användas när:
+- Svårt att uttrycka lösningen icke-rekursivt
+- Finns en icke-rekursiv lösning men den rekursiva är effektivare. (t.ex sortering)
+- När en rekursiv lösning är enklare att förstå, implementera osvosv. (t.ex binärsökning)
 
 #prog 

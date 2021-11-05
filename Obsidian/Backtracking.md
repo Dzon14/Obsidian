@@ -23,8 +23,30 @@ boolean solve(v)
 		unmake choice c
 	return false
 
-## Exempel: Åttadamersproblemet
-SKRIV om dam-exemplet seda 
+## Exempel: Åttadamersproblemet (Schack)
+Mn vill placera ut 8 damer på ett shackbräde utan att de hotar varandra.
+**Algoritm:**
+- Placera första damen så tidigt som möjligt på första raden, sen andra raden osvosv..
+- Om damen ej kan placeras på en rad, gå tillbaka till föregående och finn ny plats. Om plats finns forsätt att placera damer framåt, annars gå till föregående rad.
+- När sista raden har en dam har vi löst problemet.
+
+[[Rekursion|rekursiv]] lösning till problemet:
+```java
+private boolean solver(int row) {
+	if (row == 8) {
+		return true;
+	}
+	for (int col = 0; col < 8; col++) {
+		if (board.tryAddQueen(row, col)) {
+			if (solve(row + 1)) {
+				return true;
+			}
+			board.removeQueen(row, col);
+		}
+	}
+	return false;
+}
+```
 
 
 #prog 
