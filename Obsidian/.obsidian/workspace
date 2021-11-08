@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DigTek F15.md",
+            "file": "Industriell Ekonomi.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "ebe573f15fa70e80",
+        "id": "fa79a9ed616ededa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rekursion.md",
+            "file": "Ekonomi.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DigTek F15.md",
+                "file": "Industriell Ekonomi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DigTek F15.md",
+                "file": "Industriell Ekonomi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DigTek F15.md",
+                "file": "Industriell Ekonomi.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,15 +188,15 @@
   },
   "active": "0fdefcc9fc7d5fa7",
   "lastOpenFiles": [
-    "DigTek F15.md",
-    "Backtracking.md",
-    "VHDL.md",
-    "Hardware Description Language.md",
-    "Rekursion.md",
-    "Fibonaccitalen.md",
-    "Tidskomplexitet.md",
-    "Indek F4.md",
-    "Day Planners/Day Planner-20211102.md",
-    "LED.md"
+    "Industriell Ekonomi.md",
+    "Indek F5.md",
+    "Operationell kostnad och operationellt resultat.md",
+    "Alternativkostnad.md",
+    "Särkostnader och Samkostnader.md",
+    "Direkta och Indirekta kostnader.md",
+    "Fasta kostnader.md",
+    "Rörliga kostnader.md",
+    "Kostnadsindelning och Kostnadsbegrepp.md",
+    "Viktiga begrepp inom Ekonomi.md"
   ]
 }
