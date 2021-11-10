@@ -1,4 +1,3 @@
-## Rörliga kostnader
 **Proportionellt rörliga**
 - Ändras i samma takt som verksamhetsvolymen
 ![[Pasted image 20211108122611.png|150]]
