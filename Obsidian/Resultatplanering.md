@@ -21,7 +21,7 @@
 ![[Pasted image 20211109145947.png|200]]
 
 ### Begrepp och notation
-![[Pasted image 20211109134412.png|400]]
+![[Pasted image 20211109134412.png|600]]
 
 
 ## Kritisk punkt och Säkerhetsmarginal

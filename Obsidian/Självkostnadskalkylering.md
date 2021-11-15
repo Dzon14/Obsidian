@@ -1,3 +1,7 @@
+---
+aliases: [självkostnadskalkyl]
+---
+
 ## Självkostnadskalkylering
 - En metod för (produkt)kalkylering som skiljer sig i åt graden av kostnadsfördelning
 - Fullständiga kostnadsfördelning där samtliga kostnader beaktas
