@@ -1,5 +1,5 @@
 ---
-aliases: [binära träden, binära trädet, binära sökträd]
+aliases: [binära träden, binära trädet]
 ---
 # Binära träd 
 Binär träd är en [[Datastruktur]] och ett [[träd]] där varje nod har max två "barn". Går uppifrån ner. 

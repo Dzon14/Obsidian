@@ -1,4 +1,8 @@
 # Produktkalkylering
+- Förkalkyl: Görs upp före beslut, uppskattar värden på kostnader och intäkter
+- Efterkalkyl: görs upp i efterhand, följer upp och analyserar faktiska kostnader och intäkter.
+
+
 ## Principer och kostnader
 - Intäkterna av en produkt är ofta ganska enkla att beräkna (pris/st) men kostnaderna är ofta en större utmaning
 - Grundprincip: En produkt ska bära de kostnader den förorsakar

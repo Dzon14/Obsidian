@@ -17,7 +17,7 @@ $Självkostnad = Direkta kostnader + Fördelade indirekta kostnader$
 Påläggen beräknas med hjälp av totala kostnader som finns tillgängliga i företagets redovisningssystem
 1. Beräkna de totala omkostnaderna i de olika kategorierna (fasta, rörliga omkostnader)
 	- MO, TO, AO, FO, AffO
-2. Beräkna pålägg för de olikka omkostnadskategorierna genom att relatera omkostnaderna till en lämplig påläggsbas (resurs/direkt kostn.) (Använder ofta direkta omkostnader)
+2. Beräkna pålägg för de olika omkostnadskategorierna genom att relatera omkostnaderna till en lämplig påläggsbas (resurs/direkt kostn.) (Använder ofta direkta omkostnader)
 	-En kostnadsbärare användning av påläggsbas ska enkelt kunna identifieras.
 	- Påläggsbas ska reflektera kostnadsbärares omkostnad i fråga
 	

@@ -21,6 +21,9 @@ Periodkalkyler och Orderkalkyler kan göras i förenklad form som sk.
 **Minimikalkyl**
 - Endast rörliga kostnader beaktas
 - $Minimikostnad/st = \frac{Totalt rörliga kostnader}{Verklig volym}$
+- genomsnittskalkyl (= divisionskalkyl)
+- normalkalkyl
+
 
 ![[Pasted image 20211110101355.png|200]]
 

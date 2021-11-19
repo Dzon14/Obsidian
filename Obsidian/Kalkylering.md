@@ -2,7 +2,7 @@
 - Beräkning av en förädlingsprocess kostnader och intäkter
 - Ett företags verksamhet utgör en förädlingsprocess. 
 		- Förädlingsprocessen ser olika ut i olika typer av företag.
-![[Pasted image 20211110093353.png|400]]
+![[Pasted image 20211110093353.png|550]]
 
 ### Olika Kalkylobjekt
 - Hela företaget
