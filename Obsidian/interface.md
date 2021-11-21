@@ -1,0 +1,6 @@
+---
+alias: [interfacet, interfacen]
+---
+
+#prog 
+

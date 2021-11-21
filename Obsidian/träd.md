@@ -1,4 +1,9 @@
 ---
 aliases: [trädet, träden]
 ---
-# Träd #prog 
+# Träd 
+En [[Datastruktur]].
+[[Binära träd]]
+[[Binära sökträd]]
+
+#prog 
