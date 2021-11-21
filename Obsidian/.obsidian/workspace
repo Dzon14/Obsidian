@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "179789350f84171d",
+    "id": "872b8f00e2717976",
     "type": "split",
     "children": [
       {
-        "id": "6189e5fecfb6a612",
+        "id": "9779edacb9d039bd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TreeMap.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TreeMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TreeMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "TreeMap.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,17 +176,17 @@
     "direction": "horizontal",
     "width": 244
   },
-  "active": "6189e5fecfb6a612",
+  "active": "9779edacb9d039bd",
   "lastOpenFiles": [
-    "How to use tags.md",
-    "Bokföring.md",
+    "TreeMap.md",
+    "Map.md",
     "Binära sökträd.md",
-    "Indek F11.md",
-    "Löpande Bokföring och Bokslut.md",
-    "träd.md",
+    "TreeSet.md",
+    "Set.md",
+    "interface.md",
+    "Tidskomplexitet.md",
     "Binära träd.md",
-    "Resultaträkning och Balansräkning.md",
-    "ABC-Kalkyl.md",
-    "Påläggskalkyl.md"
+    "Hashtabeller.md",
+    "How to use tags.md"
   ]
 }
