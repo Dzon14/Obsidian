@@ -119,10 +119,10 @@ int compResult = comp.compare(x, n.data);
 	
 	
 	
-	
+
 **Överkurs:** 
 - ""? super E" betyder "ökänd superklass till E (inklusive E)"
-- Använd istället typen Comparator<? super E> istället för Comparator<E>
+- Använd istället typen Comparator< ? super E> istället för Comparator<E>
 
 #prog 
 
