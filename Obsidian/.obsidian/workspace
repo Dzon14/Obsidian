@@ -4,45 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "850b2de1e122100f",
+        "id": "b6d8d87c3fedd005",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stegkalkyl.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "a08c45883744a1ae",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Självkostnadskalkylering.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "83840b4a07dcd599",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Periodkalkyl (Processkalkyl).md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "f7c44dbc601e4d5f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bidragskalkylering.md",
+            "file": "Binära sökträd.md",
             "mode": "preview"
           }
         }
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodkalkyl (Processkalkyl).md",
+                "file": "Binära sökträd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodkalkyl (Processkalkyl).md",
+                "file": "Binära sökträd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Periodkalkyl (Processkalkyl).md",
+                "file": "Binära sökträd.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,17 +176,17 @@
     "direction": "horizontal",
     "width": 244
   },
-  "active": "83840b4a07dcd599",
+  "active": "b6d8d87c3fedd005",
   "lastOpenFiles": [
-    "Periodkalkyl (Processkalkyl).md",
-    "Självkostnadskalkylering.md",
-    "Bidragskalkylering.md",
-    "Direkta och Indirekta kostnader.md",
-    "Stegkalkyl.md",
-    "indek F9.md",
-    "Binära träd.md",
     "Binära sökträd.md",
-    "Indek F12.md",
-    "Industriell Ekonomi.md"
+    "Rekursion och listor.md",
+    "Rekursion.md",
+    "Divide and conquer.md",
+    "Backtracking.md",
+    "Fibonaccitalen.md",
+    "Dynamisk programmering.md",
+    "indek F13.md",
+    "Årsredovisning.md",
+    "Årsstämma.md"
   ]
 }
