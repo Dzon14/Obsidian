@@ -4,12 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "b6d8d87c3fedd005",
+        "id": "c438bcf9bd884613",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Binära sökträd.md",
+            "file": "Indek F10.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "2ed6eabfbed2c1cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bokföring.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "3d549449138e7a1e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Löpande Bokföring och Bokslut.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "a80f9dafa1586926",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Indek F11.md",
             "mode": "preview"
           }
         }
@@ -85,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binära sökträd.md",
+                "file": "Bokföring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binära sökträd.md",
+                "file": "Bokföring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Binära sökträd.md",
+                "file": "Bokföring.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,17 +209,17 @@
     "direction": "horizontal",
     "width": 244
   },
-  "active": "b6d8d87c3fedd005",
+  "active": "2ed6eabfbed2c1cb",
   "lastOpenFiles": [
-    "Binära sökträd.md",
-    "Rekursion och listor.md",
-    "Rekursion.md",
-    "Divide and conquer.md",
-    "Backtracking.md",
-    "Fibonaccitalen.md",
-    "Dynamisk programmering.md",
+    "Bokföring.md",
+    "Indek F10.md",
+    "Löpande Bokföring och Bokslut.md",
+    "Indek F11.md",
+    "Resultaträkning och Balansräkning.md",
+    "Indek F14.md",
     "indek F13.md",
+    "Indek F12.md",
     "Årsredovisning.md",
-    "Årsstämma.md"
+    "Årsbokslut.md"
   ]
 }

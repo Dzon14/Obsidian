@@ -71,4 +71,6 @@ Både anläggnings- och omsättningstillgångar bidrar till en ökade likviditet
 - Årets resultat i BR = (Utgående - Ingående) Eget kapital + ägaruttag - ägarinsättning
 ![[Pasted image 20211123092154.png]]
 
+För att företagen inte ska kunna ge en alltför ljus eller mörk bild av verksamheten krävs regler för hur värderingen får göras. [[Värderingsprinciper]]
+
 #indek
