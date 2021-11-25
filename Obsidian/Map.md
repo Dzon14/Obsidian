@@ -1,3 +1,7 @@
+---
+aliases: [mappar, mappen]
+---
+
 # Datatypen Map
 [[TreeMap]]
 
