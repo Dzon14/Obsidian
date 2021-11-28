@@ -3,7 +3,7 @@ aliases: [hashtabell]
 ---
 
 # Hashtabell
-- En [[Datastruktur]]som är snabb att söka i
+- En [[Datastruktur]] som är snabb att söka i
 - Tidskomplexitet för sökning, insättning och borttagning är O(1) i medelfall
 - I praktiken är en hashtabell snabbare än ett balanserat binärt sökträd
 - Passar bra för att implementera [[Set|mängd]] och [[Map|mappar]]
@@ -58,6 +58,7 @@ Kvadratisk teknik:
 Elementen i tabellen är listor
 Ex:
 ![[Pasted image 20211125121546.png|500]]
+Notera att talet som är sist i följen ska vara längst till vänster i listan.
 
 [[HashSet]] och [[HashMap]] använder öppen hashtabell.
 

@@ -4,24 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "12b000c7e19d6cbf",
+        "id": "9133ff2b9b46a45c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HashSet.md",
-            "mode": "source"
+            "file": "Bokföring.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "8cd5be2f188b49d9",
+        "id": "55d792486d0ce86d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HashMap.md",
-            "mode": "source"
+            "file": "Löpande Bokföring och Bokslut.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "43467533504611ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bokslutstablå.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "38affc23a90e2083",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Resultaträkning och Balansräkning.md",
+            "mode": "preview"
           }
         }
       }
@@ -96,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HashSet.md",
+                "file": "Löpande Bokföring och Bokslut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HashSet.md",
+                "file": "Löpande Bokföring och Bokslut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HashSet.md",
+                "file": "Löpande Bokföring och Bokslut.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,17 +209,17 @@
     "direction": "horizontal",
     "width": 244
   },
-  "active": "12b000c7e19d6cbf",
+  "active": "55d792486d0ce86d",
   "lastOpenFiles": [
-    "HashSet.md",
-    "HashMap.md",
-    "mängd.md",
-    "Set.md",
+    "Löpande Bokföring och Bokslut.md",
+    "Bokslutstablå.md",
+    "BAS-kontoplanen.md",
+    "Resultaträkning och Balansräkning.md",
+    "Bokföring.md",
     "Hashtabeller.md",
-    "nyckel.md",
-    "Map.md",
-    "Industriell Ekonomi.md",
-    "Indek F15.md",
-    "Räkenskapsanalys.md"
+    "Indek F12.md",
+    "Affärsredovisning.md",
+    "Affärsidémodellen.md",
+    "HashMap.md"
   ]
 }
