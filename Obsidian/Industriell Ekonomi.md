@@ -12,3 +12,7 @@ Föreläsningar:
 [[indek F9]]
 [[Indek F10]]
 [[Indek F11]]
+[[Indek F12]]
+[[indek F13]]
+[[Indek F14]]
+[[Indek F15]]

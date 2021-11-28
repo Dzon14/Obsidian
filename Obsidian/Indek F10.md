@@ -5,3 +5,5 @@
 [[Bokföring]]
 [[Löpande Bokföring och Bokslut]]
 [[Resultaträkning och Balansräkning]] 
+
+#indek 
