@@ -64,6 +64,7 @@ Om ett binärt sökträd hålls balanserata kommer sökning, insättning och bor
 - I balanserade träd är höjden <= 1.44 * 2_log(n).
 
 ## Klasserna [[TreeSet]] och [[TreeMap]]
+#prog 
 
 ## Implementering av binära sökträd
 ```java
@@ -71,7 +72,7 @@ public class BimarySearchTree<E> {
 	private Node<E> root;
 	private int size;
 	//Skapar tomt träd
-	public BinareTree() {
+	public BinaryTree() {
 		root = null;
 		size = 0:
 	}
@@ -99,7 +100,7 @@ public class BimarySearchTree<E> {
 		int compResult = ((Comparable<E>) x).compareTo(n.data); 
 		if (compResult == 0) {
 			return n.data; //Observera att n.data returneras och inte x ...
-		} else if (compResult) < 0) {
+		} else if (compResult < 0) {
 			return find(n.left, x);
 		} else {
 			return find(n.right, x);
@@ -115,16 +116,10 @@ comp = (e1, e2) -> ((Comparable<E>) e1).compareTo(e2);
 I private E find skrivs istället:
 int compResult = comp.compare(x, n.data);
 
-## 
-	
-	
-	
-	
 **Överkurs:** 
 - ""? super E" betyder "ökänd superklass till E (inklusive E)"
-- Använd istället typen Comparator<? super E> istället för Comparator<E>
+- Använd istället typen Comparator< ? super E > istället för Comparator<E>
 
-#prog 
 
 
 

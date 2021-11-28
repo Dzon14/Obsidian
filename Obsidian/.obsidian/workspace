@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TreeMap.md",
-            "mode": "source"
+            "file": "Binära sökträd.md",
+            "mode": "preview"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TreeMap.md",
+                "file": "Binära sökträd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TreeMap.md",
+                "file": "Binära sökträd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TreeMap.md",
+                "file": "Binära sökträd.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,15 +178,15 @@
   },
   "active": "9779edacb9d039bd",
   "lastOpenFiles": [
+    "Binära sökträd.md",
+    "Ljus.md",
+    "Vågor.md",
+    "Binära träd.md",
+    "Industriell Ekonomi.md",
     "TreeMap.md",
     "Map.md",
-    "Binära sökträd.md",
     "TreeSet.md",
     "Set.md",
-    "interface.md",
-    "Tidskomplexitet.md",
-    "Binära träd.md",
-    "Hashtabeller.md",
-    "How to use tags.md"
+    "interface.md"
   ]
 }
