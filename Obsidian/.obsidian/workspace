@@ -4,45 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9133ff2b9b46a45c",
+        "id": "d21b22e7743c370f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bokföring.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "55d792486d0ce86d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Löpande Bokföring och Bokslut.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "43467533504611ca",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bokslutstablå.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "38affc23a90e2083",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Resultaträkning och Balansräkning.md",
+            "file": "Investeringsbedömning.md",
             "mode": "preview"
           }
         }
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Löpande Bokföring och Bokslut.md",
+                "file": "Investeringsbedömning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Löpande Bokföring och Bokslut.md",
+                "file": "Investeringsbedömning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Löpande Bokföring och Bokslut.md",
+                "file": "Investeringsbedömning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,17 +176,17 @@
     "direction": "horizontal",
     "width": 244
   },
-  "active": "55d792486d0ce86d",
+  "active": "d21b22e7743c370f",
   "lastOpenFiles": [
-    "Löpande Bokföring och Bokslut.md",
-    "Bokslutstablå.md",
-    "BAS-kontoplanen.md",
+    "Investeringsbedömning.md",
+    "Indek F16.md",
+    "Industriell Ekonomi.md",
     "Resultaträkning och Balansräkning.md",
+    "Bokslutstablå.md",
     "Bokföring.md",
+    "Löpande Bokföring och Bokslut.md",
+    "BAS-kontoplanen.md",
     "Hashtabeller.md",
-    "Indek F12.md",
-    "Affärsredovisning.md",
-    "Affärsidémodellen.md",
-    "HashMap.md"
+    "Indek F12.md"
   ]
 }
