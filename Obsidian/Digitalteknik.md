@@ -4,7 +4,7 @@
 [[DigTek F15]]
 [[DigTek F16]]
 [[DigTek F17]]
-[[DIgTek F18]]
+
 
 
 [[LFSR]]

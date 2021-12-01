@@ -57,4 +57,33 @@ $Nuvärde = Slutvärde / (1+i)^n$
 - Ersätt det verkliga betalningsflödet med ett annuitetsflöde vilken ger samma kapitalvärdet.
 ![[Pasted image 20211129101633.png|500]]
 
+(Se exempel på alla modeller i OneNote)
+
+#### Annuitet - Ekonomisk livslängd
+- Annuitetsmetoden kan användas för att skatta $n_e$
+- Detta görs genom att söka det $n_e$ som maximerar annuiteten
+- Vid ersättningsinvesteringsproblem bör annuitetsmetoden användas. (när man jämför alternativ med olika livslängd)
+![[Pasted image 20211130091152.png|400]]
+**EXEMPEL:**
+![[Pasted image 20211130091247.png]]
+
+### Differensinvestering
+- Vid jämförelse mellan två exkluderande investeringar kan det underlätta att direkt jämföra skillnaden i betalningsflöde (diff.investering)
+- Typiskt subtraherar man då bort betalningsflödena hos alternativet med störst grundinvestering från motsvarande flöden hos alternativet med lägst grundinvestering (nollalternativet)
+- Metoden möjliggör jämförelse mellan olika alternativ med samma inbetalningar även om dessa inte är kända med alla metoder som täcks av kursen. 
+
+## Utvärderingsmetoder
+![[Pasted image 20211201092534.png]]
+
+## [[Inflation]]
+
+## Osäkerhet och risk
+- Resultatet av de kalkylerna som angivits är beroende av dataunderlag.
+Vill man undvika?
+Riskfria investering => låg avkastning
+Att försöka undvika osäkerhet och risk leder ofta till felaktiga beslutsregler
+- Payback för initial sållning
+				- Gynnar kortsiktiga investeringa på bekostnad av långsiktiga
+
+
 #indek

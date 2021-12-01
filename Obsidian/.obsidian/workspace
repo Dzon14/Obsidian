@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d21b22e7743c370f",
+        "id": "0658887b32844ee4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investeringsbedömning.md",
-            "mode": "preview"
+            "file": "Inflation.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investeringsbedömning.md",
+                "file": "Inflation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investeringsbedömning.md",
+                "file": "Inflation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Investeringsbedömning.md",
+                "file": "Inflation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,17 +176,17 @@
     "direction": "horizontal",
     "width": 244
   },
-  "active": "d21b22e7743c370f",
+  "active": "0658887b32844ee4",
   "lastOpenFiles": [
-    "Investeringsbedömning.md",
-    "Indek F16.md",
+    "Inflation.md",
+    "Indek F18.md",
     "Industriell Ekonomi.md",
-    "Resultaträkning och Balansräkning.md",
-    "Bokslutstablå.md",
+    "Investeringsbedömning.md",
+    "indu'.md",
     "Bokföring.md",
-    "Löpande Bokföring och Bokslut.md",
-    "BAS-kontoplanen.md",
-    "Hashtabeller.md",
-    "Indek F12.md"
+    "Simple Signal Assignment.md",
+    "DigTek F16.md",
+    "Digitalteknik.md",
+    "Indek F16.md"
   ]
 }

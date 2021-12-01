@@ -17,3 +17,5 @@ Föreläsningar:
 [[Indek F14]]
 [[Indek F15]]
 [[Indek F16]]
+[[Indek F17]]
+[[Indek F18]]
