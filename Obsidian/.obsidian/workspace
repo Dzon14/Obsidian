@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0658887b32844ee4",
+        "id": "b9870f581c10b68f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inflation.md",
+            "file": "Sortering.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inflation.md",
+                "file": "Sortering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inflation.md",
+                "file": "Sortering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inflation.md",
+                "file": "Sortering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,19 +174,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 100
   },
-  "active": "0658887b32844ee4",
+  "active": "b9870f581c10b68f",
   "lastOpenFiles": [
+    "Sortering.md",
+    "Divide and conquer.md",
+    "Marknadsorientering.md",
+    "Hashtabeller.md",
+    "Bokföring.md",
     "Inflation.md",
     "Indek F18.md",
     "Industriell Ekonomi.md",
     "Investeringsbedömning.md",
-    "indu'.md",
-    "Bokföring.md",
-    "Simple Signal Assignment.md",
-    "DigTek F16.md",
-    "Digitalteknik.md",
-    "Indek F16.md"
+    "indu'.md"
   ]
 }
