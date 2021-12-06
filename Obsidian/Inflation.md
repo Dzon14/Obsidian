@@ -1,5 +1,5 @@
 # Inflation och kalkylränta (enligt Dynamisk kalkyl)
-- Nominell ränta $i_n$ är rätan i pengar
+- Nominell ränta $i_n$ är räntan i pengar
 - Real räntan $i_r$ är räntan i köpkraft
 - Ju högre inflation, q, ju större skillnad mellan dessa räntor. 
 ![[Pasted image 20211201085133.png|300]]

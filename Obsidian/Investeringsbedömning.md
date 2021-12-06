@@ -34,7 +34,7 @@ $Nuvärde = Slutvärde / (1+i)^n$
 ### Kapitalvärdesmetoden
 - Kallas även Nuvärdesmetoden, Nettonuvärde eller NPV
 - Teoretisk överlägsen
-- Beräkna summan av nuvärädet av alla framtida kassaflöden
+- Beräkna summan av nuvärdet av alla framtida kassaflöden
 ![[Pasted image 20211129095241.png|350]]
 - Investera om kapitalvärdet är positivt
 
