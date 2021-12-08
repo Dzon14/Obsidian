@@ -14,7 +14,7 @@ SE [[HashSet]] och [[HashMap]]
 ## Implementering
 - Elementen sprids ut i en vektor
 - Söknyckeln måste översättas till ett index i vektorn. Sker i två steg:
-1. Hashfunktionen avbildar nyckeln på heltad (hashkod)
+1. Hashfunktionen avbildar nyckeln på heltal (hashkod)
 2. Hashkoden måste skalas ned så att den passar som index i vektorn (t.ex hashkod mod vektorns storlek)
 
 Hashfunktionen ska översätta nyckeln till ett heltal
@@ -29,7 +29,7 @@ Hashfunktionen ska översätta nyckeln till ett heltal
 ## Kollisioner
 - Kollisioner (olika nycklar får samma index) är oundvikligt men kan hanteras.
 1. Metoden hashcode kan returnera samma värde för två olika nycklar.
-2. Och även om hashcode returnerat olika värde kan flera element hamna på samma index (key.hashCode() % table.length)
+2. Och även om hashcode returnerat olika värde kan flera element hamna på samma index (key.hashCode() % table.length, ger index i en vektor tabell)
 
 En bra hashfunktion:
 - Välj en bra hashfunktion som påverkas av alla delar av nyckeln och sprider elementen över hela tabellen

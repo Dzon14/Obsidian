@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "bd86c3056de2e6a2",
+        "id": "07cc1033e9b3c997",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Backtracking.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Backtracking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,19 +174,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266
+    "width": 100
   },
-  "active": "bd86c3056de2e6a2",
+  "active": "07cc1033e9b3c997",
   "lastOpenFiles": [
+    "Backtracking.md",
+    "Prioritetskö.md",
+    "Heap.md",
+    "Hashtabeller.md",
+    "Heapar.md",
+    "Map.md",
+    "HashMap.md",
     "Energi.md",
     "Indek F19.md",
-    "Finansiering.md",
-    "Kapital.md",
-    "Industriell Ekonomi.md",
-    "Map.md",
-    "Indek F18.md",
-    "Investeringsbedömning.md",
-    "Inflation.md",
-    "Sortering.md"
+    "Finansiering.md"
   ]
 }
