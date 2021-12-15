@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07cc1033e9b3c997",
+        "id": "b85772b03df9500a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Backtracking.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +136,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backtracking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,19 +168,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 269
   },
-  "active": "07cc1033e9b3c997",
+  "active": "b85772b03df9500a",
   "lastOpenFiles": [
-    "Backtracking.md",
-    "Prioritetskö.md",
-    "Heap.md",
-    "Hashtabeller.md",
-    "Heapar.md",
-    "Map.md",
-    "HashMap.md",
-    "Energi.md",
+    "Anal F2.md",
+    "Förstärkare.md",
+    "Nullor.md",
+    "Superpositionsmodellen.md",
+    "Blacks modell.md",
+    "Analog Elektronik.md",
+    "Finansiering.md",
+    "Kapital.md",
     "Indek F19.md",
-    "Finansiering.md"
+    "Prioritetskö.md"
   ]
 }

@@ -45,4 +45,4 @@ Därför ska man **sortera direkt i vektorn**:
 2. Gör succesiva poll. Utnyttja de lediga platser i vektorn som uppstår vid poll för att lagra det sorterade resultatet. Blir O(logn)
 Detta kallas Heapify (eller buildheap), där man bygger om det träd vektorn representerar till en heap, nedifrån och upp.
 
-
+#prog 

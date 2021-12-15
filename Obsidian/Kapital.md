@@ -85,4 +85,8 @@ Eget:
 - Blandat främmande/eget kapital 
 - Kan konvertera lån till aktier
 
-#indek ## [[Kapital]]
+#indek 
+
+
+
+## [[Kapital]]
