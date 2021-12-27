@@ -13,6 +13,6 @@ aliases: [AB]
 	- Styrelse
 	- VD
 - Minst en revisor (kontrollorgan)
-![[Pasted image 20211102152507.png | 400]]
+![[Pasted image 20211102152507.png |600]]
 
 #indek 

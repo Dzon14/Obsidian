@@ -16,12 +16,12 @@ T.ex arrays.sort(lambdauttryck)
 Sätt in element i redan sorterad följd upprepade gånger.
 Långsam, kvadratisk tidskomplexitet
 passar bra i speciella sammanhang och är enkla att implementera (två nästlade for-loopar)
-![[Pasted image 20211202142757.png|400]]
+![[Pasted image 20211202142757.png|500]]
 ```java
 public static void sort(int[] a) {
 	for (int pos = 1; pos < a.length; pos++) {
 		int nextVal = a[pos]; //nästa element att sortera in
-		inte nextPos = pos;
+		int nextPos = pos;
 		while (nextPos > 0 && nextVal < a[nextPos - 1]) {
 			a[nextPos] = a[nextPos - 1];
 			nextPos--;

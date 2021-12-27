@@ -3,7 +3,7 @@ aliases: [priorityqueue]
 ---
 
 # Prioritetskö
-En abstrakt datatyp. De viktiga först
+En [[Abstrakt datatyp]]. De viktiga först
 Borttagning avser alltid med prioriterade (minsta)
 Ska innehålla:
 	- offer - sätta in element

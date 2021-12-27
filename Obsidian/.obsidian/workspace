@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "872b8f00e2717976",
+    "id": "920f44f14d8c8f5b",
     "type": "split",
     "children": [
       {
-        "id": "b85772b03df9500a",
+        "id": "6bbecbe9b42dd5e9",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 269
   },
-  "active": "b85772b03df9500a",
+  "active": "6bbecbe9b42dd5e9",
   "lastOpenFiles": [
-    "Anal F2.md",
-    "Förstärkare.md",
-    "Nullor.md",
-    "Superpositionsmodellen.md",
-    "Blacks modell.md",
-    "Analog Elektronik.md",
-    "Finansiering.md",
-    "Kapital.md",
-    "Indek F19.md",
-    "Prioritetskö.md"
+    "Rekursion.md",
+    "Datastruktur.md",
+    "Brytningsindex.md",
+    "Ljus.md",
+    "Tidskomplexitet.md",
+    "Stack.md",
+    "Lista.md",
+    "Iteratorer.md",
+    "Aktiebolag.md",
+    "ABC-Kalkyl.md"
   ]
 }
