@@ -14,7 +14,7 @@ T.ex arrays.sort(lambdauttryck)
 	
 ## Insättningssortering (insert sort)
 Sätt in element i redan sorterad följd upprepade gånger.
-Långsam, kvadratisk tidskomplexitet
+Långsam, kvadratisk tidskomplexitet (O(n^2))
 passar bra i speciella sammanhang och är enkla att implementera (två nästlade for-loopar)
 ![[Pasted image 20211202142757.png|500]]
 ```java
@@ -95,6 +95,15 @@ private static void quickSort(int[] a, int first, inte last) {
 Tidskomplexitet i bästa fall är O(logn) (och medelfall)
 I värsta fall blir det O($n^2$)
 Quicksort behöver inget extra minnesutrymme för temporär vektor
+
+## Quicksort vs Mergesort
+Quicksort:
+- Snabb i medelfall (O(nlogn)), men O(n^2) i värsta fall. 
+- Behöver inget extra minnesutrymme för temporär vektor
+
+Mergesort:
+	- O(nlogn) i både medel- och värsta fall.
+	- Stabil 
 
 #prog 
 	

@@ -2,5 +2,6 @@
 
 # Innehåll:
 [[Investeringsbedömning]] 
+[[Inflation]]
 
 #indek 

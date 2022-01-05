@@ -1,4 +1,4 @@
-# Industriell Ekonomi #indek
+# Industriell Ekonomi 
 Allmänn info:
 
 Föreläsningar:
@@ -20,3 +20,5 @@ Föreläsningar:
 [[Indek F17]]
 [[Indek F18]]
 [[Indek F19]]
+
+#indek

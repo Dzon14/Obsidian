@@ -2,7 +2,7 @@
 - Svensk standard för systemering och kodning av företags redovisningstransaktioner
 - Kan ses som en kontokatalog från vilket företag väljer konton som passar för just deras verksamhet
 ### Grundprinciper
-1. Registrering av redovisningstransaktioner mellan företaget och omvärlden dvs [[Affärsredovisning]]
+1. Registrering av redovisningstransaktioner mellan företaget och omvärlden dvs **Affärsredovisning**
 2. Klassificeringen är baserad på den dubbla bokföringens principer
 3. Grundsystematiken är anpassad till Bokföringslagen och Årsredovisningslagen samt rekommendationer om God Redovisningssed från normgivande organ 
 4. BAS-kontoplanens resultatkonton är indelade efter inkomst/intäktsslag och utgifts/kostnadsslag

@@ -1,6 +1,6 @@
 ## Momsredovisning
 - Moms (mervärdesskatt) är en statlig omsättningsskatt som ska bäras av slutkonsumenter av varor och tjänster
-- Momesn utgör ingen kostnad för företagen och de kan betraktas som "momsadministratörer"
+- Momsen utgör ingen kostnad för företagen och de kan betraktas som "momsadministratörer"
 		- Vid inköp uppstår en fordran på staten för momsutgiften (ingående moms)
 		- Vid försäljning uppstår en skuld till staten för momsinkomsten (utgående moms)
 - Vid momsredovisningsperiodens slut regleras skillnaden mellan ingående och utgående moms

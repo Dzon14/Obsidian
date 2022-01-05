@@ -4,10 +4,10 @@
 	- Inget insatskaptial, ägaren är personligt ansvarig med hela sin förmögenhet
 	- Företagets vinst beskattas hos ägaren
 - Handelsbolag (HB)
-	- Två eller flera ägare som träffat avtal om gemensam firma med ett namn som innehåller oder HB
-	- ägarna är solidarkst ansvariga för företagets åtagande.
+	- Två eller flera ägare som träffat avtal om gemensam firma med ett namn som innehåller ordet HB
+	- ägarna är solidariskt ansvariga för företagets åtagande.
 	- Juridisk person som kan sluta avtal
-	- Vinst beskattas gos ägarna
+	- Vinst beskattas hos ägarna
 - Kommanditbolag (KB)
 	- form av HB där ägare är ansvariga för bolagets skulder endast med sina insatser
 - Ekonomisk förening
