@@ -12,5 +12,8 @@ Verklig tidsåtgång: $t(n) = c \cdot T(n)$, där c är en konstant och beror p�
 
 ![[Pasted image 20211229172723.png]]
 
+![[Pasted image 20220111204125.png]]
+
 
 #prog 
+

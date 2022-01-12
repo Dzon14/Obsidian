@@ -3,7 +3,7 @@ En typ av datatypen [[Map]]
 
 - Implementerar en map (nyckel-värde tabell). Nycklarna är unika.
 - Balanserat binärt sökträd (röd-svarta-träd)
-- Tidskomplexitet för sökning, insättning och borttagning är O(log(n))
+- [[Tidskomplexitet]] för sökning, insättning och borttagning är O(log(n))
 
 I en TreeMap är det nyckelklassen som ska implementera Comparable(om man inte använder konstruktorn med parameter av Comparator)
 

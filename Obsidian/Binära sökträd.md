@@ -43,10 +43,10 @@ Här är ordningen: 2, 4, 5, 6, 8, 9
  ![[Pasted image 20211120131916.png|450]]
  
 ## Binära sökträd - [[Tidskomplexitet]]
-- En traversering genom alla noderna i ett träd med n noder har tidskomplexiteten O(n). (varje nod besöks en gång)
+- En traversering genom alla noderna i ett träd med n noder har [[Tidskomplexitet|tidskomplexiteten]] O(n). (varje nod besöks en gång)
 - Den längst grenen i träder har h noder (h är trädets höjd)
 - Man kan visa att 2_log(n + 1) <= Höjden <= n
-- De tre operationerna har tidskomplexiteten O(2_log(n)) i bästa fall och O(n) o värsta fall.
+- De tre operationerna har [[Tidskomplexitet|tidskomplexiteten]] O(2_log(n)) i bästa fall och O(n) o värsta fall.
 
 Den idealiska formen på ett binärt sökträd:
 - Alla nivåer utom möjligen den högsta, har så många noder som möjligt.

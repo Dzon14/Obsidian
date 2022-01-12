@@ -3,7 +3,7 @@ aliases: [mängd]
 ---
 
 # Interfacet Set
-se [[TreeSet]]
+se [[TreeSet]] och [[HashSet]]
 
 
 

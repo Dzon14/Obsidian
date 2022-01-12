@@ -6,7 +6,7 @@ För att förenkla vissa algoritmer.
 Sortera vektorer:
 public static sort(int[] items)
 public static void sort(Object[] items)
-	- Dessa jämförs med compareTo.
+	- Dessa jämförs med compareTo. (comparable ..)
 Public static < T > void sort(T[] items, Comparator< ? super T> comp)
 	- jämförs med comp.compare
 	
@@ -14,7 +14,7 @@ T.ex arrays.sort(lambdauttryck)
 	
 ## Insättningssortering (insert sort)
 Sätt in element i redan sorterad följd upprepade gånger.
-Långsam, kvadratisk tidskomplexitet (O(n^2))
+Långsam, kvadratisk [[Tidskomplexitet]] (O(n^2))
 passar bra i speciella sammanhang och är enkla att implementera (två nästlade for-loopar)
 ![[Pasted image 20211202142757.png|500]]
 ```java
@@ -34,7 +34,7 @@ public static void sort(int[] a) {
 
 ## Urvalssortering (selection sort)
 Välj minst upprepade gånger
-Långsam, kvadratisk tidskomplexitet (både för medelfall och värsta fall)
+Långsam, kvadratisk [[Tidskomplexitet]] (både för medelfall och värsta fall)
 passar bra i speciella sammanhang och är enkla att implementera (två nästlade for-loopar)
 ![[Pasted image 20211202142426.png|400]]
 
@@ -92,7 +92,7 @@ private static void quickSort(int[] a, int first, inte last) {
 - Fortsätt tills hela vektorn genomletats.
 - Pivotelementet kan sättas in mellan de båda vektordelarna som uppstår
 - Arbetet blir proportionellt mot vektorns längd
-Tidskomplexitet i bästa fall är O(logn) (och medelfall)
+[[Tidskomplexitet]] i bästa fall är O(logn) (och medelfall)
 I värsta fall blir det O($n^2$)
 Quicksort behöver inget extra minnesutrymme för temporär vektor
 
@@ -107,6 +107,9 @@ Mergesort:
 
 #prog 
 	
-	
+## Stabila sorteringsalgoritmer
+![[Pasted image 20220112202604.png]]
+
+
 	
 	

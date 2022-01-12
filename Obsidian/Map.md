@@ -3,7 +3,7 @@ aliases: [mappar, mappen]
 ---
 
 # Datatypen Map
-[[TreeMap]]
+[[TreeMap]] och  [[HashSet]]
 
 nyckel-värde tabell
 - nyckeln avbildas (maps) på sitt värde
