@@ -7,7 +7,7 @@ Användbart i program med stort antal element. Binära sökträd och [[Hashtabel
 
 Det är ett [[Binära träd|binärt träd]] där:
 - Alla värden som finns i noder i vänster subträd till n är mindre än värdet som finns i n. 
-- Alla värden som finns i norder i höger subträd till n är större än värdet som finns i n 
+- Alla värden som finns i noder i höger subträd till n är större än värdet som finns i n 
 - Dubletter tillåts alltså inte
 
 ## Inordertraversering av binära sökträd 

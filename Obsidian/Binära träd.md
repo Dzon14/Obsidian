@@ -11,7 +11,7 @@ I datavetenskap ritas träden upp och ned, dvs roten överst.
 - **Löv** - noder som saknar barn
 - **Gren** - en serie noder förbundna med varandra. 
 
-#### Rekursiv definition 
+#### [[Rekursion|Rekursiv]] definition 
 - Ett binärt träd är antingen tomt eller består av roten 0, 1 eller 2 subträd	
 
 ## Implementering av binära träd

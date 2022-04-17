@@ -49,7 +49,7 @@ $Nuvärde = Slutvärde / (1+i)^n$
 - Kapitalvärdet typiskt minskar med kalkylräntan (i)
 - Internräntan ($i_i$) är per def. den ränta som ger kapitalvärdet noll.
 ![[Pasted image 20211129101413.png|350]]
-- En investering bedömgs generellt som lönsam om internräntan är större än kalkylräntan
+- En investering bedömgs generellt som lönsam om **internräntan är större än kalkylräntan**
 - Nackdel: Går ej att enkelt utifrån resultat se om det är lönsamt eller ej
 
 ### Annuitetsmetoden

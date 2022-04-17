@@ -30,7 +30,7 @@ Se även:
 Många exemplen (t.ex n!) kan lösas icke-rekursivt. Ibland leder även rekursion till ineffektiva algoritmer.
 Det ska användas när:
 - Svårt att uttrycka lösningen icke-rekursivt
-- Finns en icke-rekursiv lösning men den rekursiva är effektivare. (t.ex sortering)
+- Finns en icke-rekursiv lösning men den rekursiva är effektivare. (t.ex [[sortering]])
 - När en rekursiv lösning är enklare att förstå, implementera osvosv. (t.ex binärsökning)
 
 #prog 

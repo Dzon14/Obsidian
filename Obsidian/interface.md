@@ -16,5 +16,8 @@ Ett interface kan innehålla:
 
 ![[Pasted image 20211222144145.png]]
 
+## Funktionellt interface
+Ett interface med en enda [[abstrakt metod]]. T.ex har interfacet Comparator bara den abstrakta metoden compare. 
+Ett funktionellt interface kan däremot använda flera statiska- och default-metoder. 
 #prog 
 

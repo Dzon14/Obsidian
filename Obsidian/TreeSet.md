@@ -4,7 +4,7 @@ Kan lite mer än en vanligt mängd som implementerar set.
 
 - Implementerar en mängd, elementen är unika
 - Balanserat binärt sökträd (röd-svarta träd)
-- Tidskomplecitet för sökning, insättning och borttagning är O(log(n))
+- Tidskomplexitet för sökning, insättning och borttagning är O(log(n))
 
 - Det finns flera konstruktorer i klassen, T.ex:
 		- public TreeSet();

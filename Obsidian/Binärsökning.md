@@ -1,5 +1,4 @@
 # Binärsökning 
-Titta här innan lab 5
 Funkar endast om vektorn är sorterad. 
 En teknik för att söka efter ett riktat värde eller t.ex en [[nyckel]] i en [[samling]]. 
 

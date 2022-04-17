@@ -8,7 +8,7 @@ Ex:
 Idé:
 - Prova en hypotes
 		- Notera detta i någon datastruktur
-- Undersök rekursivt lösningarna som återstår
+- Undersök [[Rekursion|rekursivt]] lösningarna som återstår
 - Basfall: lyckad eller misslyckad lösning
 
 ## Pseudokod för backtracking

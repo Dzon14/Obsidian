@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "3f99de11134edb16",
         "type": "leaf",
         "state": {
@@ -12,6 +13,13 @@
             "file": "Sortering.md",
             "mode": "preview"
           }
+=======
+        "id": "e7c0d12aeb667cd1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -48,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,10 +81,17 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "af8ae42043af6354",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+=======
+            "id": "c3e882f27fca0d9e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+>>>>>>> Stashed changes
               "state": {}
             }
           }
@@ -95,7 +109,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Sortering.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +140,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Sortering.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,20 +158,15 @@
             }
           },
           {
-            "id": "5978b345f8afa3c2",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "aead7cc2fd8e1962",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Sortering.md",
+=======
+>>>>>>> Stashed changes
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,6 +201,7 @@
     "direction": "horizontal",
     "width": 269
   },
+<<<<<<< Updated upstream
   "active": "3f99de11134edb16",
   "lastOpenFiles": [
     "Sortering.md",
@@ -198,5 +214,19 @@
     "Set.md",
     "TreeSet.md",
     "Map.md"
+=======
+  "active": "e7c0d12aeb667cd1",
+  "lastOpenFiles": [
+    "Prioritetskö.md",
+    "Heap.md",
+    "Sortering.md",
+    "Hashtabeller.md",
+    "Binära sökträd.md",
+    "TreeMap.md",
+    "TreeSet.md",
+    "träd.md",
+    "Binära träd.md",
+    "Datastruktur.md"
+>>>>>>> Stashed changes
   ]
 }

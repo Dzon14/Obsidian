@@ -38,11 +38,11 @@ Långsam, kvadratisk [[Tidskomplexitet]] (både för medelfall och värsta fall)
 passar bra i speciella sammanhang och är enkla att implementera (två nästlade for-loopar)
 ![[Pasted image 20211202142426.png|400]]
 
-## Mergesort
+## [[Mergesort]]
 Snabb metod
 Sortera vänstra halvan, sen högra halvan och sedan samsortera (merge) de båda sorterade halvorna
 
-Nedan används [[Divide and conquer]] tekniken i mergeSort.
+Nedan används [[Divide and conquer]] tekniken i [[mergeSort]].
 ```java
 public static void sort(int[] a) {
 	int[] tmpArray = new int[a.length];
@@ -70,7 +70,7 @@ private static void mergeSort(int[] a, int first, int last) {
 ## Quicksort
 - Välj ut ett element (pivotelement)
 - Partitionera vektorn: Flytta om elementen så att element <= pivot hamnar till vänster och element >= pivot hamnar till höger
-- Upprepa rekursivt på de båda delvektorerna till vänster respektive till höger om pivotelement
+- Upprepa [[Rekursion|rekursivt]] på de båda delvektorerna till vänster respektive till höger om pivotelement
 ```java
 public static void sort(int[] a) {
 	quickSort(a, 0, a.length - 1);
@@ -79,7 +79,7 @@ public static void sort(int[] a) {
 private static void quickSort(int[] a, int first, inte last) {
 	if (first < last) {
 		int pivIndex = partition(a, first, last);
-		quickSort(a, first, pivIndex + 1);
+		quickSort(a, first, pivIndex - 1);
 		quickSort(a, pivIndex + 1, last);
 	}
 }

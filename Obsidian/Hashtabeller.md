@@ -22,7 +22,7 @@ Hashfunktionen ska översätta nyckeln till ett heltal
 
 ## Metoden hashCode i Java
 - I klassen Object finns metoden hashCode som översätter ett objekt till ett heltal. 
-- Metoden hashCode är skuggad i Javas klasse String, Integer så att lika objekt ej avbildas på samma heltal.
+- Metoden hashCode är skuggad i Javas klass String, Integer så att lika objekt ej avbildas på samma heltal.
 - Man måste skugga hashCode och equals i den klass vars objekt ska fungera som nyckel i Javas hashtabellsklasser
 - hashCode och equals anropas inuti hashtabellsklassen
 
@@ -36,7 +36,7 @@ En bra hashfunktion:
 - Vektorn får inte vara för liten
 
 ## Sluten hashtabell
-En veltor används.
+En vektor används.
 Linjär teknik: 
 		- man sätter in ett element som kolliderar med ett annat första lediga plats efter den där det skulle ha hamnat om ingen kollision inträffat
 		- Tabellen betraktas som cirkulär, index 0 kommer alltså efter tableSize - 1.
@@ -65,7 +65,7 @@ Notera att talet som är sist i följen ska vara längst till vänster i listan.
 ## [[Tidskomplexitet]]
 - Sökning (och instättn. och borttagn.) i en hashtabell innebär
 		-  beräkning av index
-		-  Söjning bland kolliderande nycklar
+		-  Sökning bland kolliderande nycklar
 - I värsta fall är det O(n), där n är antalet element som finns insatta i tabellen.
 - Medelfall: O(1)
 

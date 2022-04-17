@@ -1,6 +1,0 @@
-# Programmering #prog
-
-## Språk
-[[Java]]
-
-

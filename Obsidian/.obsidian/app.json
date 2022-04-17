@@ -2,5 +2,6 @@
   "foldHeading": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "images",
-  "promptDelete": false
+  "promptDelete": false,
+  "legacyEditor": false
 }

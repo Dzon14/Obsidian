@@ -5,7 +5,7 @@ aliases: [listor, listan]
 En lista är en [[Abstrakt datatyp]] och är en följd av element.
 En vektor kan användas, men vanligtvis används länkad datastruktur. 
 		- Enkellänkad lista 
-		- Dubbellänkad listas
+		- Dubbellänkad lista
 Länkade listor använder nästlad klass (för att skapa en Node)
 
 ![[Pasted image 20211223170842.png]]
