@@ -62,6 +62,7 @@ Om ett binärt sökträd hålls balanserata kommer sökning, insättning och bor
 ### AVL-träd - Balanserade binära träd
 - Ett binärt träd är balanserat om det för varje nod i trädet gäller att höjdskillnaden mellan dess båda subträd är högst ett
 - I balanserade träd är höjden <= 1.44 * 2_log(n).
+![[Balanseratbinärtträd.png|500]]
 
 ## Klasserna [[TreeSet]] och [[TreeMap]]
 #prog 

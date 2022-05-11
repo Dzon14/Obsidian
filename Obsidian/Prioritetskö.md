@@ -44,7 +44,7 @@ Man kan sortera en vektor med strängar a, med hjälp av en heap. Detta kommer d
 =======
 ## [[Sortering]] med hjälp av en prioritetskö (Heapsort, mha Heapify)
 Man kan sortera en vektor med strängar a, med hjälp av en heap. Detta kommer dock ge stor tidskomplexitet och mycket arbetskraft.
->>>>>>> Stashed changes
+>>>>>>> Stashed changesO
 Därför ska man **sortera direkt i vektorn**:
 1. Bygg om den osorterade vektorn till en heap (utan användning av extern prioritetskö).  (maxheap om det ska vara växande ordning)
 2. Gör succesiva poll. Utnyttja de lediga platser i vektorn som uppstår vid poll för att lagra det sorterade resultatet. Blir O(logn)

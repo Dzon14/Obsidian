@@ -8,7 +8,7 @@ En vektor kan användas, men vanligtvis används länkad datastruktur.
 		- Dubbellänkad lista
 Länkade listor använder nästlad klass (för att skapa en Node)
 
-![[Pasted image 20211223170842.png]]
+o
 
 ![[Pasted image 20211223170903.png]]
 

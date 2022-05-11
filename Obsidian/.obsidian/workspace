@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "3f99de11134edb16",
+        "id": "95b1257769c06804",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sortering.md",
-            "mode": "preview"
+            "file": "Binära sökträd.md",
+            "mode": "preview",
+            "source": false
           }
-=======
-        "id": "e7c0d12aeb667cd1",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
->>>>>>> Stashed changes
         }
       }
     ],
@@ -81,22 +74,14 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "af8ae42043af6354",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-=======
             "id": "c3e882f27fca0d9e",
             "type": "leaf",
             "state": {
               "type": "todo",
->>>>>>> Stashed changes
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2a206e9f51f27a73",
@@ -109,16 +94,13 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Sortering.md",
-=======
->>>>>>> Stashed changes
+                "file": "Binära sökträd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -140,10 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Sortering.md",
-=======
->>>>>>> Stashed changes
+                "file": "Binära sökträd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,10 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Sortering.md",
-=======
->>>>>>> Stashed changes
+                "file": "Binära sökträd.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,32 +177,17 @@
     "direction": "horizontal",
     "width": 269
   },
-<<<<<<< Updated upstream
-  "active": "3f99de11134edb16",
+  "active": "95b1257769c06804",
   "lastOpenFiles": [
-    "Sortering.md",
-    "Prioritetskö.md",
-    "Heap.md",
-    "Tidskomplexitet.md",
     "Binära sökträd.md",
-    "Rekursion.md",
-    "HashSet.md",
-    "Set.md",
-    "TreeSet.md",
-    "Map.md"
-=======
-  "active": "e7c0d12aeb667cd1",
-  "lastOpenFiles": [
-    "Prioritetskö.md",
-    "Heap.md",
-    "Sortering.md",
-    "Hashtabeller.md",
-    "Binära sökträd.md",
-    "TreeMap.md",
-    "TreeSet.md",
     "träd.md",
     "Binära träd.md",
-    "Datastruktur.md"
->>>>>>> Stashed changes
+    "Sortering.md",
+    "Stack.md",
+    "Heap.md",
+    "Prioritetskö.md",
+    "Hashtabeller.md",
+    "HashMap.md",
+    "Lista.md"
   ]
 }
