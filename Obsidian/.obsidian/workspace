@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "95b1257769c06804",
+        "id": "a443ec86ea0cef8e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Binära sökträd.md",
-            "mode": "preview",
+            "file": "C++/C++.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 192
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binära sökträd.md",
+                "file": "C++/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binära sökträd.md",
+                "file": "C++/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Binära sökträd.md",
+                "file": "C++/C++.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,17 +176,17 @@
     "direction": "horizontal",
     "width": 269
   },
-  "active": "95b1257769c06804",
+  "active": "a443ec86ea0cef8e",
   "lastOpenFiles": [
-    "Binära sökträd.md",
-    "träd.md",
-    "Binära träd.md",
-    "Sortering.md",
-    "Stack.md",
-    "Heap.md",
-    "Prioritetskö.md",
-    "Hashtabeller.md",
-    "HashMap.md",
-    "Lista.md"
+    "C++/C++.md",
+    "C++/Formatflaggor.md",
+    "C++/Untitled 1.md",
+    "C++/Manipulatorer.md",
+    "C++/C++ Datatyper.md",
+    "C++/C++ tal och tecken.md",
+    "Programmering/Algoritm.md",
+    "Rekursion och listor.md",
+    "Programmering/Syntax.md",
+    "Algori.md"
   ]
 }
