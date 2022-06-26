@@ -11,6 +11,8 @@ Moduler:
 - [[C++ Datatyper]]
 - [[Manipulatorer]]
 - [[Formatflaggor]]
+- [[Switch-satsen]]
+- [[C++ funktion]]
 
 ## [[Syntax]]
 Snyggt att ha:
