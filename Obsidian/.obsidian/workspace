@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "b5e8409954205e30",
+        "id": "536c22a49904d4f1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++/C++ funktion.md",
+            "file": "C++/Array.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#prog",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C++.md",
+                "file": "C++/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/C++.md",
+                "file": "C++/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C++/C++.md",
+                "file": "C++/Array.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,9 +189,10 @@
     "direction": "horizontal",
     "width": 269
   },
-  "active": "a443ec86ea0cef8e",
+  "active": "536c22a49904d4f1",
   "lastOpenFiles": [
     "C++/C++.md",
+    "C++/Array.md",
     "C++/C++ funktion.md",
     "Programmering/Switch-satsen.md",
     "C++/Formatflaggor.md",
@@ -198,7 +200,6 @@
     "C++/Manipulatorer.md",
     "C++/C++ Datatyper.md",
     "C++/C++ tal och tecken.md",
-    "Programmering/Algoritm.md",
-    "Rekursion och listor.md"
+    "Programmering/Algoritm.md"
   ]
 }
