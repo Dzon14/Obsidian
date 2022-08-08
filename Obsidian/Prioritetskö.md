@@ -38,10 +38,7 @@ Det finns flera konstruktorer, bl.a
 		-Elementen jämförs med hjälp av comparator c
 		- Kan använda lambdauttryck här
 
-<<<<<<< Updated upstream
-## Sortering med hjälp av en prioritetskö (Heapsort, mha Heapify)
-Man kan sortera en vektor med strängar a, med hjälp av en heap. Detta kommer dock ge stor [[Tidskomplexitet]] och mycket arbetskraft.
-=======
+
 ## [[Sortering]] med hjälp av en prioritetskö (Heapsort, mha Heapify)
 Man kan sortera en vektor med strängar a, med hjälp av en heap. Detta kommer dock ge stor tidskomplexitet och mycket arbetskraft.
 >>>>>>> Stashed changesO

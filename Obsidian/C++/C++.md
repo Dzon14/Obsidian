@@ -14,7 +14,12 @@ Moduler:
 - [[Switch-satsen]]
 - [[C++ funktion]]
 - [[Array]]
-- 
+- [[String]]
+- [[Läsning]]
+- [[Filer]]
+- [[Kodstruktur]]
+- [[Filuppdelning]]
+- [[Pekare]]
 
 ## [[Syntax]]
 Snyggt att ha:
@@ -33,6 +38,11 @@ Måste alltid innehålla:
 ```C
 #include <iostream>      
 using namespace std;
+```
+
+För att använda string behövs:
+```c
+#include <string>
 ```
 
 Kan använda endl ist för \n för radbyte.
@@ -58,6 +68,9 @@ cout << "Summan= "<< sum << endl;
 cin >> a >> b;
 ```
 Här matas två tal in som skrivs i terminalen.
+
+**Escape-sekvenser**
+![[Pasted image 20220725192332.png|1500]]
 
 **Identifierare**
 - Variabel-, konstant- eller funktionsnamn.

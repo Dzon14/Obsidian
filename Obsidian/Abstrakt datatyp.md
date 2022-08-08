@@ -12,4 +12,6 @@ En abstrakt modell tillsammans med de operationer man kan utföra på den
 - [[Set|mängd]]
 - [[Map]]
 
+![[KlasseriJFC.png]]
+
 #prog 

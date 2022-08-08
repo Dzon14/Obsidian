@@ -18,5 +18,8 @@ ArrayList: Implementeras mha en vektor
 LinkedList: använder en cirkulär, dubbellänkad struktur
 ![[Pasted image 20211223171452.png]]
 
+![[Pasted image 20220808132510.png]]
+
+
 #prog 
 
