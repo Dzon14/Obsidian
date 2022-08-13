@@ -12,7 +12,7 @@ I datavetenskap ritas träden upp och ned, dvs roten överst.
 - **Gren** - en serie noder förbundna med varandra. 
 
 #### [[Rekursion|Rekursiv]] definition 
-- Ett binärt träd är antingen tomt eller består av roten 0, 1 eller 2 subträd	
+- Ett binärt träd är antingen tomt **eller** består av roten och 0 eller fler subträd.
 
 ## Implementering av binära träd
 ```java
@@ -52,7 +52,7 @@ public void print() {
 	print(root);
 }
 
-private void print(Node<E> m) {
+private void print(Node<E> n) {
 	if (n != null) {
 	System.out.println(n.data);
 	print(n.left)
@@ -90,5 +90,16 @@ private void print(Node<E> n) {
 	}
 }
 ``` 
+
+
+## Höjd och djup
+- Rotens djup/nivå är 1. 
+- En nod som inte är rot har nivå = förälderns nivå + 1.
+- Ett tomt träd har höjden 0.
+- Om inte tomt - höjd är maximala nivån för noderna i trädet.
+
+## Strikt binärt
+- Ett träd är strikt binärt om varje nod har noll eller två barn. D.v.s. alla noder som inte är löv har två barn.
+![[Pasted image 20220809103420.png]]
 
 #prog 

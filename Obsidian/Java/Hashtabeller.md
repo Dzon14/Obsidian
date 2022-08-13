@@ -19,6 +19,8 @@ SE [[HashSet]] och [[HashMap]]
 
 Hashfunktionen ska översätta nyckeln till ett heltal
 		- Om nyckeln är ett heltal kan hashkoden vara talet själv.
+		- 
+![[Pasted image 20220809135409.png]]
 
 ## Metoden hashCode i Java
 - I klassen Object finns metoden hashCode som översätter ett objekt till ett heltal. 
@@ -81,9 +83,8 @@ Då måste man bygga om tabellen:
 	Sätt in alla element i den nya tabellen
 	
 	
-
-
-
+## Skuggning av hashCode och equals
+![[Pasted image 20220809140055.png|600]]
 
 
 

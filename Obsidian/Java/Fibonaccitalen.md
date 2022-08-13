@@ -53,6 +53,6 @@ private static long fib(int n, long[] table) {}
 	return table[n];
 }
 ```
-Detta har linjär [[tidskomplexitet]]
+Detta har linjär [[Tidskomplexitet]]
 
 #prog 

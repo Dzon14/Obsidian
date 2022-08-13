@@ -1,5 +1,5 @@
 ---
-aliases: [Binära sökträden, binära sökträdet]
+aliases: [Binära sökträden, binära sökträdet, binärt sökträd]
 ---
 # Binära sökträd
 En [[Datastruktur]] som passar för sökning.
@@ -109,7 +109,7 @@ public class BimarySearchTree<E> {
 	}		
 }
 ```
-Man kan även använda [[interface|interfacet]] Comparator för att jämföra element i trädklassen. 
+Man kan även använda [[interface|interfacet]] Comparator för att jämföra element i trädklassen (vilket är smidigare). 
 Det ger oss möjlighet att jämföra objekt av en klass på flera olika sätt. Man kan använda lambauttryck för att skapa detta. (compare-metod).
 En parameter behövs då i konstruktorn. och följande deklareras i konstruktorn:
 comp = (e1, e2) -> ((Comparable<E>) e1).compareTo(e2);

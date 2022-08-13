@@ -1,7 +1,7 @@
 ---
 aliases: [rekursivt, rekursiv]
 ---
-# Rekursion #prog 
+# Rekursion
 Att tänka rekursivt: "Jag fyller ett år mer än förra året"
 [[metoder]] som anropar sig själva.
 Det går att definiera många [[Datastruktur|datastrukturer]] rekursivt, t.ex: [[Lista|listor]] och [[träd]].
@@ -18,7 +18,7 @@ public static long factorial (int n) {
 ```
 
 ### [[Exekvering]] och [[metodanrop]]:
-![[Pasted image 20211102103234.png | 500]]
+![[Pasted image 20211102103234.png | 700]]
 
 Se även:
 [[Rekursiv metod]]
@@ -30,7 +30,7 @@ Se även:
 Många exemplen (t.ex n!) kan lösas icke-rekursivt. Ibland leder även rekursion till ineffektiva algoritmer.
 Det ska användas när:
 - Svårt att uttrycka lösningen icke-rekursivt
-- Finns en icke-rekursiv lösning men den rekursiva är effektivare. (t.ex [[sortering]])
+- Finns en icke-rekursiv lösning men den rekursiva är effektivare. (t.ex [[Sortering]])
 - När en rekursiv lösning är enklare att förstå, implementera osvosv. (t.ex binärsökning)
 
 #prog 

@@ -13,7 +13,7 @@ Ska innehålla:
 - Elementet innehåller ett eller flera attribut som modellerar elementets prioriter. 
 - Dubletter är tillåtna
 
-Kan användas vid [[sortering]] - heapsort
+Kan användas vid [[Sortering]] - heapsort
 
 En prioritetskö är stabil om element med lika prioritet plockas ut i samma ordning som de sattes in
 

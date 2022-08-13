@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e6188f15886782e0",
+        "id": "da8f123b7a330efb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lista.md",
-            "mode": "source",
+            "file": "Java/Sortering.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lista.md",
+                "file": "Java/Sortering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lista.md",
+                "file": "Java/Sortering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lista.md",
+                "file": "Java/Sortering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,17 +176,17 @@
     "direction": "horizontal",
     "width": 269
   },
-  "active": "e6188f15886782e0",
+  "active": "da8f123b7a330efb",
   "lastOpenFiles": [
-    "interface.md",
-    "C++/Pekare.md",
-    "C++/C++.md",
-    "C++/Filuppdelning.md",
-    "C++/Kodstruktur.md",
-    "C++/Filer.md",
-    "Generiska klasser.md",
-    "Abstrakt datatyp.md",
-    "Set.md",
-    "HashSet.md"
+    "abstrakt metod.md",
+    "Java/interface.md",
+    "Java/Stack.md",
+    "Java/Prioritetskö.md",
+    "Heap.md",
+    "Java/Binära sökträd.md",
+    "Java/Abstrakt datatyp.md",
+    "Java/Set.md",
+    "Java/FIFO-kö.md",
+    "Java/Lista.md"
   ]
 }
