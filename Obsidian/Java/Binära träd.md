@@ -2,7 +2,7 @@
 aliases: [binära träden, binära trädet, binärt träd]
 ---
 # Binära träd 
-Binär träd är en [[Datastruktur]] och ett [[träd]] där varje nod har max två "barn". Går uppifrån ner. 
+Binärt träd är en [[Datastruktur]] och ett [[träd]] där varje nod har max två "barn". Går uppifrån ner. 
 ![[Pasted image 20211112140426.png]] 
 
 ## Terminologi

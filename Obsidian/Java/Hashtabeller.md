@@ -25,7 +25,7 @@ Hashfunktionen ska översätta nyckeln till ett heltal
 ## Metoden hashCode i Java
 - I klassen Object finns metoden hashCode som översätter ett objekt till ett heltal. 
 - Metoden hashCode är skuggad i Javas klass String, Integer så att lika objekt ej avbildas på samma heltal.
-- Man måste skugga hashCode och equals i den klass vars objekt ska fungera som nyckel i Javas hashtabellsklasser
+- Man måste [[Skuggning|skugga]] hashCode och equals i den klass vars objekt ska fungera som nyckel i Javas hashtabellsklasser
 - hashCode och equals anropas inuti hashtabellsklassen
 
 ## Kollisioner
@@ -83,7 +83,7 @@ Då måste man bygga om tabellen:
 	Sätt in alla element i den nya tabellen
 	
 	
-## Skuggning av hashCode och equals
+## [[Skuggning]] av hashCode och equals
 ![[Pasted image 20220809140055.png|600]]
 
 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "da8f123b7a330efb",
+        "id": "ff45fe9abfd09707",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Sortering.md",
+            "file": "Java/Binära sökträd.md",
             "mode": "preview",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Sortering.md",
+                "file": "Java/Binära sökträd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Sortering.md",
+                "file": "Java/Binära sökträd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Java/Sortering.md",
+                "file": "Java/Binära sökträd.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,17 +176,17 @@
     "direction": "horizontal",
     "width": 269
   },
-  "active": "da8f123b7a330efb",
+  "active": "ff45fe9abfd09707",
   "lastOpenFiles": [
+    "Java/Binära träd.md",
+    "Java/Skuggning.md",
+    "C++/C++.md",
+    "C++/C++ funktion.md",
+    "C++/Manipulatorer.md",
+    "Java/Sortering.md",
+    "Parameter.md",
     "abstrakt metod.md",
     "Java/interface.md",
-    "Java/Stack.md",
-    "Java/Prioritetskö.md",
-    "Heap.md",
-    "Java/Binära sökträd.md",
-    "Java/Abstrakt datatyp.md",
-    "Java/Set.md",
-    "Java/FIFO-kö.md",
-    "Java/Lista.md"
+    "Java/Stack.md"
   ]
 }
