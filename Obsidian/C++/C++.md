@@ -20,6 +20,7 @@ Moduler:
 - [[Kodstruktur]]
 - [[Filuppdelning]]
 - [[Pekare]]
+- [[Klass]]
 
 ## [[Syntax]]
 Snyggt att ha:
