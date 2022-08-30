@@ -11,7 +11,7 @@
       "query": "tag:#fysik",
       "color": {
         "a": 1,
-        "rgb": 5426144
+        "rgb": 15230105
       }
     },
     {
@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 15539485
       }
+    },
+    {
+      "query": "tag:#el",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.29299287410926,
+  "lineSizeMultiplier": 1.12968378859857,
   "collapse-forces": false,
-  "centerStrength": 0.498263888888889,
+  "centerStrength": 0.509501187648456,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.07228952715404138,
+  "scale": 0.1494762600733122,
   "close": true
 }

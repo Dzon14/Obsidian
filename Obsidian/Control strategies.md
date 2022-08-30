@@ -6,5 +6,7 @@
 
 [[Proportional control strategy]]
 
+[[Derivative control strategy]]
+
 
 #regler
