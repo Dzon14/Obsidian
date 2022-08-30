@@ -4,24 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "ff45fe9abfd09707",
+        "id": "5a02cd1211a480d3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++/C++.md",
+            "file": "Reglerteknik/RegTek F1.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "73496d2c7401a9a9",
+        "id": "a5ca202505e37da2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++/Klass.md",
+            "file": "Reglerteknik/PID-controller.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c75d677e473f799d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reglerteknik/Integral control strategy.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#prog",
+                "query": "tag:#regler",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,7 @@
             }
           },
           {
-            "id": "c3e882f27fca0d9e",
+            "id": "8db6e30c1fa6dd47",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Klass.md",
+                "file": "Reglerteknik/PID-controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Klass.md",
+                "file": "Reglerteknik/PID-controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C++/Klass.md",
+                "file": "Reglerteknik/PID-controller.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,17 +200,17 @@
     "direction": "horizontal",
     "width": 269
   },
-  "active": "73496d2c7401a9a9",
+  "active": "a5ca202505e37da2",
   "lastOpenFiles": [
-    "C++/C++.md",
-    "Java/Prioritetskö.md",
-    "Heap.md",
-    "Java/Sortering.md",
-    "Java/Binära sökträd.md",
-    "Java/Binära träd.md",
-    "Java/Skuggning.md",
-    "C++/C++ funktion.md",
-    "C++/Manipulatorer.md",
-    "Parameter.md"
+    "Reglerteknik/Integral control strategy.md",
+    "Reglerteknik/PID-controller.md",
+    "Reglerteknik/RegTek F1.md",
+    "Control strategies.md",
+    "Reglerteknik/OnOff regulator (control strategy).md",
+    "Reglerteknik/Proportional control strategy.md",
+    "Example.md",
+    "Reglerteknik/Reglertekink.md",
+    "String.md",
+    "Abstraktion DigitalTeknik.md"
   ]
 }

@@ -16,3 +16,5 @@ Att använda lambdauttryck funkar endast om det aktuella interfacet är ett funk
 ## Syntax
 ![[lambdauttryck1.png|500]]
 ![[lambdauttryck2.png|500]]
+
+#prog 

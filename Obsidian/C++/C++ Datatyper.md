@@ -24,3 +24,5 @@ Oftast gäller:
 
 ## Avrundningar
 ![[Pasted image 20220623220713.png]]
+
+#prog 

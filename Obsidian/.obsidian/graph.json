@@ -11,7 +11,7 @@
       "query": "tag:#fysik",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5426144
       }
     },
     {
@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 14735186
       }
+    },
+    {
+      "query": "tag:#regler",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#matte",
+      "color": {
+        "a": 1,
+        "rgb": 15539485
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.08000151268506303,
+  "scale": 0.07228952715404138,
   "close": true
 }
