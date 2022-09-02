@@ -4,7 +4,7 @@ aliases: [DigSig, Signals]
 ---
 
 # Digital Signalbehandling
-
+![[Pasted image 20220831081724.png]]
 
 ## Föreläsningar
 - [[DigSig F1]]

@@ -1,4 +1,7 @@
-## State-space model
+---
+aliases: [state-space form, state-space]
+---
+# State-space model
 With a balance equation, the process can be described by means of a differential equation. In some cases these equations are linear but they are mostly non-linear. 
 
 

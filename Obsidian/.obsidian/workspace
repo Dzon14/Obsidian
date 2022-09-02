@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "51e1a18c36d07cc6",
+        "id": "a8e7496c44a0d066",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reglerteknik/RegTek F3.md",
+            "file": "Reglerteknik/Reglerteknik.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9446c1d51f4ce590",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Digital Signalbehandling/Kausalitet.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#regler",
+                "query": "Initial value theore",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reglerteknik/RegTek F3.md",
+                "file": "Digital Signalbehandling/Kausalitet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reglerteknik/RegTek F3.md",
+                "file": "Digital Signalbehandling/Kausalitet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reglerteknik/RegTek F3.md",
+                "file": "Digital Signalbehandling/Kausalitet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,17 +188,17 @@
     "direction": "horizontal",
     "width": 269
   },
-  "active": "51e1a18c36d07cc6",
+  "active": "9446c1d51f4ce590",
   "lastOpenFiles": [
+    "Reglerteknik/RegTek F4.md",
     "Reglerteknik/Reglerteknik.md",
-    "Digital Signalbehandling/Digital Signalbehandling.md",
-    "Digital Signalbehandling/DigSig F2.md",
-    "Reglerteknik/RegTek F3.md",
-    "Reglerteknik/RegTek F2.md",
+    "Reglerteknik/PID-controller.md",
+    "Reglerteknik/RegTek F1.md",
     "Reglerteknik/Transfer function.md",
+    "Reglerteknik/Relation between poles and step response.md",
+    "Reglerteknik/Stegsvar.md",
+    "Reglerteknik/RegTek F3.md",
     "Laplacetransform.md",
-    "Reglerteknik/State-space model.md",
-    "Reglerteknik/Linearization.md",
-    "Reglerteknik/First principle models.md"
+    "partialbråksuppdelning.md"
   ]
 }

@@ -17,7 +17,7 @@ where f and g are nonlinear functions of x and u we need to follow four steps:
 2) Make Taylor series expansions of f and g around $(x_0,u_0)$. Keep only the first order terms. ![[Pasted image 20220830213209.png]]
 Note that $f(x_0,u_{0}) = 0$ and introduce the notion $y_{0}= g(x_0,u_0)$.
 
-3) Introduce the new variables $$\Delta x = x - x_{0}$$$$\Delta u = u - u_{0}$$$$\Delta y = y - y_0$$
+3) Introduce the new variables $$ \begin{align}\Delta x = x - x_{0} \\ \Delta u = u - u_{0} \\ \Delta y = y - y_{0} \end{align}$$
 4) The state space equations in the new variables are given by![[Pasted image 20220830214104.png]]
 
 Note that f and x are vectors. For ex. a second order system, with the two states $x_1$ and $x_2$, a measurement signal y and a control signal u it holds that

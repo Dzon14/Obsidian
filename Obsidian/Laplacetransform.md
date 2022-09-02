@@ -1,5 +1,5 @@
 ---
-aliases: [Laplace transformation, laplace]
+aliases: [Laplace transformation, laplace, laplace transform]
 ---
 
 # Laplacetransformation
@@ -9,3 +9,7 @@ aliases: [Laplace transformation, laplace]
 ![[Pasted image 20220830215434.png]]
 
 ![[Pasted image 20220830220128.png]]
+
+Lägg in tabell från kurssida
+
+
