@@ -22,6 +22,7 @@ Mail: Richard.pates@control.lth.se
  [[RegTek F3]]
  [[RegTek F4]]
  [[RegTek F5]]
+ [[RegTek F6]]
 
 ## Laborationer
 

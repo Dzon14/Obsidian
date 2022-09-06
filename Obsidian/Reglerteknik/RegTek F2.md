@@ -6,11 +6,8 @@ There are two predominant ways to obtain a dynamical model of a process. One is 
 
 ## Topics:
 - [[First principle models]]
-
 - [[Linearization]]
-
 - [[State-space model]]
-
 - [[Transfer function]]
 
 #regler 

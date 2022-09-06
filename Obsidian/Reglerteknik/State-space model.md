@@ -22,6 +22,8 @@ D - 1x1 matrix
 - Eg. if we have a second order diff.eq. we have n = 2 and we need two state variables to write the equation in space form as following:
 $\begin{cases} x_1 = y \\ x_{2} = \dot{y} \end{cases}$
 
+- Poles can be found by: $$Poles \Leftrightarrow det(sI-A) = 0$$
+
 **Good:**
 - Turns things into linear algebra. 
 		- computations

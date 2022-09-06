@@ -1,4 +1,8 @@
-## Z-transform
+---
+aliases: [Z-transformen, Z-transformer]
+---
+
+# Z-transform
 - Plays the same role in the analysis of discrete-time signals as the [[Laplacetransform|laplace transform]] does for continous-time signals (and LTI systems). 
 - By using the table of properties and pairs, Z-transform problems can be solved in the same way as [[Fourier transform]] / laplace. 
 ### Direct z-transform
@@ -10,7 +14,7 @@ $$X(z) = \sum_{n = - \infty}^{\infty} x(n)z^{-n}$$
 - Relationship between $x(n)$ and $X(z)$ is indicated by $$x(n) \overset{z}{\longleftrightarrow} X(z)$$
 $$$$
 ### Inverse Z-transform
-$$x(n) = \frac{1}{2\pi j} \oint_{C}^{} X(z) z^{n-1} \, dz$$ (KURVINTEGRAL, skriv tecken sen)
+$$x(n) = \frac{1}{2\pi j} \oint_{C}^{} X(z) z^{n-1} \, dz$$
 where $C$ is a closed contour (curve) in the [[Region of convergence]] of $X(z)$.
 
 ### The typical procedure 

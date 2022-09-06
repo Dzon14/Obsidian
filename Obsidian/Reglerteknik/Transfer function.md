@@ -4,6 +4,8 @@ Laplace domain!
 $Y(s) = G(s)U(s)$ , 
 where $G(s)$ is the model (transfer function of the system), $Y(s)$ is [[Laplacetransform|Laplace transformation]] of the output ($\mathcal{L}$(y(t)) and $U(s)$ is the laplace transform of the input 
 
+- Poles are found in the denominator of the transfer function. 
+
 **Good:**
 - Turns things into complex analysis.
 - Good for interconnection. Turns any interconnection you want to do into linear algebra. For instance, when using two process steps, you just multiply them (G1 multiplied by G2, if they are the steps)
@@ -39,7 +41,7 @@ Inputs can vary, see [[Impulse]] && [[Step]]
 Factorise the denominator of the transfer function, find the poles. Plot poles in the s-plane. The pole will affect the time-plane behaviour. 
 Stable if left side of the s-plane
 
-- Stable if $\zeta > 0$
+- [[stable]] if $\zeta > 0$
 - Unstable if $\zeta < 0$
 - Marginable stable if $\zeta = 0$
 

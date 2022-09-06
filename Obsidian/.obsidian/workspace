@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "186dcdabe34d0c8b",
+        "id": "6646bc9947e5cb0d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,12 +16,24 @@
         }
       },
       {
-        "id": "f3954bfcfcc656f0",
+        "id": "c00ec99a84f0555f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reglerteknik/Nyquist Curve.md",
+            "file": "Reglerteknik/RegTek F6.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "06bd68b6a45e7477",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reglerteknik/Feedback.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reglerteknik/Nyquist Curve.md",
+                "file": "Reglerteknik/RegTek F6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reglerteknik/Nyquist Curve.md",
+                "file": "Reglerteknik/RegTek F6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reglerteknik/Nyquist Curve.md",
+                "file": "Reglerteknik/RegTek F6.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,17 +200,17 @@
     "direction": "horizontal",
     "width": 269
   },
-  "active": "f3954bfcfcc656f0",
+  "active": "c00ec99a84f0555f",
   "lastOpenFiles": [
-    "Reglerteknik/RegTek F5.md",
-    "Reglerteknik/Nyquist Curve.md",
     "Reglerteknik/Reglerteknik.md",
-    "Reglerteknik/Bode Plot.md",
-    "Reglerteknik/Frequency response.md",
-    "Reglerteknik/RegTek F4.md",
-    "Digital Signalbehandling/DigSig F3.md",
-    "Digital Signalbehandling/Z-transform.md",
-    "Digital Signalbehandling/Region of convergence.md",
-    "Reglerteknik/Transfer function.md"
+    "Reglerteknik/RegTek F2.md",
+    "Reglerteknik/RegTek F1.md",
+    "Reglerteknik/Control strategies.md",
+    "Reglerteknik/PID-controller.md",
+    "Reglerteknik/RegTek F6.md",
+    "Reglerteknik/Stabilitet.md",
+    "Reglerteknik/State-space model.md",
+    "Reglerteknik/Transfer function.md",
+    "Reglerteknik/Feedback.md"
   ]
 }
