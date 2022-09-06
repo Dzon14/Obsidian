@@ -9,6 +9,7 @@ aliases: [DigSig, Signals]
 ## Föreläsningar
 - [[DigSig F1]]
 - [[DigSig F2]]
+- [[DigSig F3]]
 
 ## Home assignments
 

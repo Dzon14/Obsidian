@@ -14,4 +14,6 @@ for causality h(n-k) must be zero for all k > n (which is the same as n - k < 0)
 **Def:**
 An LTI system is only causal if its impulse response $h(n)$ fulfilts $$h(n) = 0, \ for \ all \ n < 0$$ ![[Pasted image 20220831092636.png|300]]
 
-#el 
+## Causal and anti-causal (for Z-transform)
+$$\begin{align} causal \Leftrightarrow (n<0) = 0 \\ anticausal \Leftrightarrow x(n \geq 0) = 0\end{align}$$
+#matte

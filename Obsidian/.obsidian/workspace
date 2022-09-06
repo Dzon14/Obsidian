@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e7496c44a0d066",
+        "id": "186dcdabe34d0c8b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "9446c1d51f4ce590",
+        "id": "f3954bfcfcc656f0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digital Signalbehandling/Kausalitet.md",
+            "file": "Reglerteknik/Nyquist Curve.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Signalbehandling/Kausalitet.md",
+                "file": "Reglerteknik/Nyquist Curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Signalbehandling/Kausalitet.md",
+                "file": "Reglerteknik/Nyquist Curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Digital Signalbehandling/Kausalitet.md",
+                "file": "Reglerteknik/Nyquist Curve.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,17 +188,17 @@
     "direction": "horizontal",
     "width": 269
   },
-  "active": "9446c1d51f4ce590",
+  "active": "f3954bfcfcc656f0",
   "lastOpenFiles": [
-    "Reglerteknik/RegTek F4.md",
+    "Reglerteknik/RegTek F5.md",
+    "Reglerteknik/Nyquist Curve.md",
     "Reglerteknik/Reglerteknik.md",
-    "Reglerteknik/PID-controller.md",
-    "Reglerteknik/RegTek F1.md",
-    "Reglerteknik/Transfer function.md",
-    "Reglerteknik/Relation between poles and step response.md",
-    "Reglerteknik/Stegsvar.md",
-    "Reglerteknik/RegTek F3.md",
-    "Laplacetransform.md",
-    "partialbråksuppdelning.md"
+    "Reglerteknik/Bode Plot.md",
+    "Reglerteknik/Frequency response.md",
+    "Reglerteknik/RegTek F4.md",
+    "Digital Signalbehandling/DigSig F3.md",
+    "Digital Signalbehandling/Z-transform.md",
+    "Digital Signalbehandling/Region of convergence.md",
+    "Reglerteknik/Transfer function.md"
   ]
 }
