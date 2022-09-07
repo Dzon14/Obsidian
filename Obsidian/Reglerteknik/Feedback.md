@@ -26,8 +26,9 @@ where every block is a [[Transfer function]]. If compared with the first picture
 - Its angular speed is measured. 
 ![[Pasted image 20220906153031.png|200]]
 
-#### Uncontrolled Steam engine
+### Uncontrolled Steam engine
 ![[Pasted image 20220906153155.png|300]]
+An open-loop system. The output $\omega$ (angular speed) should be kept constant. 
 
 
 #regler 

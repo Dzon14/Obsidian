@@ -5,7 +5,7 @@ aliases: [ROC]
 # Region of convergence (Convergence of X(z))
 **ROC** - region of convergence 
 - The ROC of X(z) is all z values for which it attains a finite value. $$ROC:ALL \ z \in \mathcal{C} \ for \ which \ \lvert x(z)\rvert < \infty$$
-- Important to be aware of the ROC when working with the Z-transform. 
+- Important to be aware of the ROC when working with the [[Z-transform]]. 
 - Expressing z in polar form can help perform an analysis of an arbitrary sequence/signal.
 - To identify the corresponding sequence/signal we need to know **both** the z-transform and its ROC
 

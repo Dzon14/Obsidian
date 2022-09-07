@@ -10,6 +10,7 @@ aliases: [DigSig, Signals]
 - [[DigSig F1]]
 - [[DigSig F2]]
 - [[DigSig F3]]
+- [[DigSig F4]]
 
 ## Home assignments
 

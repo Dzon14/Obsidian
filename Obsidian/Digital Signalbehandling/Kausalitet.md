@@ -16,4 +16,15 @@ An LTI system is only causal if its impulse response $h(n)$ fulfilts $$h(n) = 0,
 
 ## Causal and anti-causal (for Z-transform)
 $$\begin{align} causal \Leftrightarrow (n<0) = 0 \\ anticausal \Leftrightarrow x(n \geq 0) = 0\end{align}$$
+Some observations for causal signals:
+
+- [[Poles]] inside the unit circle make the signal vanish with time
+- Poles outside the unit circle make the signal grow with time
+- Conjugate poles inside the unit circle correspond to an oscillation that declines with time
+- Conjugate poles outside the unit circle correspond to an oscillation that amplifies with time
+
+We say that a causal signal is [[Stabilitet|stable]] if all its poles are inside the unit circle.
+
+
+
 #matte

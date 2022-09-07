@@ -1,3 +1,6 @@
+---
+aliases: [blockdiagram]
+---
 # Block diagram
 ![[Pasted image 20220831081957.png|800]]
 see pdf for examples. 
@@ -9,4 +12,9 @@ In a recursive system (still brute force):
 - add x(n) to 0.9y(n-1)
 - we have y(n) in to places - connect them
 
+## For LTI systems
+![[Pasted image 20220907083043.png|650]]
+However, this is not the most efficient way. Instead:
+![[Pasted image 20220907083128.png]]
+![[Pasted image 20220907083144.png]]
 #el 
