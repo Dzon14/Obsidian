@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50cd38a682b877b9",
+        "id": "1e596fe0d73fa522",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reglerteknik/RegTek F6.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e1cd2b89d72346db",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reglerteknik/Stabilitet.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -105,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reglerteknik/Stabilitet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reglerteknik/Stabilitet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +135,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reglerteknik/Stabilitet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,17 +169,17 @@
     "direction": "horizontal",
     "width": 274
   },
-  "active": "e1cd2b89d72346db",
+  "active": "1e596fe0d73fa522",
   "lastOpenFiles": [
-    "Reglerteknik/RegTek F6.md",
-    "Reglerteknik/Feedback.md",
+    "Laplacetransform.md",
+    "Untitled.md",
+    "Reglerteknik/Nyquist Criterion.md",
+    "Reglerteknik/RegTek F7.md",
+    "Reglerteknik/Stability Margins.md",
     "Reglerteknik/Reglerteknik.md",
-    "Digital Signalbehandling/DigSig F4.md",
-    "Digital Signalbehandling/Z-transform.md",
-    "Digital Signalbehandling/Kausalitet.md",
-    "Zeros.md",
-    "Poles.md",
-    "Digital Signalbehandling/Block diagram.md",
-    "Digital Signalbehandling/DigSig F3.md"
+    "Reglerteknik/Stabilitet.md",
+    "Reglerteknik/Root locus.md",
+    "Reglerteknik/Stegsvar.md",
+    "Reglerteknik/RegTek F6.md"
   ]
 }

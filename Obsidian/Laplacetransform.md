@@ -13,3 +13,4 @@ aliases: [Laplace transformation, laplace, laplace transform]
 Lägg in tabell från kurssida
 
 
+#matte 
