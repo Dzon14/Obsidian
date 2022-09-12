@@ -21,6 +21,15 @@ We get the following block scheme
 where every block is a [[Transfer function]]. If compared with the first picture - from D to Y there's only a P (in the numerator), just as there is a P between them in the first picture. Same goes for the others. 
 
 - The denominator is always $$\frac{\text{Product of stuff in the path}}{1-(-1 \cdot P(s)C(s))}$$
+### Open loop system
+$$G_{0}= G_{R}G_{P}$$
+$G_{P}$ - Transfer function of the process
+$G_{R}$ - Transfer function of the controller
+
+### Closed loop system
+$$G(s) = \frac{G_{o}(s)}{1+G_{o}(s)}$$
+where $G_{o}$ is the open loop transfer function
+
 ## Steam engine
 - One of the earliest example of control application. 
 - Its angular speed is measured. 

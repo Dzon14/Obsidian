@@ -1,12 +1,9 @@
 # Reglerteknik F7
 
-# Topics
+## Topics
 
 [[Root locus]]
-
-
 [[Nyquist Criterion]]
-
 [[Stability Margins]]
 
 #regler 
