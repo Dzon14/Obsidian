@@ -3,7 +3,6 @@
 
 [[Continous vs discrete time]]
 [[Sampling]]
-[[Reconstruction]]
 [[Kronecker delta function]]
 [[Unit step function]]
 [[Discrete-time signals]]

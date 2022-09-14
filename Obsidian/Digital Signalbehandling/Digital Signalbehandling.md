@@ -12,9 +12,11 @@ aliases: [DigSig, Signals]
 - [[DigSig F3]]
 - [[DigSig F4]]
 - [[DigSig F5]]
+- [[DigSig F6]]
 
 ## Home assignments
-
+1.
+2.
 
 ## Laborationer
 **Done in groups of 2**
