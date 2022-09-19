@@ -4,49 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "df4655d499c1dc1f",
+        "id": "5828f9d2cbe0d246",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reglerteknik/Reglerteknik.md",
+            "file": "Reglerteknik/RegTek F11.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "1c60b96b195639ea",
+        "id": "4f3836754c302f0f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reglerteknik/RegTek F9.md",
+            "file": "Reglerteknik/Förkortning av poler och nollställen.md",
             "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "270639649bf2ef1c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reglerteknik/State Feedback.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d215149c2a8d458f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reglerteknik/Styrbarhet.md",
-            "mode": "preview",
             "source": false
           }
         }
@@ -89,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 204.5
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -129,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reglerteknik/State Feedback.md",
+                "file": "Reglerteknik/Förkortning av poler och nollställen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reglerteknik/State Feedback.md",
+                "file": "Reglerteknik/Förkortning av poler och nollställen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reglerteknik/State Feedback.md",
+                "file": "Reglerteknik/Förkortning av poler och nollställen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,19 +186,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 158,
+    "collapsed": true
   },
-  "active": "270639649bf2ef1c",
+  "active": "4f3836754c302f0f",
   "lastOpenFiles": [
-    "Reglerteknik/RegTek F9.md",
+    "Reglerteknik/RegTek F11.md",
+    "Reglerteknik/Utsignalåterkoppling.md",
+    "Reglerteknik/Förkortning av poler och nollställen.md",
+    "Reglerteknik/Kalmanfiltrering.md",
+    "Reglerteknik/Observerbarhet.md",
     "Reglerteknik/Styrbarhet.md",
     "Reglerteknik/Reglerteknik.md",
-    "Reglerteknik/State Feedback.md",
-    "RegTek F10.md",
-    "Reglerteknik/Stationary Errors.md",
-    "Reglerteknik/RegTek F5.md",
-    "Reglerteknik/RegTek F4.md",
-    "Reglerteknik/RegTek F7.md",
-    "Reglerteknik/RegTek F8.md"
+    "Reglerteknik/RegTek F10.md",
+    "DigSig F7.md",
+    "LTI systems as filters.md"
   ]
 }

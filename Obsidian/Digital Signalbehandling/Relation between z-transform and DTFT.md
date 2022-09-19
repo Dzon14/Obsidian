@@ -1,4 +1,4 @@
-## Relation between z-transform and DTFT
+# Relation between z-transform and DTFT
 - This relationship allows us to understand the **DTFT** better, making use of [[Poles]] and [[Zeros]] of $X(z)$. 
 
 See def. for [[Z-transform]] & def. for DTFT in [[Fourier transform|fouriertransform]].

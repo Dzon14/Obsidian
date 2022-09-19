@@ -1,5 +1,5 @@
 ---
-aliases: [controllability]
+aliases: [controllability, styrbara]
 ---
 # Styrbarhet
 What is the requirement for controlling a state?

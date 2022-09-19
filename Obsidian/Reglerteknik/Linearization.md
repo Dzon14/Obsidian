@@ -42,8 +42,8 @@ $\frac{d^2}{dt^2}\Delta\theta = \frac{d^2}{dt^2}\theta$
 Creating new variables, for each dot..?
 
 $x_1 = \Delta \theta$
-$x_{2} = \Delta \theta(dot)$
-$x_{3}= \Delta \theta (two dots)$
+$x_{2} = \Delta \dot{\theta}$
+$x_{3}= \Delta \ddot{\theta}$
 
 $\Rightarrow$  $\frac{d}{dt}x_{1} = x_{2}$, 
 $\frac{d}{dt}x_{2} = x_{3}$ 
