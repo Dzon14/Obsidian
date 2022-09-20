@@ -12,6 +12,10 @@ The BMS is responsible for ensuring the safety and reliability of the battery pa
 		- Isolation monitoring device
 		- Voltage/temperature/current
 
+## Begrepp
+Airs - koppling mellan batteri och bil.
+Relä - 
+
 ## [[Architecture of a BMS]] 
 
 ## Inherited issues 
@@ -20,8 +24,6 @@ The BMS is responsible for ensuring the safety and reliability of the battery pa
 		- Board too long and flexible
 
 ## Möte med Gustav
-Airs - koppling mellan batteri och bil.
-Relä - 
 
 ### Tips
 - Ladda ur +sidan först och sedan -, mellan batteri och TS. 
@@ -53,6 +55,28 @@ Relä -
 ## Möte med Johannes
 
 #### Problem
+1. Voltage indicator (active light) - se till att komponenter klarar strömregulatorn ba..
+2. Byta ut slavkorten, kan rätt lätt gå sönder och instabila. Vid byte kommer även kontaktbekymret för de gamla slavkorten elimineras. Där är kontakterna dåliga och skulle behövas nya (Molex microfit).
+- Städa upp i TSAL
+- Dålig algoritm. Letar t.ex upp för höga spänningar, låter ej ladda ur två celler bredvid varandra samtidigt vid balansering
+- Balansering allmänt dålig, tar för lång tid, borde fixas.
+- Balanseringen atm består av resistanser som laddar ut batteriet - dessa är troligtvis för stora. 
+- Koden dålig generellt. Väldigt rörig och oläsbar. Många onödiga uppdelningar i filer. 
+- En fil för varje "state"?
+- Laddningsström är hårdkodad - borde nog ändras xD 
+- Laddning körs med konstant ström tills spänningen blir för stor, blir alltså aldrig fullt laddat.
+- **OM** optokopplare ska användas, fixa den. 
+- Designa om segmenten (så man ej får stötar och det blir mindre) - Beslut som tas tillsammans med Powertrain
+- Byta ut USB-kabel i accupacket - tillsammans med Robert (accumulator electronics)
+- "Städa" i CAD
 
+#### Tips
+- Använd ej kondensator på CAN
+- Skicka kretskort till tillverkare rätt tidigt i december
+- Kolla löpande att saker funkar (Altium osv)
+- Kolla i dokumentet "necessary compromise fixes"
+
+#### Annat
+- Om shutdown circuit triggas utanför BMSen så kommer det gå till "standby" istället för "shutdown"-löge.
 
 
