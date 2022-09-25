@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3291d3440f48f7cf",
+        "id": "ee46a85ab8ca7759",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lund Formula Student/Battery Management System.md",
+            "file": "Electromagnetic Fields/Orthogonal Coordinate Systems.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c980f8489efecab2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electromagnetic Fields/Cylindrical coordinates.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asymptotically stable",
+                "query": "tag:#lfs",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lund Formula Student/Battery Management System.md",
+                "file": "Electromagnetic Fields/Cylindrical coordinates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lund Formula Student/Battery Management System.md",
+                "file": "Electromagnetic Fields/Cylindrical coordinates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lund Formula Student/Battery Management System.md",
+                "file": "Electromagnetic Fields/Cylindrical coordinates.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,20 +186,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 158,
+    "width": 216,
     "collapsed": true
   },
-  "active": "3291d3440f48f7cf",
+  "active": "c980f8489efecab2",
   "lastOpenFiles": [
-    "Lund Formula Student/Architecture of a BMS.md",
-    "Untitled 1O.md",
-    "Lund Formula Student/Battery Management System.md",
-    "LFSR.md",
+    "Electromagnetic Fields/Orthogonal Coordinate Systems.md",
+    "Electromagnetic Fields/Scalar product.md",
+    "Electromagnetic Fields/Scalar triple product.md",
+    "Electromagnetic Fields/Vector triple product.md",
+    "Electromagnetic Fields/Vector product.md",
     "Electromagnetic Fields/Electric field.md",
-    "Electromagnetic Fields/Elmagi F1.md",
-    "Electromagnetic Fields/Electric potential.md",
     "Electromagnetic Fields/Coulomb's law.md",
-    "Electromagnetic Fields/Electrostatics.md",
-    "Reglerteknik/Bode Plot.md"
+    "Electromagnetic Fields/Conversion between different coordinate systems.md",
+    "Electromagnetic Fields/Elmagi F2.md",
+    "Lund Formula Student/Lund Formula Student.md"
   ]
 }

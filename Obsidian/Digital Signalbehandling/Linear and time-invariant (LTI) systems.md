@@ -30,5 +30,12 @@ For real-valued impulse responses and cos or sin inputs we express the output in
 By looking at the shape of the signals, we see that there's a **delay** cause by the phase shift with $$\Delta (\omega) = - \frac{\angle H(\omega)}{\omega}$$
 **Note:** The delay of the signal is typically frequency dependent and negative phase shifts give positive delays. 
 
+## LTI systems with rational system function
+[[Poles]] and [[Zeros]] characterize both amplitude and phase of [[Z-transform]] expressed in rational form. 
+
+By placing poles and zeros in the z-domain, it should be possible to design filters. with some desired frequency response ($H(\omega$))
+
+
+
 
 #el 

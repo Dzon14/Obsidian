@@ -1,4 +1,3 @@
-
 <%*
 const variable = "tags" // CHANGE THIS TO AFFECT ANOTHER VARIBLE IN THE YAML
 
