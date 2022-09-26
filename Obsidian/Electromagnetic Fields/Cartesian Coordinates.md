@@ -10,4 +10,6 @@ $\vec{A}(x,y,z,t) = \vec{a}_{x}A_{x}(x,y,z,t) + \vec{a}_{y}A_{y}(x,y,z,t) + \vec
 
 This coordinate system is useful for box-like objects
 
+![[Pasted image 20220926094302.png|350]]
+
 #matte 

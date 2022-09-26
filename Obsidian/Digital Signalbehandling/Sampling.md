@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Sampling
 Sampling period T gives a sampling frequency:
 $F_{s}= \frac{1}{T}$ , with the unit samples/sec
@@ -22,4 +25,10 @@ F (continous) and f (discrete) are related through $$f = \frac{F}{F_{s}}$$
 ### Relations
 ![[Pasted image 20220830104536.png]]
 
-#el 
+## Resulting $X(f)$ 
+$$X(f) = F_{s} \sum_{k= - \infty}^{\infty}X_{a}((f+k)F_s)$$
+where $f = \frac{F}{F_{s}}$
+
+
+
+

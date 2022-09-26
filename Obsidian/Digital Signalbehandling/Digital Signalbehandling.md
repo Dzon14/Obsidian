@@ -15,6 +15,7 @@ aliases: [DigSig, Signals]
 - [[DigSig F6]]
 - [[DigSig F7]]
 - [[DigSig F8]]
+- [[DigSig F9]]
 
 ## Home assignments
 1.
