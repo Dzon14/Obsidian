@@ -1,4 +1,4 @@
-# Reglerteknik F10 - Utsignalåterkoppling
+# Reglerteknik F11 - Utsignalåterkoppling
 
 # Topics
 - [[Utsignalåterkoppling]]

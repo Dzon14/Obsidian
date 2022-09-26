@@ -1,5 +1,5 @@
 ---
-aliases: [pole, poler, polerna, polen]
+aliases: [pole, pol, poler, polerna, polen]
 ---
 
 # Poles
