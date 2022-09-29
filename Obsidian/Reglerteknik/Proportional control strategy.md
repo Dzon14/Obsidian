@@ -1,5 +1,5 @@
 ---
-aliases: [P-delen, P-controller]
+aliases: [P-delen, P-controller, P-regulator]
 ---
 
 # Proportional control strategy

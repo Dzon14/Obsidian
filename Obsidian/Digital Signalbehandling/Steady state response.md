@@ -1,4 +1,4 @@
-## Steady state response 
+# Steady state response 
 What happens if the sinusoidal starts as some time $n_{0}$?
 We get two components, the [[transient]] and the steady-state component.
 

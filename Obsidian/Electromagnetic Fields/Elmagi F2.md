@@ -2,6 +2,8 @@
 
 # Topics
 
+[[vector field]]
+[[scalar field]]
 [[Vector algebra]]
 [[Vector product]]
 [[Scalar product]]

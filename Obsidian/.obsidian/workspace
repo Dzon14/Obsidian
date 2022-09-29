@@ -4,13 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "ea61f7f0ce72eb62",
+        "id": "7e76dd31e5122317",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reglerteknik/Fasavancerande kompensering.md",
+            "file": "Reglerteknik/Reglerteknik.md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "85a4f3c328d9eee2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electromagnetic Fields/Electromagnetic Fields.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8be547ddfed6c66f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electromagnetic Fields/Elmagi F4.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2ad4e603ef2c8711",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electromagnetic Fields/Divergence theorem.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -93,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reglerteknik/Fasavancerande kompensering.md",
+                "file": "Electromagnetic Fields/Divergence theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reglerteknik/Fasavancerande kompensering.md",
+                "file": "Electromagnetic Fields/Divergence theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reglerteknik/Fasavancerande kompensering.md",
+                "file": "Electromagnetic Fields/Divergence theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,19 +210,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 216,
+    "collapsed": true
   },
-  "active": "ea61f7f0ce72eb62",
+  "active": "2ad4e603ef2c8711",
   "lastOpenFiles": [
+    "Electromagnetic Fields/Elmagi F4.md",
+    "divergence.md",
+    "Electromagnetic Fields/Electromagnetic Fields.md",
+    "Electromagnetic Fields/Elmagi F3.md",
+    "Electromagnetic Fields/Line integral.md",
+    "Electromagnetic Fields/Surface integral.md",
+    "Electromagnetic Fields/Integrals containing vector functions.md",
+    "Electromagnetic Fields/Gradient.md",
     "Reglerteknik/RegTek F12.md",
-    "Reglerteknik/Fasretarderande kompensering.md",
-    "Reglerteknik/Kompensering.md",
-    "Reglerteknik/Reglerteknik.md",
-    "Reglerteknik/Fasavancerande kompensering.md",
-    "random equations.md",
-    "Zeros.md",
-    "Digital Signalbehandling/Poles.md",
-    "Reglerteknik/RegTek F11.md",
-    "Reglerteknik/RegTek F10.md"
+    "Reglerteknik/Kompensering.md"
   ]
 }

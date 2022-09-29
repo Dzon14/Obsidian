@@ -4,7 +4,7 @@ tags: [matte]
 # Surface integral
 Can be closed or open
 
-To measure how many equivalent field lines of the field $\vec{A}$ (e.g. electric field $E$) pass through a given surface, we define the total **outward flux** (or field lines) of the vector field through **S** as: $$\int_{S}^{} \vec{A} \cdot \ d \vec{s}$$
+To measure how many equivalent field lines of the field $\vec{A}$ (e.g. electric field $E$) pass through a given surface, we define the total **outward flux** (or field lines) of the [[vector field]] through **S** as: $$\int_{S}^{} \vec{A} \cdot \ d \vec{s}$$
 where $d \vec{s} = \vec{a}_{n}ds$
 ![[Pasted image 20220926112344.png|200]]
 The normal unit vector $\vec{a}_{n}$ points "outwards" from the surface.

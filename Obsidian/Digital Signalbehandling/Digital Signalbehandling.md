@@ -16,10 +16,13 @@ aliases: [DigSig, Signals]
 - [[DigSig F7]]
 - [[DigSig F8]]
 - [[DigSig F9]]
+- [[DigSig F10]]
+- [[DigSig F11]]
+
 
 ## Home assignments
-1.
-2.
+1. Starting sunday 2nd October, due date: wednesday 5th October.
+2. 
 
 ## Laborationer
 **Done in groups of 2**
