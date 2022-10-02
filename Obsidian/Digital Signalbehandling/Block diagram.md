@@ -9,7 +9,7 @@ In short: with only "+" , add all the inputs with a delay module in between and 
 In a recursive system (still brute force): 
 - We need a x(n) and y(n-1),
 - multiply y(n-1) by the factor (eg. 0.9)
-- add x(n) to 0.9y(n-1)
+- add x(n) to 0.9y(n-1) 
 - we have y(n) in to places - connect them
 
 ## For LTI systems

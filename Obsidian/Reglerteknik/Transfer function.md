@@ -1,3 +1,7 @@
+---
+aliases: [överföringsfunktion, överföringsfunktionen]
+tags: [regler]
+---
 # Transfer function
 Laplace domain!
 
@@ -77,6 +81,3 @@ We now get:
 
 **Transfer function:**
 
-
-
-#regler

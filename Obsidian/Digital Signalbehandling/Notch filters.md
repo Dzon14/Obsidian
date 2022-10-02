@@ -21,8 +21,17 @@ and we get the following plot
 ### FIR filter
 ![[Pasted image 20220921095412.png|500]]
 [[Linear phase]] requires each zero inside the unit circle has a corresponding one outside the unit circle
+- The impulse response is of finite duration
+- The filter is always BIBO stable
+- All poles are at the origin (z=0)
+- The filter may have [[Linear phase]]
+- The filter is minimum-phase if all its zeros are inside the unit circle.
 
 ### IIR filter
-Bibo Stable IIR filters cannton have [[Linear phase]] , if it has a pole outside of the unit circle it's unstable.
+Bibo Stable IIR filters cannot have [[Linear phase]] , if it has a pole outside of the unit circle it's unstable.
+
+- The impulse response is of infinite duration
+- The filter is BIBO-stable , if and only if, all its poles are inside the unit circle. 
+- The filter cannot have [[Linear phase]]
 
 #el 
