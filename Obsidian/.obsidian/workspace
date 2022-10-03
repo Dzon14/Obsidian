@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f469e364090edfe8",
+        "id": "6abf5fea484a9765",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reglerteknik/Impulssvar.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -53,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reglerteknik/Impulssvar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reglerteknik/Impulssvar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +136,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reglerteknik/Impulssvar.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,19 +168,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 216,
+    "collapsed": true
   },
-  "active": "a930cc0a84b17676",
+  "active": "6abf5fea484a9765",
   "lastOpenFiles": [
-    "Digital Signalbehandling/Z-transform.md",
-    "Digital Signalbehandling/Classification of systems.md",
-    "Digital Signalbehandling/Block diagram.md",
-    "Digital Signalbehandling/Notch filters.md",
-    "Digital Signalbehandling/Digital Signalbehandling.md",
-    "Digital Signalbehandling/Linear and time-invariant (LTI) systems.md",
-    "Digital Signalbehandling/Linear phase.md",
-    "Digital Signalbehandling/DigSig F2.md",
-    "Digital Signalbehandling/Kausalitet.md",
-    "Reglerteknik/Stabilitet.md"
+    "Reglerteknik/RegTek F14.md",
+    "Reglerteknik/Reglerteknik.md",
+    "Reglerteknik/diskretisering av PID-regulatorn.md",
+    "Reglerteknik/dödtidskompensering.md",
+    "Reglerteknik/framkoppling.md",
+    "Reglerteknik/kaskadkoppling.md",
+    "Reglerteknik/PID-controller.md",
+    "Digital Signalbehandling/Sampling.md",
+    "Digital Signalbehandling/Aliasing.md",
+    "Nyquistfrekvensen.md"
   ]
 }

@@ -3,7 +3,7 @@ tags: [el]
 aliases: [divergens, divergent]
 ---
 # Divergence
-- Used in two of Maxwell's equations
+- Used in two of [[Maxwell's equations]]
 		- $\nabla \cdot \vec{D} = \rho$ 
 		- $\nabla \cdot \vec{B} = 0$
 - Divergence of a vector field: $\nabla \vec{A}$, where $\vec{A}$ is a [[vector field]] in 3D space.

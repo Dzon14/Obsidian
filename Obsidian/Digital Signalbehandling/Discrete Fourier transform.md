@@ -37,8 +37,10 @@ where $\vec{W}_{N}^{*}$ denotes the complex conjugate of $\vec{W}_N$. In other w
 ![[Pasted image 20220928093049.png|400]]
 
 ## Multiplication of two DFTs
-Just like other transforms, multiplication is equal to a linear convolution in time domain.
+Just like other transforms, multiplication is equal to a linear [[Faltning|convolution]] in time domain.
 Due to periodicity in the time-d
 omain of the DFT, its corresponding relation is
 ![[Pasted image 20220928093922.png]]
 Using [[circular convolution]]
+
+

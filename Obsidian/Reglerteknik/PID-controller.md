@@ -1,5 +1,6 @@
 ---
-tags: [regler, PID control, PID-reglering]
+tags: [regler]
+aliases: [PID control, PID-reglering, PID-regulator, PID-regulatorn]
 ---
 # PID-controller
 Proportional integral derivative controller

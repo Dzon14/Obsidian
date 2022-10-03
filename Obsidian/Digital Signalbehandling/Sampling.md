@@ -30,5 +30,20 @@ $$X(f) = F_{s} \sum_{k= - \infty}^{\infty}X_{a}((f+k)F_s)$$
 where $f = \frac{F}{F_{s}}$
 
 
+## Reglerteknik
+Reglerar processen med en dator. 
+![[Pasted image 20221003161811.png|300]]
+En analog signal med en samplad realisering.
+
+Samplinsfrekvensen sätter en övre gräns för hur höga frekvenser som regulatorn kan se. Denna frekvens kallas för [[Nyquistfrekvensen]].
+
+- Samplingsperiod: h
+- Sampling introducerar [[dödtidskompensering|dödtid]] på ca 1.5h
+- Sampla tillräckligt ofta!
+
+Om de analoga signalerna inte lågpassfiltreras innan de kommer till A/D-omvandlaren, så att komponenet för [[Nyquistfrekvensen]] elimineras, får vi [[Aliasing|vikning]]-effekten där högfrekventa störningar dyker upp. Högfrekvent signal kan tolkas som en lågfrekvent signal.
+Se [[Aliasing|vikning]]
+
+
 
 

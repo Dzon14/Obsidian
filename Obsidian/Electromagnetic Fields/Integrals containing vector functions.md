@@ -2,6 +2,6 @@
 tags: [matte]
 ---
 # Integrals containing vector functions
-[[divergence]] and [[curl]] are defined using:
+[[divergence]] and [[Curl]] are defined using:
 - [[Surface integral]]
 - [[Line integral]]

@@ -12,7 +12,7 @@ We conclude that the output is also a periodic signal, with the same period N.
 - In short, an LTI system can change the shape of a periodic signal, but **not** its period.
 
 ### Response to aperiodic signals
-**Reminder:** $y(n) = h(n) * x(n)$ which gives us (convolution property) $Y(\omega) = H(\omega)X(\omega)$, which also can be written in polar form ..
+**Reminder:** $y(n) = h(n) * x(n)$ which gives us ([[Faltning|convolution]] property) $Y(\omega) = H(\omega)X(\omega)$, which also can be written in polar form ..
 
 - The magnitude and phase of $H(\omega)$ shows how the LTI system influences mag and phase of the input signal $X(\omega)$ at different frequencies $\omega$.
 

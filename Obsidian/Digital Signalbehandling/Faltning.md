@@ -1,5 +1,6 @@
 ---
-aliases: [Convolution, faltas]
+aliases: [convolution, faltas, linear convolution]
+tags: [el]
 ---
 # Faltning 
 (Convolution)
@@ -28,4 +29,8 @@ $$y(n) = \sum_{k = -\infty}^{\infty}x(k)h(n-k)$$
 - A bounded input x(n) implies that $\lvert x(n) \rvert \leq M_{x}$, for some finite positive number $M_{x}$ and we get ![[Pasted image 20220831084512.png]]
 **Conclusion:** An LTI system is BIBO stable if it's impulse response h(n) is absolutely summable. (Important)
 
-#el 
+## Using the [[Discrete Fourier transform|DFT]] for linear convolution
+1) Zero-pad both sequences, of length K and L, to a common length $N \geq K+L-1$
+2) Calculate the N-point [[Discrete Fourier transform|DFT]] of both sequences.
+3) Multiply the two DFTs
+4) Perform an N-point inverse DFT (IDFT) on the product

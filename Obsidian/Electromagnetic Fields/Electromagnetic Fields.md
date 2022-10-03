@@ -8,6 +8,7 @@ tags: [elmagi, elektromagnetisk fältteori]
 - [[Elmagi F2]]
 - [[Elmagi F3]]
 - [[Elmagi F4]]
+- [[Elmagi F5]]
 
 ## Info/länkar
 [Electrical and Information Technology, EITF80 Electromagnetic Fields (E) 2022/2023 (lth.se)](https://www.eit.lth.se/index.php?ciuid=1548&coursepage=10653&L=1) 

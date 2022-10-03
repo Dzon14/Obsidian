@@ -1,6 +1,8 @@
 # Electric potential
 A measure that is related to the among of work to move a test charge $q_0$ in the E field due to another charge $q_{1}$ (or a system of multiple charges).
 
+$$\vec{E} = - \nabla V$$
+
 ![[Pasted image 20220919115112.png]]
 
 The work against the [[Electric field|field]] is: $$W = - \int_{p_{i}}^{p_{f}} \vec{F} \cdot \ d \vec{l} = -q_{0} \int_{p_{i}}^{p_{f}} \vec{E} \cdot \ d \vec{l}$$ (since $\vec{F} = q_{0} \vec{E}$)
