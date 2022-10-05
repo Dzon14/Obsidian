@@ -5,7 +5,7 @@ Elektromagnetisk strålning består av ett elektriskt fält och ett magnetiskt f
 
 $$ E = c\cdot B$$
 
-där c är ljusets hastighet. Elektromagnetiska [[Vågor]] färdas med ljusets hastighet i vakuum.
+där c är [[Ljus|ljusets]] hastighet. Elektromagnetiska [[Vågor]] färdas med [[Ljus|ljusets]] hastighet i vakuum.
 
 Strålningen delas upp i olika kategorier utefter våglängd. Det synliga [[Ljus|ljuset]] ligger mellan 400nm och 780nm. Sambandet mellan våglängd och frekvens ges av
 

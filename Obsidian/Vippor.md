@@ -1,6 +1,7 @@
 ---
 aliases:
  - "flip-flop"
+tags: [el]
 ---
 # Vippor
 Vippor är sekvensnät 

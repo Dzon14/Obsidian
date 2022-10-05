@@ -3,6 +3,7 @@ aliases:
  - "fysik"
  - "fysiken"
  - "physics"
+tags: [fysik]
 ---
 
 # Fysik #moc

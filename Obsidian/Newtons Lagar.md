@@ -1,4 +1,5 @@
-# Newtons Lagar%%mekanik%%
+# Newtons Lagar
+[[Mekanik]]
 ## Tröghetslagen
 En kropp förblir i vila eller [[likformig rörelse]] om den inte påverkas av externa [[Krafter]].
     *(Gäller bara s.k. [[inertialsystem]], dvs koordinatsystem som inte accelererar eller roterar. Vi bortser från jordens rörelse)*

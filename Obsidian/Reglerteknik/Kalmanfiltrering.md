@@ -1,7 +1,7 @@
 ---
 aliases: [kalman filtering]
 ---
-## Kalmanfiltrering
+# Kalmanfiltrering
 - [[State Feedback|tillståndsåterkoppling]] från F9 byggde på att vi kunde mäta samtliga tillstånd, vilket man normalt **inte** kan.
 - Kalmanfiltret är en metod för att filtrera fram en skattning av tillståndsvektorn ur styrsignalen och mätsignalen.
 - När systemet är [[Observerbarhet]] går det att skatta tillståndsvektorn genom att studera insignalen u och utsignalen y. 

@@ -1,5 +1,6 @@
 ---
 aliases: [BMS]
+tags: [lfs]
 ---
 
 # Battery Management System

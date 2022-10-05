@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 # Polarisering
 
 I en elektromagnetisk våg är det elektriska fältet vinkelrätt mot utbredningsriktningen. Om fältet endast oscillerar i en riktning är vågen linjärt polariserad. [[Vågor]] som är producerade av flera källor samtidigt är oftast inte polariserade. Ett stearinljus består av miljontals atomer som agerar självständigt, det elektriska fältet kan brytas ned i x- och y-komponenter som varierar slumpmässigt då det inte finns någon korrelation mellan atomerna som producerar ljuset.
@@ -68,6 +71,6 @@ har färdats långt genom atmosfären varpå det röda ljuset är det enda som
 Hur polariseras [[Ljus]] genom spridning? Om man tittar rakt mot solen, dvs
 strålen går direkt från solen till ens ögon, så är ljuset opolariserat.
 Om man däremot skulle titta åt sidan så ser man ljuset som har spritts i
-atmosfären. Ljuset är aldrig helt polariserat eftersom att det hela
+atmosfären. [[Ljus|Ljuset]] är aldrig helt polariserat eftersom att det hela
 tiden absorberas och emitteras av nya atomer i luften, och därmed
 skickas i olika riktningar och whatever. Det har med dipoler att göra? Elektronmoln ochsånt. Behöver nog inte veta hur det funkar, eller ens behöva räkna på det.

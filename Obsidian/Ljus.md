@@ -1,5 +1,6 @@
 ---
 aliases: [ljuset, ljusets]
+tags: [fysik]
 ---
 
 # Ljus

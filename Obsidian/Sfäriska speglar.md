@@ -1,6 +1,6 @@
 ### Sfäriska [[Speglar]]
 ![[Pasted image 20211024133937.png|300]]
-Figuren ovan visar hur [[Ljus|ljusstrålar]] reflekteras av en sfärisk konkav spegel. Ljuset färdas från källan $P$ till ögat, och ser ut att komma från $P'$, som i detta fallet *inte* är en [[Virtuell Bild]], då [[Ljus]] faktiskt strålar genom punkten. $P'$ är alltså en [[Virtuell Bild|verklig bild]] i detta fallet. 
+Figuren ovan visar hur [[Ljus|ljusstrålar]] reflekteras av en sfärisk konkav spegel. [[Ljus|Ljuset]] färdas från källan $P$ till ögat, och ser ut att komma från $P'$, som i detta fallet *inte* är en [[Virtuell Bild]], då [[Ljus]] faktiskt strålar genom punkten. $P'$ är alltså en [[Virtuell Bild|verklig bild]] i detta fallet. 
 
 För att ta fram en ekvation som på något sätt beskriver förhållandet mellan objektets och bildens position kan vi rita ut två strålar från en slumpmässigt vald punkt P (se figur nedan).
 

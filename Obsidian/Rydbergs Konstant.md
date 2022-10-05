@@ -1,3 +1,8 @@
+---
+tags: [fysik]
+---
+# Rydbergs konstant
+
 Rydbergs konstant skiljer sig beroende på ämnet i fråga.
 
 Räknas ut med 

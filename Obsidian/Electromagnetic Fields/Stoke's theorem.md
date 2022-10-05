@@ -6,6 +6,9 @@ tags: [elmagi]
 ## Definition
 The surface integral of [[Curl]]$\vec{A}$ over an open surface S is equal to the circulation of $\vec{A}$ along C that bounds the surface
 $$\int\limits_{S}^{} (\nabla \times \vec{A}) \ d \vec{s} = \oint\limits_{C}^{} \vec{A} \ d \vec{l}$$
+In the xy-plane, $\vec{a}_{n} = \vec{a}_{z}$.
+reminder: $\vec{a}_{n}ds = d \vec{s}$.
+
 ## Illustration
 ![[Pasted image 20221003112734.png]]
 Circulation of water 

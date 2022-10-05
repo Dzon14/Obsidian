@@ -1,6 +1,7 @@
 ---
 aliases:
  - "Personal Knowledge Management"
+tags: [el]
 ---
 	
 # PKM

@@ -15,13 +15,13 @@ $$curl \ \vec{A} \overset{\Delta}{=} \lim_{\Delta x\to 0} \frac{1}{\Delta s} \le
 Also:
 $$curl \ \vec{A} = \nabla \times \vec{A}$$
 
-For all the coordinates. See lecture 5 for prove.
+For all the coordinates. See lecture 5 for proof.
 
 ## Physical meaning of $\nabla \times \vec{A}$
 ![[Pasted image 20221003105750.png]]
 
-- For the **point charge**, whose net outward flux for a vanishing close surface around the charge is non-zer0 $\nabla \cdot \vec{A} \neq 0$ . This charge is called a **flow source**
-  $\nabla \vec{E} \neq 0$
+- For the **point charge**, whose net outward flux for a vanishing close surface around the charge is non-zero $\nabla \cdot \vec{A} \neq 0$ . This charge is called a **flow source**
+  $\nabla \times \vec{E} \neq 0$
 - For the **long wire** 
   $\nabla \times \vec{B} \neq 0$ 
 - Another example is the water flow when emptying a sink

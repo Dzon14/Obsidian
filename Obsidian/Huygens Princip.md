@@ -1,0 +1,4 @@
+---
+tags: [fysik]
+---
+# Huygens princip

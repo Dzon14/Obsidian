@@ -1,6 +1,6 @@
 ---
-aliases:
- - "Euclids algorithm"
+aliases: [Euclids algorithm]
+tags: [el]
 ---
 
 Hitta största gemensamma delare av två tal

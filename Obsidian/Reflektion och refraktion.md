@@ -1,10 +1,13 @@
-## Reflektion och refraktion
--> [[Totalreflektion]]
--> [[Dispersion]]
--> [[Polarisering]]
+---
+tags: [fysik]
+---
+# Reflektion och refraktion
+-  [[Totalreflektion]]
+-  [[Dispersion]]
+- [[Polarisering]]
 
 När en ljusstråle träfar ett nytt medium reflekteras en del av [[Energi|energin]]
-samtidigt som ljuset ändrar riktning något (dvs refrakteras). Vinkeln
+samtidigt som [[Ljus|ljuset]] ändrar riktning något (dvs refrakteras). Vinkeln
 mellan strålen och normalen till mediets yta kallas $\theta_1$. Enligt
 **reflektionslagen** är reflektionsvinkeln $\theta_1' = \theta$.
 
@@ -29,7 +32,7 @@ ___
 ___
 Ett mått på hur väl ett material reflekterar [[Ljus]] kallas **reflektans**
 och definieras som förhållandet mellan intensiteten på det infallande
-och reflekterade ljuset
+och reflekterade [[Ljus|ljuset]]
 
 $$R = \frac{I_{ref}}{I_{in}}$$
 

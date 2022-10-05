@@ -3,7 +3,7 @@ aliases: [Field Programmable Gate Array]
 ---
 # FPGA - Field Programmable Gate Array
 - Programmerbar
-- Använder D-vippor.
+- Använder D-[[vippor]].
 - "Look-up tables"
 
 [[EDA]] - Ett program för att programmera FPGA.

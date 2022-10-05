@@ -1,5 +1,5 @@
 ---
-tags: [elmagi]
+tags: [el]
 ---
 # Elektromagnetisk fältteori F5
 

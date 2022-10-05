@@ -1,7 +1,10 @@
-## Brytningsindex
+---
+tags: [fysik]
+---
+# Brytningsindex
 Om [[Ljus]] passerar genom ett transparent medium definierar vi
 **brytningsindex** (även kallat refraktionsindex) som förhållandet
-mellan ljusets hastighet i vakuum och ljusets hastighet i mediet
+mellan [[Ljus|ljusets]] hastighet i vakuum och ljusets hastighet i mediet
 
 $$n = \frac{c}{v}$$
 

@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 När elektroner övergår från en högre energinivå till en lägre så frigörs det [[Energi]] i form av en foton. Övergångarna delas upp i olika serier beorende på vilken energinivå elektronen landar på.
 
 ![[Pasted image 20211024181733.png|300]]

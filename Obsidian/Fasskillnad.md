@@ -4,4 +4,4 @@ När två harmoniska sinus-[[Vågor]] av sama frekvens och våglängd, men med o
 
 $$\delta = \frac{\delta r}{\lambda}2\pi$$
 
-Om [[Ljus]] i ett medium reflekteras mot ett medium där ljuset färdas långsammare (högre [[Brytningsindex]]) blir det en 180 grader fasförändring i det reflekterade ljuset.
+Om [[Ljus]] i ett medium reflekteras mot ett medium där [[Ljus|ljuset]] färdas långsammare (högre [[Brytningsindex]]) blir det en 180 grader fasförändring i det reflekterade [[Ljus|ljuset]].

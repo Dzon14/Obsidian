@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 # Optik
 
 Optik delas upp i olika delar. [[Ljus]] kan exempelvis beskrivas som strålar och [[Vågor]]. Kan även beskrivas elektro-magnetiskt, eller med [[Kvantoptik|kvantoptik]]. Allting kan beskrivas med kvantoptik, men det är ett väldigt komplicerat sätt.
