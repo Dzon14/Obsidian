@@ -1,5 +1,6 @@
 ---
-aliases: [static electricity]
+aliases: [static electricity, electrostatic]
+tags: [el]
 ---
 # Electrostatics
 - Mass of a proton = mass of a neutron $= 1,7 \cdot 10^{-26}$ kg
@@ -8,8 +9,16 @@ aliases: [static electricity]
 
 Some atoms are able to hold on to electrons more tightly than other atoms, hence more likely to gain electrons and become negatively charged, and vice versa. The electron-holding ability is ranked in “**triboelectric series**”.
 - For ex: 
-		  - Lose electrons - hair, oily skin, glass, silk ..
+		  - Loose electrons - hair, oily skin, glass, silk ..
 		  - small/no charge - paper, wool, wood
 		  - Gain electrons - rubber, amber, gold, silver, plastic wrap etc
 
-#el 
+ 
+## [[conductors in static electric field]]
+
+## [[dielectrics in static electric field]]
+
+
+
+
+

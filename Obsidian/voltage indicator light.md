@@ -11,4 +11,11 @@ LED Driver (doesn’t work by itself):
 LED:
 -  [55733.qxd (farnell.com)](https://www.farnell.com/datasheets/1498852.pdf) 
 - (En standard från typ electrokitet)
-- **Fråga Martin** vad för LED som ska användas, o om kreteserna på whiteboard är värt att implementera eller om en resistans (som nu) räcker. 
+- **Fråga Martin** vad för LED som ska användas, o om kretsarna på whiteboard är värt att implementera eller om en resistans (som nu) räcker. 
+
+Lösning
+- Mergea ideerna, göra så robust som möjligt
+- Viastor?
+- [Constant Current Source: Transistor Active Source » Electronics Notes (electronics-notes.com)](https://www.electronics-notes.com/articles/analogue_circuits/transistor/active-constant-current-source.php)
+
+

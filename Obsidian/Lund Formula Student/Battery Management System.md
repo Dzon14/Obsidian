@@ -57,7 +57,8 @@ Relä -
 
 #### Problem
 1. Voltage indicator (active light) - se till att komponenter klarar strömregulatorn ba..
-2. Byta ut slavkorten, kan rätt lätt gå sönder och instabila. Vid byte kommer även kontaktbekymret för de gamla slavkorten elimineras. Där är kontakterna dåliga och skulle behövas nya (Molex microfit).
+2. Byta ut slavkorten, kan rätt lätt gå sönder och instabila. Vid byte kommer även kontaktbekymret för de gamla slavkorten elimineras. Där är kontakterna dåliga och skulle behövas nya (Molex microfit). Byta  connectors till sensorkorten
+- Implementera DC/DC (Joel)
 - Städa upp i TSAL
 - Dålig algoritm. Letar t.ex upp för höga spänningar, låter ej ladda ur två celler bredvid varandra samtidigt vid balansering
 - Balansering allmänt dålig, tar för lång tid, borde fixas.
@@ -78,6 +79,10 @@ Relä -
 - Kolla i dokumentet "necessary compromise fixes"
 
 #### Annat
-- Om shutdown circuit triggas utanför BMSen så kommer det gå till "standby" istället för "shutdown"-löge.
+- Om shutdown circuit triggas utanför BMSen så kommer det gå till "standby" istället för "shutdown"-läge.
 
+## Martin
+- Alla sladdar på samma sida (can kontakten som går under)
+- Fästa sladdar (ISOspi) bättre? sitter rätt löst. Ha något slags lås (crimplock) (Joel har koll på detta). Ha samma kontakter (typ molex)
+Se: Compilation of problems/improvment potensials from HV22
 

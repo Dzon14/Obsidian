@@ -9,7 +9,7 @@ Earth = Details of each subtopic
 
 Upcoming main topic will be [[Electrostatics]]
 
-# Topics
+## Topics
 - [[Coulomb's law]]
 - [[Gauss law]]
 - [[Electric potential]]
