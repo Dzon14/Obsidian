@@ -4,84 +4,96 @@
     "type": "split",
     "children": [
       {
-        "id": "c2b386d0f62ed3cf",
+        "id": "dff6a229f78ceb84",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electromagnetic Fields/dielectrics in static electric field.md",
+            "file": "Electromagnetic Fields/Elmagi F8.md",
             "mode": "preview",
             "source": false
           }
         }
       },
       {
-        "id": "7646b94ec3a6e4ef",
+        "id": "ef9ff39b80125749",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electromagnetic Fields/Polarisering.md",
+            "file": "Electromagnetic Fields/boundary conditions for electrostatic fields.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "de37cd8b759b88da",
+        "id": "3b299ba12d8a33d3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electromagnetic Fields/Normal component.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6c07d20eea324947",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electromagnetic Fields/Tangential component.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5980530aa18ea0c6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Electromagnetic Fields/electric dipole.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a0706c50e457dba5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Electromagnetic Fields/Conversion between different coordinate systems.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b2b7537de4f9ac9b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Electromagnetic Fields/Electric potential.md",
             "mode": "preview",
             "source": false
           }
         }
       },
       {
-        "id": "a955884f798ac069",
+        "id": "db80115c8ff33306",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electromagnetic Fields/Electromagnetic Fields.md",
-            "mode": "source",
+            "file": "Electromagnetic Fields/Polarisering.md",
+            "mode": "preview",
             "source": false
           }
         }
       },
       {
-        "id": "1fcd3301e7208c3a",
+        "id": "f23cda9f4520996c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electromagnetic Fields/Electric field.md",
+            "file": "Electromagnetic Fields/capacitance.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2845264619145544",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electromagnetic Fields/Electric potential.md",
             "mode": "preview",
             "source": false
           }
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electromagnetic Fields/Conversion between different coordinate systems.md",
+                "file": "Electromagnetic Fields/Normal component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electromagnetic Fields/Conversion between different coordinate systems.md",
+                "file": "Electromagnetic Fields/Normal component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electromagnetic Fields/Conversion between different coordinate systems.md",
+                "file": "Electromagnetic Fields/Normal component.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,17 +260,17 @@
     "direction": "horizontal",
     "width": 216
   },
-  "active": "a0706c50e457dba5",
+  "active": "3b299ba12d8a33d3",
   "lastOpenFiles": [
+    "bajs.md",
+    "Electromagnetic Fields/Normal component.md",
     "Electromagnetic Fields/electric dipole.md",
+    "Electromagnetic Fields/Tangential component.md",
+    "Electromagnetic Fields/boundary conditions for electrostatic fields.md",
+    "Reglerteknik/dödtidskompensering.md",
+    "Electromagnetic Fields/Elmagi F8.md",
     "Electromagnetic Fields/Polarisering.md",
-    "Electromagnetic Fields/Electric potential.md",
-    "Electromagnetic Fields/Electromagnetic Fields.md",
-    "Electromagnetic Fields/dielectrics in static electric field.md",
-    "Electromagnetic Fields/Electric field.md",
-    "Electromagnetic Fields/Gauss law.md",
-    "Electromagnetic Fields/Electrostatics.md",
-    "Electromagnetic Fields/conductors in static electric field.md",
-    "Electromagnetic Fields/Elmagi F7.md"
+    "Electromagnetic Fields/capacitance.md",
+    "Electromagnetic Fields/Electric potential.md"
   ]
 }

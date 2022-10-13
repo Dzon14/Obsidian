@@ -1,5 +1,6 @@
 ---
 tags: [el]
+aliases: [electric potential]
 ---
 # Electric potential
 A measure that is related to the among of work to move a test charge $q_0$ in the E field due to another charge $q_{1}$ (or a system of multiple charges).
@@ -18,7 +19,7 @@ Electric potential is scalar, thus
 $$V = \frac{1}{4 \pi \varepsilon_0}\sum_{k=1}^{n}\frac{q_{k}}{\lvert \vec{R}-\vec{R'_{k} \rvert}}= V_{1}+..+V_{n}$$
 
 ## Example
-- Find $\vec{E}$ for an electric dipole (i.e., two charges $+q$ and $-q$ separated by distance $d$).
+- Find $\vec{E}$ for an [[electric dipole]] (i.e., two charges $+q$ and $-q$ separated by distance $d$).
 ![[Pasted image 20221005115418.png]]
 
 
