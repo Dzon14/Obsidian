@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "images",
   "promptDelete": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "showInlineTitle": false
 }

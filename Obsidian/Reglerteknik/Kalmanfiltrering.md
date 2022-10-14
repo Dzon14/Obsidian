@@ -1,5 +1,6 @@
 ---
 aliases: [kalman filtering]
+tags: [regler]
 ---
 # Kalmanfiltrering
 - [[State Feedback|tillståndsåterkoppling]] från F9 byggde på att vi kunde mäta samtliga tillstånd, vilket man normalt **inte** kan.
@@ -24,4 +25,3 @@ Vi kan själva välja hur snabbt felet $\tilde x$ avtar, genom att välja K så 
 
 Kalmanfiltret kan även skrivas $$\dot{\hat{x}} = (A-KC) \hat{x} + Bu + Ky$$
 
-#regler

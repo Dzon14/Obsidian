@@ -1,7 +1,9 @@
+---
+aliases: [digsig, signals]
+tags: [el]
+---
 
----
-aliases: [DigSig, Signals]
----
+
 
 # Digital Signalbehandling
 ![[Pasted image 20220831081724.png]]
@@ -22,7 +24,7 @@ aliases: [DigSig, Signals]
 
 
 ## Home assignments
-1. Starting sunday 2nd October, due date: wednesday 5th October.
+1. All done
 2. 
 
 ## Laborationer
@@ -30,4 +32,3 @@ aliases: [DigSig, Signals]
 Lab 1 - Audio and speech processing
 Lab 2 - Signal processing for communication systems
 
-#el 

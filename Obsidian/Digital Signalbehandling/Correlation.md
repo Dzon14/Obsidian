@@ -1,5 +1,7 @@
+---
+tags: [el]
+aliases: [korrelation]
+---
 # Correlation
-### Introduction (DigSig)
+## Introduction
 ![[Pasted image 20220831094643.png]]
-
-#el

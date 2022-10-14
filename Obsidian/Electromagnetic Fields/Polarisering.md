@@ -23,7 +23,7 @@ where they both are polarization or bounded charge densities.
 
 
 ## Fysik
-I en elektromagnetisk våg är det elektriska fältet vinkelrätt mot utbredningsriktningen. Om fältet endast oscillerar i en riktning är vågen linjärt polariserad. [[Vågor]] som är producerade av flera källor samtidigt är oftast inte polariserade. Ett stearinljus består av miljontals atomer som agerar självständigt, det elektriska fältet kan brytas ned i x- och y-komponenter som varierar slumpmässigt då det inte finns någon korrelation mellan atomerna som producerar ljuset.
+I en elektromagnetisk våg är det elektriska fältet vinkelrätt mot utbredningsriktningen. Om fältet endast oscillerar i en riktning är vågen linjärt polariserad. [[Vågor]] som är producerade av flera källor samtidigt är oftast inte polariserade. Ett stearinljus består av miljontals atomer som agerar självständigt, det elektriska fältet kan brytas ned i x- och y-komponenter som varierar slumpmässigt då det inte finns någon [[Correlation|korrelation]] mellan atomerna som producerar ljuset.
 
 Det finns fyra fenomen som kan producera polariserade elektromagnetiska [[Vågor]] från icke-polariserade [[Vågor]]: [[Absorption (fysik)|absorption]], [[Reflektion och refraktion|reflektion]], spridning, dubbelbrytning.
 
