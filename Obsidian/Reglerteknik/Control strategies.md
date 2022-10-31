@@ -1,4 +1,4 @@
-## Control strategies
+# Control strategies
 
 [[OnOff regulator (control strategy)]]
 

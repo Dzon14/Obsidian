@@ -2,9 +2,9 @@
 aliases: [tillståndsåterkoppling]
 ---
 # State Feedback
-**Begräsningar:**
+**Begränsningar:**
 - Vi kan normalt inte mäta samtliga tillstånd
-- Regulatorn saknar integralverkan, riskerar att få kvarstående stationära reglerfel.
+- Regulatorn saknar [[integralverkan]], riskerar att få kvarstående stationära reglerfel.
 #### Process
 (In state space form)
 $$\begin{cases} \dot{x} = Ax + Bu \\ y = Cx \end{cases}$$

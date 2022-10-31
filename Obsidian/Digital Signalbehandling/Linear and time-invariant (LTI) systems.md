@@ -13,7 +13,7 @@ With the input $$x(n) = Ae^{j \omega n}$$
 we get $$y(n) = \sum_{k=-\infty}^{\infty}h(k)Ae^{j \omega (n-k)}$$
 By splitting up to the exp in the sum we get $$y(n) = \sum_{k=-\infty}^{\infty}h(k)Ae^{j \omega n}e^{-j \omega k}$$
 We now write $$y(n) = \left( \sum_{k=-\infty}^{\infty} h(k)e^{-j \omega k}\right) Ae^{j \omega n}$$
-where the **parantese** is the **DTFT** $H(\omega)$ of $h(n)$.
+where the **parantese** is the **[[Discrete-time Fourier Transform|DTFT]]** $H(\omega)$ of $h(n)$.
 - The same complex sinusoid comes out of the LTI system but multiplied by a complex constant $H(\omega)$ - which means that the C-sinusoid is an egienfunction of the system with the eigenvalue $H(\omega)$.
 - **Reminder:** $Ax = \lambda x$, where x is the eigenvector and $\lambda$ is the eigenvalue.
 

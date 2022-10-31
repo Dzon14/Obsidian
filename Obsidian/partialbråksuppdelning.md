@@ -1,5 +1,7 @@
+---
+tags: [matte]
+---
 # Partialbråksuppdelning
 
 ## Handpåläggning
-
-#matte 
+![[Pasted image 20221018101908.png]]

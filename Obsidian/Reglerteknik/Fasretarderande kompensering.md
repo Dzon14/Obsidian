@@ -14,14 +14,14 @@ Vi har en [[Poles|pol]] vid $\omega = \frac{a}{M}$ som bryter ned frekvensen och
 - Minskar fasen
 
 **Användning:**
-- Minska stationära fel
+- Minska [[Stationary Errors|stationära fel]]
 - $G_{0}$ innehåller integrator $\Rightarrow$ felet minskar $M$ gånger.
 
 **Parametrar:**
-- M : Förstärkningen M ges av specifikationerna på hur mycket vi vill minska det stationära felet. Om den ursprungliga kretsöverföringsfunktionen $G_{0}$ innehåller minst en integrator kan man visa att det stationära felet minskar precis en faktor M.
+- M : Förstärkningen M ges av specifikationerna på hur mycket vi vill minska det [[Stationary Errors|stationära felet]]. Om den ursprungliga kretsöverföringsfunktionen $G_{0}$ innehåller minst en integrator kan man visa att det [[Stationary Errors|stationära felet]] minskar precis en faktor M.
 - a : Brytfrekvensen a bestämmer vid vilken frekvens förstärkningen i kompenseringslänken ska brytas ner från M till ett. En vanlig metod är att välja a så att den negativa fasvridningen inte påverkar fasmarginalen alltför mycket. Tumregeln $$a = 0.1 \omega_c$$
 ## Procedur
-1) Bestäm M ur specifikationer på stationära fel.
+1) Bestäm M ur specifikationer på [[Stationary Errors|stationära fel]].
 2) $a = 0.1 \omega_{c} \Rightarrow$ fasmarginalen minskar högst 6 grader.
 
 ## Exempel (elmotor)

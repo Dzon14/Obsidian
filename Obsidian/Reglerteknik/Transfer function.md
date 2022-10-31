@@ -3,7 +3,7 @@ aliases: [överföringsfunktion, överföringsfunktionen]
 tags: [regler]
 ---
 # Transfer function
-Laplace domain!
+- Laplace domain
 
 $Y(s) = G(s)U(s)$ , 
 where $G(s)$ is the model (transfer function of the system), $Y(s)$ is [[Laplacetransform|Laplace transformation]] of the output ($\mathcal{L}$(y(t)) and $U(s)$ is the laplace transform of the input 
@@ -39,8 +39,7 @@ Often one wants to alternate between working with the state space description an
 		- long vs short term
 		- oscillations
 
-Inputs can vary, see [[Impulse]] && [[Step]]
-
+Inputs can vary, see [[Impulssvar]] & [[Stegsvar]]
 
 Factorise the denominator of the transfer function, find the poles. Plot poles in the s-plane. The pole will affect the time-plane behaviour. 
 Stable if left side of the s-plane

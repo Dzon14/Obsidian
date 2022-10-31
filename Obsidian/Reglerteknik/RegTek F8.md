@@ -1,4 +1,4 @@
-# Reglerteknik F8 - Sensitivity function and stationary errors
+# Reglerteknik F8 - Sensitivity function and [[stationary errors]]
 
 # Topics
 

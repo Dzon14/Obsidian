@@ -1,8 +1,7 @@
 ---
 aliases: [Stabilitetsmarginaler]
 ---
-
-## Stability margins
+# Stability margins
 The margin towards the [[Stabilitet|stability]] limit. 
 
 ## Gain and phase margin

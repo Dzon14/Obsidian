@@ -1,5 +1,6 @@
 ---
 aliases: [control theory, automatic control, regler, regtek]
+tags: [regler]
 ---
 # Reglerteknik
 **Reglerteknik** är en uppsättning metoder för att reglera ett system så att det uppfyller de krav som ställs på systemet. Ofta används en [regulator](https://sv.wikipedia.org/wiki/Regulator_(reglerteknik) "Regulator (reglerteknik)") för regleringen av ett system. Reglertekniken har traditionellt utvecklats kring tekniska system och processer, ofta inom industrin, men är även tillämpbar inom andra områden som ekonomi och medicin.
@@ -31,8 +32,3 @@ Mail: Richard.pates@control.lth.se
  [[RegTek F12]] 
  [[RegTek F13]]
  [[RegTek F14]]
-
-
-## Laborationer
-
-#regler 

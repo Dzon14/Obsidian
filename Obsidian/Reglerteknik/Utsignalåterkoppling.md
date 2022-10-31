@@ -22,6 +22,6 @@ $A_e$ är blocktriangulär och dess karak. polynom är $$det(sI-A) = det(sI-(A-L
 där $$\begin{pmatrix} E \\ F \end{pmatrix} = \begin{pmatrix} sI-(A-BK) & -BK \\ 0 & sI - (A-LC) \end{pmatrix}^{-1} \begin{pmatrix} Bk_{r} \\ 0 \end{pmatrix} = C(sI - (A-BK))^{-1} Bk_{r}$$
 Kalman filtret har alltså försvunnit. Överföringsfunktioen blir alltså $$G_{e}(s) = C(sI - (A-BK))^{-1} Bk_{r}$$
 **Notera:**
-Med en n:te ordningens överföringsfunktion svarar mot n [[Styrbarhet|styrbara]] och [[Observerbarhet|observerbara]] tillstånd. Eventuellt övriga tillstånd är inte styrbara och observerbara.
+Med en n:te ordningens överföringsfunktion svarar mot n [[Styrbarhet|styrbara]] och [[Observerbarhet|observerbara]] tillstånd. Eventuellt övriga tillstånd är inte [[Styrbarhet|styrbara]] och observerbara.
 
 #regler 

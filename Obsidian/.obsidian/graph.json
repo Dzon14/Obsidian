@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "tag:#matstat",
+      "color": {
+        "a": 1,
+        "rgb": 6291713
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +81,6 @@
   "repelStrength": 8.70546318289786,
   "linkStrength": 1,
   "linkDistance": 212,
-  "scale": 0.044704300225398064,
+  "scale": 0.04489351237522856,
   "close": true
 }

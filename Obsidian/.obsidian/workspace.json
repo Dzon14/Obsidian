@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1bb80c7e2727048e",
+        "id": "586d41fcd6cc9682",
         "type": "tabs",
         "children": [
           {
-            "id": "c1784f614c49239d",
+            "id": "2abb01dcf1d10a42",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
-          },
-          {
-            "id": "c44240de2462e1fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reglerteknik/Kalmanfiltrering.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 200
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -98,6 +83,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "0562055e02b61b05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
@@ -107,23 +103,6 @@
         "dimension": 58.64779874213836,
         "children": [
           {
-            "id": "21e6cf4fb81462da",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Reglerteknik/Kalmanfiltrering.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "91d1e86eee472fa1",
             "type": "leaf",
             "state": {
@@ -131,18 +110,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "0ec428d977cbb307",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Reglerteknik/Kalmanfiltrering.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
               }
             }
           },
@@ -160,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reglerteknik/Kalmanfiltrering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,27 +154,55 @@
                 }
               }
             }
+          },
+          {
+            "id": "80f3244093ecde56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ac4fe3680d877b4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 200
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c44240de2462e1fa",
+  "active": "2abb01dcf1d10a42",
   "lastOpenFiles": [
-    "Reglerteknik/Sensitivity Function.md",
-    "Electromagnetic Fields/Gauss law.md",
-    "Electromagnetic Fields/Tangential component.md",
-    "Electromagnetic Fields/Normal component.md",
-    "Electromagnetic Fields/Gaussian surface.md",
-    "Electromagnetic Fields/capacitance.md",
-    "Electromagnetic Fields/boundary conditions for electrostatic fields.md",
-    "Electromagnetic Fields/Electric potential.md",
-    "Electromagnetic Fields/Elmagi F8.md",
-    "Digital Signalbehandling/circular convolution.md"
+    "Matematisk statistik/Matematisk statistik.md",
+    "Matematisk statistik/matstat F2.md",
+    "Matematisk statistik/matstat F1.md",
+    "Matematisk statistik/Kombinatorik.md",
+    "Matematisk statistik/Additionssatsen.md",
+    "Matematisk statistik/Sannolikhetsteori.md",
+    "Matematisk statistik/Sannolikhet.md",
+    "Matematisk statistik/Grundläggande Begrepp inom Matematisk Statistik.md",
+    "Matematisk statistik/Permutation.md",
+    "Matematisk statistik/Multiplikationsprincipen.md"
   ]
 }

@@ -1,7 +1,7 @@
 ---
-aliases: [bodediagrammet, bodediagram, bode]
+aliases: [bodediagrammet, bodediagram, bode, bode plot]
+tags: [regler]
 ---
-
 # The Bode plot
 Features two curves:
 - Magnitude - $\lvert G(i \omega) \rvert$, which is drawn in a logarithmic scale.
@@ -32,4 +32,4 @@ $$G(s) = \frac{1}{s+1}$$
 
 
 
-#regler 
+ 

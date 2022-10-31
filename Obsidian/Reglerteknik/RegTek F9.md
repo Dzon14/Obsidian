@@ -4,6 +4,7 @@ Första föreläsning på syntesdelen - hur man designar regulatorer
 ## Topics
 - [[State Feedback]] 
 - [[Styrbarhet]]
+- [[integralverkan]]
 
 
 #regler 

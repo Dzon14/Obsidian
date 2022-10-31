@@ -1,5 +1,6 @@
 ---
 aliases: [Z-transformen, Z-transformer]
+tags: [el]
 ---
 
 # Z-transform
@@ -75,4 +76,6 @@ $$y(n-k) \overset{z^{+}}{\longleftrightarrow} z^{-k}(Y^{+}(z) + \sum_{n=1}^{k}y(
 (skriv stor parantes)
 - $Y^{+}(z)$ gives a contribution from $y(n)$ for positive $n \geq 0$ 
 - The sum gives new values of $y(n)$ from $n < 0$
-#el
+
+## Bevis 
+[Z-transform - Wikipedia](https://en.wikipedia.org/wiki/Z-transform)

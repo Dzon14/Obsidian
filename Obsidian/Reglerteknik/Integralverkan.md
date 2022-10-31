@@ -2,8 +2,10 @@
 aliases: [integral action]
 ---
 # Integralverkan
+- Integralverkan ger en pol i $s=0$ vilket eliminerar [[Stationary Errors|stationära fel]].
+
 ![[Pasted image 20220915105020.png]]
-e - reglerfelet (differensen mellan referensvärder r och mätsignalen y)
+e - reglerfelet (differensen mellan referensvärdet r och mätsignalen y)
 $k_i$ - någon förstärkning
 Slutligen adderas bidraget från integraltermen till styrsignalen u.
 

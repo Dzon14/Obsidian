@@ -11,7 +11,7 @@ aliases: [PID parameters]
 - $\varphi_{m}$ - minskar fasmarginalen
 
 #### $T_{i}'$ minskar
-- $\lvert G_{R}' \rvert$ - förtärkningen ökas för låga frekvenser, innebär att eventuella stationära fel minskar. Snabbhet ökar
+- $\lvert G_{R}' \rvert$ - förtärkningen ökas för låga frekvenser, innebär att eventuella [[Stationary Errors|stationära fel]] minskar. Snabbhet ökar
 - $argG_{R}'$ - minskar fasen 
 - $\omega_c$ - ökar skärfrekvensen
 - $\varphi_m$ - minskar fasmarginalen. sämre robushet hos systemet.

@@ -7,4 +7,4 @@ Instead of letting $u_{0}$ be a constant parameter as for the [[Proportional con
 
 ![[Pasted image 20220830142955.png]]
 
-- eliminera stationära fel
+- eliminera [[Stationary Errors|stationära fel]]

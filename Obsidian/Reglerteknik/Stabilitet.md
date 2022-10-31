@@ -2,7 +2,7 @@
 aliases: [stability, stable, stabil, stabila, stabilt]
 ---
 # Stabilitet
-If all poles are in the left side of the complex plane.
+If all [[poles]] are in the left side of the complex plane.
 
 **Stability** - A linear dynamic system is stable if $x(t)$ is bounded for all initial states if 
 $u(t) = 0$.
@@ -21,7 +21,7 @@ The stability concept can also be determined from the eigenvalues of a diagonal 
 
 1. If all eigenvalues of the A matrix have negative real parts, the system is asymptotically stable.
 2. If any eigenvalue of the A matrix has positive real part, the system is unstable.
-3. If all eigenvalues of the A matrix have negative or zero real parts, the system is stable.
+3. If all eigenvalues of the A matrix have negative or [[Zeros|zero]] real parts, the system is stable.
 
 
 #regler

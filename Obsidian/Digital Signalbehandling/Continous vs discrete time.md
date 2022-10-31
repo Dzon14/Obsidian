@@ -1,4 +1,7 @@
-## Continous vs discrete time
+---
+tags: [el]
+---
+# Continous vs discrete time
 - Continous-time signals - the real world, analog circuits etc. 
 - Discrete-time signals are typically man made
 - Using only discrete-time signals, we can essentially not interact with the real world.
@@ -23,4 +26,4 @@ $x(n) = Acos(\omega n + \theta)$, $-\infty < n < \infty$
 - In Continous omega and frequency is written in big letters and small letters for discrete.
 Can also be written as $x(n) = Acos(\omega n + \theta) = \frac{A}{2}e^{j(\omega n + \theta)} + \frac{A}{2}e^{-j(\omega n + \theta)}$
 
-#el 
+ 
