@@ -2,7 +2,7 @@
 tags: [matstat]
 ---
 # Händelse
-En händelse är en samling [[Utfall]]
+En händelse (A) är en samling [[Utfall]]
 
 $$
 

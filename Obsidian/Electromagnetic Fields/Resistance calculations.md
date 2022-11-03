@@ -1,0 +1,4 @@
+---
+tags: [el]
+---
+# Resistance Calculations

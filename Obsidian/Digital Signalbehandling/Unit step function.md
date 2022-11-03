@@ -1,5 +1,5 @@
 ---
-aliases: [unit step, enhetssteg, enhetssteget]
+aliases: [unit step, enhetssteg, enhetssteget, stegfunktion]
 tags: [matte]
 ---
 # Unit step function

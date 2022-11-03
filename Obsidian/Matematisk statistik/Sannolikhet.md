@@ -1,5 +1,6 @@
 ---
 tags: [matstat]
+aliases: [sannolikheten]
 ---
 # Sannolikhet
 - Sannolikhet går inte att definiera på ett konsekvent sätt, inom [[Sannolikhetsteori|sannolikhetsteorin]] är sannolikhet bara ett tal vi själva väljer.

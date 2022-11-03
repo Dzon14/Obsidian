@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "586d41fcd6cc9682",
+        "id": "89f985cc08ceb019",
         "type": "tabs",
         "children": [
           {
-            "id": "2abb01dcf1d10a42",
+            "id": "489932453713b89b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electromagnetic Fields/Elmagi F10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22ff9642cadc6177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electromagnetic Fields/current densities.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -90,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electromagnetic Fields/current densities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Electromagnetic Fields/current densities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electromagnetic Fields/current densities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electromagnetic Fields/current densities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,22 +209,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "2abb01dcf1d10a42",
+  "active": "22ff9642cadc6177",
   "lastOpenFiles": [
-    "Matematisk statistik/Matematisk statistik.md",
-    "Matematisk statistik/matstat F2.md",
+    "Electromagnetic Fields/Elmagi F10.md",
+    "Electromagnetic Fields/Resistance calculations.md",
+    "Electromagnetic Fields/Ohm's law.md",
+    "Electromagnetic Fields/current densities.md",
+    "Electromagnetic Fields/Electromagnetic Fields.md",
     "Matematisk statistik/matstat F1.md",
-    "Matematisk statistik/Kombinatorik.md",
-    "Matematisk statistik/Additionssatsen.md",
-    "Matematisk statistik/Sannolikhetsteori.md",
-    "Matematisk statistik/Sannolikhet.md",
-    "Matematisk statistik/Grundläggande Begrepp inom Matematisk Statistik.md",
-    "Matematisk statistik/Permutation.md",
-    "Matematisk statistik/Multiplikationsprincipen.md"
+    "Matematisk statistik/matstat F2.md",
+    "sannolikhetstäthet.md",
+    "Matematisk statistik/sannolikhetsfunktionen.md",
+    "Matematisk statistik/oberoende händelser.md"
   ]
 }

@@ -14,6 +14,7 @@ aliases: [elmagi, elektromagnetisk fältteori]
 - [[Elmagi F7]]
 - [[Elmagi F8]]
 - [[Elmagi F9]]
+- [[Elmagi F10]]
 
 ## Info/länkar
 [Electrical and Information Technology, EITF80 Electromagnetic Fields (E) 2022/2023 (lth.se)](https://www.eit.lth.se/index.php?ciuid=1548&coursepage=10653&L=1) 
