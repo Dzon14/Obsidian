@@ -22,7 +22,7 @@ But we know from [[Elmagi F8]] that $$D_{1n} = \rho_{s}= \varepsilon_{0}E_{1n} \
 - A point charger near the corner of two right-angled infinite grounded plane. Find the locations of the image charges.
 ![[Pasted image 20221101105437.png]]
 
-Note: In general, the angle between the two planes can be $\alpha = \frac{360\degree}{M}$ , where M is an even number (Example 1 is the special case with M = 2 and Example 2 is the special case with M = 4) . Then, M −1 image charges can be used to achieve $V_{0}= 0$ at the boundary.
+Note: In general, **the angle between the two planes can be** $\alpha = \frac{360\degree}{M}$ , where M is an even number (Example 1 is the special case with M = 2 and Example 2 is the special case with M = 4) . Then, M −1 image charges can be used to achieve $V_{0}= 0$ at the boundary.
 
 ## Example 3 
 - An [[electric dipole]] above an infinite grounded plane. Find the image charge locations.

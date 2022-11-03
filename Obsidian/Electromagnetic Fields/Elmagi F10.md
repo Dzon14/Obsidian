@@ -4,4 +4,5 @@ In [[Elmagi F9]] we studied [[capacitance]] by introducing the general case of t
 ## Topics
 - [[current densities]] (Used to derive Ohm's law)
 - [[Ohm's law]] 
+- [[Ohm's law in point form]]
 - [[Resistance calculations]]
