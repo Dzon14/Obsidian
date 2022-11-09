@@ -22,3 +22,9 @@ In metal conductors with electroncs being the charge carrier: $\vec{u} = - \mu_{
 
 **Demo:**
 http://demonstrations.wolfram.com/ElectricCurrent/
+
+## Charge density of drifting electrons (from Cheng)
+$$\begin{align} \rho_{e}= -Ne \\ \\ \rho_{e} = - \frac{\sigma}{\mu_{e}} \end{align}$$
+
+## Drift velocity
+$$\begin{align} u = \left\lvert \frac{J}{\rho_{e}} \right\rvert = \left\lvert \frac{\mu_{e} J}{\sigma} \right\rvert = \lvert \mu_{e}E \rvert\end{align}$$

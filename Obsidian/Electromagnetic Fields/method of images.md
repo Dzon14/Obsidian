@@ -40,4 +40,4 @@ At point $M$, $$\begin{align} V_{M}= \frac{1}{4 \pi \varepsilon_{0}} \left(\frac
 
 1) Make an initial guess of the positions(s) of the image charge(s).
 2) If needed, use the [[boundary conditions for electrostatic fields|boundary condition]] (e.g., $V_{0}=0$) to find the exact position(s) and magnitude of the charge(s), e.g. the case of point charge outside a grounded sphere.
-3) Once the image charge(s) is found, then use it together with the real chrage(s) to determine the $\vec{E}$ field everywhere outside the conductor. 
+3) Once the image charge(s) is found, then use it together with the real charge(s) to determine the $\vec{E}$ field everywhere outside the conductor. 

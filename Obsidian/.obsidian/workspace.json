@@ -4,52 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "f2c6b599310922bf",
+        "id": "0fdc24df9e0dd071",
         "type": "tabs",
         "children": [
           {
-            "id": "10bd9115797809a7",
+            "id": "5ec990c6ac8a2550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electromagnetic Fields/Elmagi F9.md",
+                "file": "Electromagnetic Fields/Electromagnetic Fields.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b8b58714278f4adc",
+            "id": "b22b251863893105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electromagnetic Fields/method of images.md",
+                "file": "Electromagnetic Fields/Elmagi F12.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fbe6d4863c7a6c5a",
+            "id": "8a746664b04f5054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electromagnetic Fields/Electric field.md",
+                "file": "Electromagnetic Fields/application of Biot-Savart law.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "677260c92946ce29",
+            "id": "51af593f5b95eab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electromagnetic Fields/capacitance.md",
+                "file": "Electromagnetic Fields/Biot-Savart law.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#regler",
+                "query": "referens",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electromagnetic Fields/Electric field.md",
+                "file": "Electromagnetic Fields/application of Biot-Savart law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electromagnetic Fields/Electric field.md",
+                "file": "Electromagnetic Fields/application of Biot-Savart law.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electromagnetic Fields/Electric field.md",
+                "file": "Electromagnetic Fields/application of Biot-Savart law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electromagnetic Fields/Electric field.md",
+                "file": "Electromagnetic Fields/application of Biot-Savart law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,19 +233,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
-  "active": "fbe6d4863c7a6c5a",
+  "active": "8a746664b04f5054",
   "lastOpenFiles": [
-    "Electromagnetic Fields/method of images.md",
-    "Electromagnetic Fields/Elmagi F9.md",
-    "Electromagnetic Fields/capacitance.md",
-    "Electromagnetic Fields/Elmagi F10.md",
-    "Electromagnetic Fields/Resistance calculations.md",
-    "Electromagnetic Fields/Ohm's law.md",
-    "Electromagnetic Fields/Ohm's law in point form.md",
-    "Electromagnetic Fields/current densities.md",
+    "Electromagnetic Fields/Elmagi F12.md",
+    "Electromagnetic Fields/Biot-Savart law.md",
+    "Electromagnetic Fields/Lorentz' force equation.md",
+    "Electromagnetic Fields/magnetostatics.md",
     "Electromagnetic Fields/Electromagnetic Fields.md",
-    "Matematisk statistik/matstat F1.md"
+    "Matematisk statistik/Matematisk statistik.md",
+    "Matematisk statistik/matstat F4.md",
+    "Matematisk statistik/spridningsmått.md",
+    "Matematisk statistik/väntevärden.md",
+    "Matematisk statistik/standardavvikelse.md"
   ]
 }

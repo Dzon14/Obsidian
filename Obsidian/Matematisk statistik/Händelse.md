@@ -1,5 +1,6 @@
 ---
 tags: [matstat]
+aliases: [händelserna, händelsen]
 ---
 # Händelse
 En händelse (A) är en samling [[Utfall]]
