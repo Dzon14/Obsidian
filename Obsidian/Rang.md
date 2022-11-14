@@ -1,6 +1,7 @@
 ---
 aliases:
  -"Rank"
+tags: [matte]
 ---
 Antalet [[linjärt oberoende]] rader eller kolumner i en matris.
 

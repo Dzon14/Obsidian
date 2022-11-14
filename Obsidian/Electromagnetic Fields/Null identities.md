@@ -1,5 +1,5 @@
 ---
-tags: [elmagi]
+tags: [el]
 ---
 # Two Null Identities
 Defined by using knowledge on [[Gradient]], [[divergence]] and [[Curl]].

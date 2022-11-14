@@ -1,4 +1,7 @@
-## Drivna svängningar
+---
+tags: [fysik]
+---
+# Drivna svängningar
 
 Om man tillför mekanisk [[Energi]] till ett system blir det en driven svängning, exempelvis om en motor drar massan på en fjäder upp och ned. Det är ett specialfall då den drivande kraften kan beskrivas som en sinusformad rörelse. Den drivande kraften kan beskrivas med 
 

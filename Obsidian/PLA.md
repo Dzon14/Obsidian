@@ -1,6 +1,7 @@
 ---
 aliases:
  - "Programmable Logic Array"
+tags: [el]
 ---
 
 # Programmable Logic Array

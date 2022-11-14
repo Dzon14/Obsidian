@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 Teckenregler för [[Speglar]] (konvention):
 
 1.  $s$ är positiv om objektet är framför spegeln.

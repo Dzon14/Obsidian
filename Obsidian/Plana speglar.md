@@ -1,4 +1,7 @@
-### Plana [[Speglar]]
+---
+tags: [fysik]
+---
+# Plana [[Speglar]]
 
 ![[Pasted image 20211024133639.png|300]]
 I figuren ovan visas hur ljusstrålar från en punkt $P$ reflekteras av en plan spegel. Efter reflektionen färdas strålarna precis som om de hade kommit direkt från en punkt $P'$ bakom spegeln. Bilden i $P'$ kallas för en **[[Virtuell Bild]]**, då inget [[Ljus]] faktiskt strålar ut från den. Spegelplanet är vinkelrät mot [[Bisektris|bisektrisen]] till linjen som går från $P$ till $P'$, de ligger alltså på samma avstånd från spegeln. Bilden kan ses av ett öga som befinner sig var som helst i det färgade området i bilden, i vilken en rät linje som dras från ögat till $P'$ korsar spegeln.

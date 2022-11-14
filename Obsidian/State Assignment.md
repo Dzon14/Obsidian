@@ -1,6 +1,7 @@
 ---
 aliases:
  - "Tillståndskodning"
+tags: [el]
 ---
 
 State assignment = tillståndskodning

@@ -2,6 +2,7 @@
 aliases:
  - "linjärt sekvensnät"
  - "linjära sekvensnät"
+tags: [el]
 ---
 
 ![[Pasted image 20211028085046.png]]

@@ -1,4 +1,7 @@
-## Kretsprocesser
+---
+tags: [fysik]
+---
+# Kretsprocesser
 En kretsprocess återvänder till startpunkten. Varje delprocess kan modelleras approximativt med ett av de [[Termodynamik|fyra specialfallen]]. [[Värme]] måste tillföras och avges under kretsprocessens gång. Om gasen komprimeras
 
 ### Verkningsgrad

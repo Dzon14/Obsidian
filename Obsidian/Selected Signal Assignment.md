@@ -1,4 +1,7 @@
-### Selected Signal Assignment
+---
+tags: [el]
+---
+# Selected Signal Assignment
 Similar to the [Conditional signal assignment], but here no priority between inputs.
 ![[Pasted image 20211103104228.png]]
 where abc is a [[Signal buses|signal bus]]

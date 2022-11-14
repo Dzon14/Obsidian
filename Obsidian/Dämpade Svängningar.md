@@ -1,4 +1,7 @@
-## Dämpade Svängningar
+---
+tags: [fysik]
+---
+# Dämpade Svängningar
 
 
 En fjäder som oscillerar dämpas av luftmotståndet. För varje svängning försvinner en del av [[Energi|energin]]. Det är alltså inte ett system utan förluster. Den dämpande kraften ges av

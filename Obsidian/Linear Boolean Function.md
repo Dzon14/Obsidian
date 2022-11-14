@@ -2,6 +2,7 @@
 aliases:
  -"linjär boolsk funktion"
  -""
+tags: [matte]
 ---
 
 En funktion är linjär om 

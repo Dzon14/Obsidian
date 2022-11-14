@@ -1,4 +1,7 @@
-## Speglar
+---
+tags: [fysik]
+---
+# Speglar
 [[Plana speglar]]
 [[Sfäriska speglar]] 
 

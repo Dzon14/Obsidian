@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Finite state machines
 Usually it is described in two divided parts (two processes), The combinational part and the memory
 ![[Pasted image 20211108100624.png|500]]

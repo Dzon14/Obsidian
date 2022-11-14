@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ab61a8d73557ed5c",
+        "id": "cd722239fa003de4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Electromagnetic Fields/Elmagi F13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3500249a9702004e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electromagnetic Fields/Ampere's circuital law.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -89,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electromagnetic Fields/Ampere's circuital law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electromagnetic Fields/Ampere's circuital law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Electromagnetic Fields/Ampere's circuital law.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,17 +188,17 @@
     "direction": "horizontal",
     "width": 216
   },
-  "active": "ab61a8d73557ed5c",
+  "active": "3500249a9702004e",
   "lastOpenFiles": [
+    "Electromagnetic Fields/magnetostatics.md",
+    "Electromagnetic Fields/Ampere's circuital law.md",
+    "Electromagnetic Fields/vector magnetic potential.md",
+    "Electromagnetic Fields/Elmagi F13.md",
+    "Electromagnetic Fields/Electromagnetic Fields.md",
     "Digital Signalbehandling/Correlation.md",
     "Digital Signalbehandling/Faltning.md",
     "Digital Signalbehandling/Digital Signalbehandling.md",
     "Electromagnetic Fields/Electric potential.md",
-    "Electromagnetic Fields/capacitance.md",
-    "Electromagnetic Fields/Polarisering.md",
-    "Electromagnetic Fields/electric dipole.md",
-    "Electromagnetic Fields/Tangential component.md",
-    "Electromagnetic Fields/boundary conditions for electrostatic fields.md",
-    "Electromagnetic Fields/Elmagi F8.md"
+    "Electromagnetic Fields/capacitance.md"
   ]
 }

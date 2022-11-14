@@ -2,6 +2,7 @@
 aliases: 
   - "boolsk kropp"
   - "boolean fields"
+tags: [el]
 ---
 
 Om mod-talet är ett primtal då är det ett field!

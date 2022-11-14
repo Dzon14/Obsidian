@@ -1,4 +1,7 @@
-## Rörelse i tre dimensioner
+---
+tags: [fysik]
+---
+# Rörelse i tre dimensioner
 Vektorn $r$ brukar kallas **[[Positionsvektor|positionsvektorn]]**, och används ofta när man ska beskriva avstånd i tre dimensioner. Den beskriver avståndet från origo i koordinatsystemet till partikeln. I tre dimensioner kan storheterna delas upp i sina komponenter, exempelvis hastighetsvektorn kan delas upp i tre komponentvektorer: x-led, y-led och z-led. Hastigheten i y-led kommer inte påverka hastigheten i z-led m.m (typ, skit i luftmotstånd och whatever), alltså kan dessa oftast beräknas separat från varandra. I specialfallet kaströrelse gäller följande formler:
 
 $$v = \begin{pmatrix} v_{0x} \\  v_{0y} - gt \end{pmatrix} = \begin{pmatrix}v_0cos\theta_0 \\ v_0sin\theta_0 - gt\end{pmatrix}$$

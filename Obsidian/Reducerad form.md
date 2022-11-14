@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 
 ## Reducerad form av [[Linear Sequential Circuit|linjära sekvensnät]]
 1. Ta fram [[Diagnostic Matrix|K-matrisen]] och räkna ut dess [[rang]]. Om rangen är mindre än antalet rader så går kretsen att minimera. 

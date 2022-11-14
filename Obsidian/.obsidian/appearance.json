@@ -1,10 +1,10 @@
 {
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "theme": "obsidian",
   "cssTheme": "Obsidianite",
   "textFontFamily": "Calibri",
+  "translucency": false,
   "accentColor": "",
   "showViewHeader": true,
-  "translucency": false,
   "nativeMenus": false
 }

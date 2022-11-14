@@ -2,6 +2,7 @@
 aliases:
  - "boolska räknelagar"
  - "boolean operations"
+tags: [el]
 ---
 
 [[Boolean Ring]]

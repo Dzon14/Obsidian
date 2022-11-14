@@ -1,4 +1,7 @@
-## Rörelse i en dimension
+---
+tags: [fysik]
+---
+# Rörelse i en dimension
 Om x(t) beskriver en partikels position kan dess hastighet beskrivas som $v(t) = \frac{dx}{dt}$, och accelerationen som $a(t) = \frac{dv}{dt} = \frac{dx^2}{d^2t}$. 
 
 För specialfallet då det är likformig linjär rörelse, dvs konstant acceleration, gäller följande samband:

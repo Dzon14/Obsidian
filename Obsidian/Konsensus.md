@@ -1,6 +1,7 @@
 ---
 aliases:
  - "consensus"
+tags: [el]
 ---
 
 Konsensus är när man har två boolska termer och hittar en tredje typ

@@ -1,5 +1,5 @@
 ---
-tags: [elmagi]
+tags: [el]
 ---
 # Curl
 The curl of a vector field $\vec{A}$ at a point is defined as a vector whose magnitude is the net circulation of $\vec{A}$ (along closed loop C) per unit area as the area (encircled by C) tends to zero, and whose direction is the normal direction of the area when the area is oriented to make the net circulation maximum

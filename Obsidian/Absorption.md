@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 Absorption 
 
 $$ab + b = b $$

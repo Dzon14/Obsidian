@@ -3,6 +3,7 @@ aliases:
   - "linear-feedback shift register"
   - "linear feedback shift register"
   - "linjärt återkopplat skiftregister"
+tags: [el]
 ---
 
 Ett linjärt återkopplat skiftregister är en kaskad av [[Minneselement]] vars input är en linjär kombination (ges av [[återkopplingspolynom]])

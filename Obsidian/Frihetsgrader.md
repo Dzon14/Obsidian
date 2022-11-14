@@ -1,4 +1,7 @@
-## Frihetsgrader
+---
+tags: [fysik]
+---
+# Frihetsgrader
 Antalet oberoende sätt som gasen kan lagra [[Energi]]. Beror på temperaturen! 
 ![[Pasted image 20211024161045.png|440]]
 

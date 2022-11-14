@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Implementing Digital Circuits
 [[Diskret komponent|Diskreta komponenter]]
 [[Konfiguerbar logik]]

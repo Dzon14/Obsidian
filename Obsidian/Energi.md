@@ -2,6 +2,7 @@
 aliases:
  - "energin"
  - "energy"
+tags: [fysik]
 ---
 # Energi
 

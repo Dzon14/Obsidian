@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 En periodisk sekvens har D-transformen 
 
 $$S(D) = \frac{P(D)}{1 + D^T}$$

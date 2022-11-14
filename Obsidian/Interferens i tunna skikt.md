@@ -1,4 +1,7 @@
-## Interferens i tunna skikt
+---
+tags: [fysik]
+---
+# Interferens i tunna skikt
 
 Att såpbubblor får färgglada "band" beror på interferens av [[Ljus]] som reflekteras från bubblan. [[Ljus|Ljuset]] reflekteras först när det går från luft till bubbla, sedan igen när det går från bubbla till luft. De olika färgerna uppstår då bubblan varierar i tjocklek, vilket orsakar interferens får olika våglängder på olika platser. En bubbla är ett exempel på ett tunt skikt. Anti-reflexbehandlade glasögon har ett tunt skikt för att ge minimal reflektion.
 

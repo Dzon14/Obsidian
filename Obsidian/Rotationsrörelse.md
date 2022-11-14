@@ -1,4 +1,7 @@
-## Rotationsrörelse
+---
+tags: [fysik]
+---
+# Rotationsrörelse
 
 [[Tröghetsmoment]]
 

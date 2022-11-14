@@ -1,4 +1,7 @@
-## Elektromagnetisk Strålning
+---
+tags: [fysik]
+---
+# Elektromagnetisk Strålning
 
 
 Elektromagnetisk strålning består av ett elektriskt fält och ett magnetiskt fält som oscillerar med samma fas vinkelrätt mot varandra. Båda oscillerar vinkelrätt mot utbredningsriktningen. Förhållandet mellan magnituderna på den magnetiska och elektriska vågen kan skrivas

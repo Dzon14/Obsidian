@@ -1,4 +1,7 @@
-## Termodynamikens Huvudsatser
+---
+tags: [fysik]
+---
+# Termodynamikens Huvudsatser
 ### Energiprincipen 
 $$Q = \Delta E_{int}+W$$
 $Q>0$ tillför [[Värme]]

@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 # Svängningar
 
 [[Harmonisk Svängningsrörelse]]

@@ -1,4 +1,7 @@
-# Digitalteknik #moc 
+---
+tags: [el]
+---
+# Digitalteknik
 
 ## Föreläsningar:
 [[DigTek F15]]

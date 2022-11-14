@@ -1,5 +1,6 @@
 ---
 aliases: [Field Programmable Gate Array]
+tags: [el]
 ---
 # FPGA - Field Programmable Gate Array
 - Programmerbar

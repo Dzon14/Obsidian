@@ -1,4 +1,7 @@
-# Rörelsemängd %%mekanik%%
+---
+tags: [fysik]
+---
+# Rörelsemängd 
 
 Rörelsemängden är produkten av ett objekts [[massa]] och [[hastighet]]
 

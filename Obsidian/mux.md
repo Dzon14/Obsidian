@@ -1,5 +1,6 @@
 ---
 aliases: [Multiplexer]
+tags: [el]
 ---
 
 # MUX - Multiplexer

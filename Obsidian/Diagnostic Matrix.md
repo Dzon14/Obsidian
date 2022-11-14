@@ -1,6 +1,7 @@
 ---
 aliases:
   - "K-matrisen"
+tags: [el]
 ---
 
 En pr x r - matris, där p är antalet outputs från [[Linear Sequential Circuit]] och r är antalet tillstånds-variabler. Max [[Rang]] är r.

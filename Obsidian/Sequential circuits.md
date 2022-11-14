@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Sequential circuits
 The output depends not only on current input but also on past. 
 A memory is needed to implement this.

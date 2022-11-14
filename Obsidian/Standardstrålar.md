@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 Det finns tre **standardstrålar** som är väldigt bekväma att använda när
 man behandlar [[Speglar]] (se figur
 

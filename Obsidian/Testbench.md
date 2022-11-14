@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Testbench
 [[VHDL]] can be used to create testbenches that can generate input patterns to a circuit that we test during simulation.
 - A testbench is not intended to be used during synthesis

@@ -1,6 +1,7 @@
 ---
 aliases:
  - "väsentlig primimplikator"
+tags: [el]
 ---
 
 

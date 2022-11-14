@@ -1,5 +1,6 @@
 ---
 aliases: [ASIC, asic, Application Specific Integrated Circuit]
+tags: [el]
 ---
 
 #### ASIC - Application Specific Integrated Circuit

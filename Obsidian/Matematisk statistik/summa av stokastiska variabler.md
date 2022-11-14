@@ -16,3 +16,9 @@ Om X och Y är **oberoende** och genom derivering med avseende på z får vi fö
 
 #### Exempel
 ![[Pasted image 20221108174145.png]]
+
+## Summa (av [[väntevärden]] osv?)
+
+**Sats:** För alla [[stokastisk variabel|s.v]] X och Y gäller
+$$\begin{align} &E(X + Y) = E(X) + E(Y) \\ &V(X + Y) = V(X) + V(Y) + 2C(X,Y) \end{align}$$
+**Följdsats:** För [[oberoende stokastiska variabler]] gäller $$\begin{align} &V(X+Y) = V(X) + V(Y) \\ &D(X+Y) = \sqrt{D^{2}(X)+D^{2}(Y)} \end{align}$$

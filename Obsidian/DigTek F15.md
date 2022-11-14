@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 
 # DigTek 2nd period - Lecture 15
 

@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 # Arbete
 
 Arbete är överföring av [[Energi]] via en [[Krafter|kraft]]. När man drar ut en

@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 # Våglära
 
 ## [[Ljus]]

@@ -3,6 +3,7 @@ aliases:
  - "C(D)"
  - "feedback function"
  - "connection polynomial"
+tags: [el]
 ---
 
 Återkopplingspolynomet C(D) beskriver [[Feedback|återkopplingen]] för ett [[LFSR|linjärt återkopplat skiftregister]]. Graden på polynomet beskriver hur många [[fördröjningselement]] som behövs för att realisera kretsen.

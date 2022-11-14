@@ -1,4 +1,7 @@
-### Värmestrålning
+---
+tags: [fysik]
+---
+# Värmestrålning
 
 Gäller för alla kroppar, även i vakuum. Alla kroppar strålar ut värme.
 

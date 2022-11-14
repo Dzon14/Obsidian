@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Konfiguerbar logik
 [[PLD]] 
 [[FPGA]] 

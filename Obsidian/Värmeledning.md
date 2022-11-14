@@ -1,5 +1,8 @@
+---
+tags: [fysik]
+---
 
-### Värmeledning
+# Värmeledning
 ![[Effekt#Transporterad Effekt termodynamik]]
 
 #### Elektrisk Analog

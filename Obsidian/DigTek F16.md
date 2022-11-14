@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Digitalteknik Föreläsning 16 - Combinational circuits in [[VHDL]]
 
 ## Innehåll:

@@ -1,4 +1,4 @@
 ---
-tags: [elmagi]
+tags: [el]
 ---
 # Maxwell's equations

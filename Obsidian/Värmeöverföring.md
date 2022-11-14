@@ -1,6 +1,7 @@
 ---
 aliases:
  - "heat transfer"
+tags: [fysik]
 ---
 
 ### Värmeöverföring

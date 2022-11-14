@@ -1,4 +1,7 @@
-## Värmekapacitet
+---
+tags: [fysik]
+---
+# Värmekapacitet
 ### Molar värmekapacitet
 $c_v = \frac{f}{2}R$
 v:et står för konstant volym

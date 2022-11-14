@@ -2,6 +2,7 @@
 aliases:
  - "bezouts identitet"
  - "bezouts identity"
+tags: [matte]
 ---
 
 Vi kan skriva ett uttryck på formen

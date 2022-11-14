@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 # Newtons Lagar
 [[Mekanik]]
 ## Tröghetslagen

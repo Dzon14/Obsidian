@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Digitalteknik F17 - Sequential Circuits
 
 ## Innehåll:

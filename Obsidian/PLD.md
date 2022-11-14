@@ -1,5 +1,6 @@
 ---
 aliases: [programmable logic device]
+tags: [el]
 ---
 
 # PLD - Programmable Logic Device

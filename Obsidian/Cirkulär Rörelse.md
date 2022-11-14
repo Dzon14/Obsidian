@@ -1,4 +1,7 @@
-## Cirkulär Rörelse
+---
+tags: [fysik]
+---
+# Cirkulär Rörelse
 ### Likformig cirkulär rörelse
 ![[Pasted image 20211023181423.png|300]]
 Rörelse i en cirkel med konstant hastighet kallas för likformig cirkulär rörelse. Trots att hastigheten är konstant så accelererar objektet konstant. Accelerationen är riktad in mot cirkelns mittpunkt, och kan härledas till

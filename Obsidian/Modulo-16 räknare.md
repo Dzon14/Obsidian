@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Modulo-16 räknare
 
 Exempel: Konstruktion av mod-16 räknare med [[Adder]], [[Register]] och [[mux|Multiplexer]]: 

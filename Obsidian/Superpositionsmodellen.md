@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Superpositionsmodellen
 
 ![[Pasted image 20211215134617.png|400]]

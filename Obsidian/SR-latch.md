@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 Set - reset latch. 
 
 ![[Pasted image 20211027153134.png]]

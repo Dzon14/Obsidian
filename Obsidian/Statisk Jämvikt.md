@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 # Frikoppsdiagram
 Friläggning/frikropps-diagram är en metod för att praktiskt lösa många mekaniska problem.
 

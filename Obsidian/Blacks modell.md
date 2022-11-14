@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Blacks modell
 
 ![[Pasted image 20211215133838.png|400]]

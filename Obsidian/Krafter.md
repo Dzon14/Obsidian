@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 # Krafter
 
 För att lösa problem med krafter är det väldigt användbart att rita ett [[Statisk Jämvikt#Frikoppsdiagram|frikroppsdiagram]]

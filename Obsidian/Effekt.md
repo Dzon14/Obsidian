@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 # Effekt
 Effekt definieras som [[Arbete]] per tidsenhet $P = \frac{dW}{dt}$. Vid
 konstant hastighet blir effekten

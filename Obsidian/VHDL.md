@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # VHDL 
 - En typ av [[Hardware Description Language]]
 "Very high speed integrated circuit Hardware Description Language"

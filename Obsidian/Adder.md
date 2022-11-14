@@ -1,5 +1,6 @@
 ---
 aliases: [Adderare]
+tags: [el]
 ---
 
 # Adder

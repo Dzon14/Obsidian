@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 Den reducerade massan för två objekt är
 
 $$\mu = \frac{m\cdot M}{m+M}$$

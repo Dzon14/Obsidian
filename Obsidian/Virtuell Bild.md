@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 En virtuell bild är en bild som ser ut att vara positionerad på ett ställe, fast att den egentligen inte är det.  Begreppet används när man pratar om bland annat [[Speglar]] 
 
 En verklig bild är, till skillnad från en virtuell bild, en bild som är på den plats den ser ut att vara.

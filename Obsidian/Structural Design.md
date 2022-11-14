@@ -1,4 +1,7 @@
-### Structural Design
+---
+tags: [el]
+---
+# Structural Design
 This is a schematic at block level dsecribed in text. We describe which component or module that should be in this diagram and how they are connected.
 In code we use the name "component" instead of "entity"
 We use port and port maps which tells us how everything should be connected (input for ex)

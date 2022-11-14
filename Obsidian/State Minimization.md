@@ -1,6 +1,7 @@
 ---
 aliases:
  - "tillståndsminimering"
+tags: [el]
 ---
 
 Förenkla [[Tillståndsgraf]] så att man får färre tillstånd

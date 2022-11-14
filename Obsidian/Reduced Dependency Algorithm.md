@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 En sorts [[State Assignment]] där man för varje par av tillstånd:
 
 1. Antar att de tillhör samma block

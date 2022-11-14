@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 ![[Pasted image 20211024135837.png|380]]
 
 Förhållandet mellan objektets och bildens höjd definieras som bildens **lateralförstoring** $m$. I bilden ovan kan vi se att

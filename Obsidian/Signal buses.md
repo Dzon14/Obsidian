@@ -1,5 +1,6 @@
 ---
 aliases: [signal bus]
+tags: [el]
 ---
 # Signal Buses
 Signal buses is a more convenient way of treating multiple bits or wires. 

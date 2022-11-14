@@ -1,5 +1,5 @@
 ---
-tags: [elmagi]
+tags: [el]
 ---
 # Stoke's theorem
 

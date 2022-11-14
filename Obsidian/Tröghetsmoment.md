@@ -1,3 +1,6 @@
+---
+tags: [fysik]
+---
 # Tröghetsmoment
 
 Den kinetiska [[Energi|energin]] för ett objekt som roterar runt en axel ges av 

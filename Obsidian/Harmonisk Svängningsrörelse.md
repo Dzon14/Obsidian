@@ -1,4 +1,7 @@
-## Harmonisk Svängningsrörelse
+---
+tags: [fysik]
+---
+# Harmonisk Svängningsrörelse
 
 I en harmonisk svängningsrörelse är accelerationen, och därmed [[krafter|nettokraften]], proportionella och riktade mot jämviktsläget. Om man drar en hängande fjäder nedåt kommer fjäderkraften vara riktad uppåt, mot fjäderns jämviktsläge. Om man sen släpper fjädern kommer den dras ihop och botten kommer passera jämviktsläget, varpå [[fjäderkraft|fjäderkraften]] blir riktad nedåt. På så sätt oscillerar (svänger) fjädern runt sitt jämviktsläge. Fjäderkraften ges av hookes lag $F = -kx$.
 

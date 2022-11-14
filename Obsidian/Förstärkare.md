@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Förstärkare
 Något som ökar effektinnehållet i en signal (eventuellt sortomvandlare)
 Idealt multiplikation med en konstant. Sådana kretsar finns bara som passiva.

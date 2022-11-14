@@ -2,6 +2,7 @@
 aliases:
  - "disjunctive normal form"
  - "DNF"
+tags: [el]
 ---
 disjunktiv = separerad (med eller)
 

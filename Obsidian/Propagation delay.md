@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Propagation delay - fördröjning i krets
 
 - load capacitance

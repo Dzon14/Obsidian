@@ -1,6 +1,7 @@
 ---
 aliases:
  - "heat"
+tags: [fysik]
 ---
 
 # Värme

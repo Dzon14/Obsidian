@@ -1,6 +1,7 @@
 ---
 aliases:
  - "Inverse Matrix"
+tags: [matte]
 ---
 För den [[Kvadratisk Matris|kvadratiska matrisen]] A är den inversa matrisen $A^{-1}$ den matris som, när multiplicerad med A via [[Matrismultiplikation]] bildar [[Enhetsmatris|Enhetsmatrisen]]
 
