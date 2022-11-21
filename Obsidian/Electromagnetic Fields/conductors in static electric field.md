@@ -8,7 +8,7 @@ tags: [el]
 	- free electrons (negative) start to move towards $\vec{E}_{0}$ to the surface
 	- Induced field $\vec{E}_{1}$ is formed by charge movements
 	- $\vec{E}_1$ increases until it cancels $\vec{E}_{0}$ inside the conductor
-	- $\vec{E} = 0 = \frac{\vec{F}}{q}$ inside conductor, meaning no net fo rce on free internal charges. (static/equilibrium)
+	- $\vec{E} = 0 = \frac{\vec{F}}{q}$ inside conductor, meaning no net force on free internal charges. (static/equilibrium)
 2. Net charge densit $\rho = 0$ inside a conductor.
 	- Proven with [[Gauss law]] (point form): $$\nabla \cdot \vec{E} = \frac{\rho}{\varepsilon_{0}} = 0 \Rightarrow \rho = 0$$
 3. Any net charge appears on the surface

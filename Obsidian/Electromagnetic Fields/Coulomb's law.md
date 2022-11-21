@@ -10,7 +10,7 @@ where coloumbs constant is $k_{c}= \frac{1}{4 \pi \varepsilon_0} \approx 9 \cdot
 ![[Pasted image 20220919112433.png|600]]''
 
 **In general:** 
-$$ \vec{F_{m}} = \frac{q_{m}}{4 \pi \varepsilon_{0}}\sum_{k = 1, k \neq m}^{n}\frac{q_k}{R^{2}_{km}} \vec{a}_{R_{km}}$$
+$$ \vec{F}_{m} = \frac{q_{m}}{4 \pi \varepsilon_{0}}\sum_{k = 1, k \neq m}^{n}\frac{q_k}{R^{2}_{km}} \vec{a}_{R_{km}}$$
 with n charges
 
 ![[Pasted image 20221005103544.png]]

@@ -9,3 +9,5 @@ aliases: [boundary condition, boundary conditions]
 [[Tangential component]]
 [[Normal component]]
 
+![[Pasted image 20221118124323.png]]
+

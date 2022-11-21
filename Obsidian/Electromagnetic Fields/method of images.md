@@ -2,13 +2,13 @@
 tags: [el]
 ---
 # Method of Images 
-If charge distribution is lnown everywhere, we can calculate [[Electric potential]] $V$ and [[Electric field]] $\vec{E}$. But if not, we cannot find $V$ or $\vec{E}$ using any of the methods taught in the course so far! 
+If charge distribution is known everywhere, we can calculate [[Electric potential]] $V$ and [[Electric field]] $\vec{E}$. But if not, we cannot find $V$ or $\vec{E}$ using any of the methods taught in the course so far! 
 However, when conducting bodies have boundaries of a simple geometry, we can replace these boundaries by image (equivalent) charges to satisfy the equipotential [[boundary conditions for electrostatic fields|boundary condition]] of [[Conductor|conductors]] (e.g. $V_{0}= 0$ if grounded). Note that the image charges are NOT real, similar as the idea of surface and volume densitites of bounded charges used to describe the [[Polarisering|polarization]] of a [[dielectrics|dielectric]] in an [[Electric field]] ([[Elmagi F7]]).
 
 Method of images is an example application of the uniqueness theorem, i.e. a solution of an electrostatic problem satisfying its boundary conditions is the only possible solution (even if obtained by an intelligent guess).
 
 ## Example 1 
-- A point chargr +q is at a distance d from an infinitely large grounded conducting plane (in vacuum). Find $V$ or $\vec{E}$ above the plane. 
+- A point charge +q is at a distance d from an infinitely large grounded conducting plane (in vacuum). Find $V$ or $\vec{E}$ above the plane. 
 ![[Pasted image 20221101105356.png]]
 - What is the surface charge distribution on the grounded conducting plane?
 - How to use the method of images? We need to ensure that the [[boundary conditions for electrostatic fields|boundary condition]]

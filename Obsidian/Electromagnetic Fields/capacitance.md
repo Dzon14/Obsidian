@@ -3,7 +3,7 @@ tags: [el]
 aliases: [capacitor]
 ---
 # Capacitance
-(Note: Capacitance and capacitor is not the same thing. Capacitor is a passive device whilst capacitance is the property of a capacutor).
+(Note: Capacitance and capacitor is not the same thing. Capacitor is a passive device whilst capacitance is the property of a capacitor).
 - Capacitance is a physical property of the two-conductor system
 - The system is separated by vacuum or [[dielectrics]].
 

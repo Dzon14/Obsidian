@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Elmagi F1 - Introduction
 
 # Topics
@@ -6,4 +9,3 @@
 - [[Electric field]]
 - [[Electric potential]] 
 
-#el 

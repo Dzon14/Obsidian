@@ -2,7 +2,7 @@
 tags: [el]
 ---
 # [[Dielectrics]] in Static Electric Field
-No free electrons, but ounded ones.
+No free electrons, but bounded ones.
 
 1) $\vec{E}_{0}$ can cause the positive/negative charges to be displaced in opposite direction $\Rightarrow$ induced electric dipoles by "stretching" the atom.
 2) Some [[dielectrics]] have permament [[electric dipole]] behaviour even without any external field $\Rightarrow$ polar molecules, eg. $H_{2}O$ molecules. These are not aligned to one another in general. However, an external field $\vec{E}_{0}$ will cause a polar molecule to align itself with the field.

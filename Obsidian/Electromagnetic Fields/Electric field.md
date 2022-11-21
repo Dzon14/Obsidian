@@ -1,5 +1,6 @@
 ---
 aliases: [field]
+tags: [el]
 ---
 # Electric field
 Based on electric force. If we want to know the force on a test charge ($q_0$), due to a given charge ($q_1$), the answer is [[Coulomb's law]]
@@ -18,4 +19,6 @@ $$d \vec{E} = \vec{a}_{R} \frac{dq_{0}}{4 \pi \varepsilon_{0}R^{2}}$$
 - For volume charges of charge density p. $$\vec{E} = \frac{1}{4 \pi \varepsilon_{0}}\int_{V'}^{} \vec{a}_{R}\frac{p}{R^{2}} \ dv'$$
 ![[Pasted image 20220919114800.png|600]]
 
-#el 
+
+- For a positive charge the electric force will be in the same direction as the field.
+- For a negative charge the electric force will be in the same direction as the field. 

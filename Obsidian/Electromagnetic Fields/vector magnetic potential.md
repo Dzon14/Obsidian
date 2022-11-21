@@ -8,9 +8,11 @@ To define the vector $\vec{A}$, we need to specify its [[divergence]] and [[Curl
 
 - We can **derive** $\vec{A}$ from [[Ampere's circuital law]] in point form.
 
-In the derivation we find the vector [[Poisson's equation]]: $$\nabla^{2} \vec{A} = - \mu_{0}\vec{J}$$with the solution to Possion being: $$\begin{align}  &\vec{A} = \frac{\mu_{0}}{4 \pi} \int\limits_{V'}^{} \frac{\vec{J}}{R} \ dv' \ \ [Wb/m] \\ &\text{or equivalently for thin wire}, \\ &\vec{A}=\frac{\mu_{0}I}{4 \pi}\oint\limits_{C'}^{} \frac{d \vec{l}'}{R} \end{align}$$ (FEL NÅNSTANS)
+In the derivation we find the vector [[Poisson's equation]]: $$\nabla^{2} \vec{A} = - \mu_{0}\vec{J}$$with the solution to Possion being: $$\begin{align}  &\vec{A} = \frac{\mu_{0}}{4 \pi} \int\limits_{V'}^{} \frac{\vec{J}}{R} \ dv' \ \ [Wb/m] \\ &\text{or equivalently for thin wire}, \\ &\vec{A}=\frac{\mu_{0}I}{4 \pi}\oint\limits_{C'}^{} \frac{d \vec{l}'}{R} \end{align}$$
 See: [[magnetic flux]] and its relation to $\vec{A}$.
 Physical interpretation: Circulation of A around C equals the total magnetic flux passing through the surface enclosed by the flux.
+
+- We also have $$\vec{B} = \nabla \times \vec{A}$$
 
 ## Exempel
 ![[Pasted image 20221114115606.png]]

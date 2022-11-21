@@ -1,5 +1,6 @@
 ---
 aliases: [dot product, skalärprodukt]
+tags: [matte]
 ---
 # Scalar product
 dot product
@@ -12,4 +13,3 @@ $$\vec{A} \cdot \vec{B}  \overset{\Delta}{=} \lvert \vec{A} \rvert \lvert \vec{B
 - NOT associative - $(\vec{A} \cdot \vec{B}) \cdot \vec{C} \neq \vec{A} \cdot (\vec{B} \cdot \vec{C})$
 (not associative because of they're vectors)
 
-#matte 

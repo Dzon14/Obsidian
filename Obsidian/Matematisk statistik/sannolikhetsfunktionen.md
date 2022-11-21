@@ -1,5 +1,6 @@
 ---
 tags: [matstat]
+aliases: [sannolikhetsfunktion]
 ---
 # Sannolikhetsfunktionen
 $$

@@ -16,6 +16,8 @@ tags: [matstat]
 - [[matstat F3]]
 - [[matstat F4]]
 - [[matstat F5]]
+- [[matstat F6]]
+- [[matstat F7]]
 
 ## Laborationer
 [[MatstatLab1]]

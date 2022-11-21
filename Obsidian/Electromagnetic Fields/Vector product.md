@@ -1,5 +1,6 @@
 ---
 aliases: [cross product]
+tags: [matte]
 ---
 # Vector product
 ![[Pasted image 20220921102915.png]]
@@ -16,4 +17,3 @@ $$\vec{A} \times \vec{B} \overset{\Delta}{=} \vec{a}_{n} \lvert ABsin \theta_{AB
 
 **Note:** there can be a product of three vectors , using both vector and scalar product.
 
-#matte 
