@@ -14,5 +14,4 @@ The [[divergence]] of the [[curl]] of any [[vector field]] is identically zero: 
 Shown on p.62 in course book.
 - This also implies that if a vector field $\vec{B}$ is divergenceless ($\nabla \cdot \vec{B}= 0$), then it can be expressed as the [[Curl]] of another [[vector field]] ($\vec{B} = \nabla \times \vec{A}$).
 - We call this field solenoidal
-- 
 

@@ -1,7 +1,7 @@
 ---
 tags: [el]
 ---
-# [[Dielectrics]] in Static Electric Field
+# [[dielectrics]] in Static Electric Field
 No free electrons, but bounded ones.
 
 1) $\vec{E}_{0}$ can cause the positive/negative charges to be displaced in opposite direction $\Rightarrow$ induced electric dipoles by "stretching" the atom.

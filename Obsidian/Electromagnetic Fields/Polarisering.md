@@ -1,6 +1,6 @@
 ---
 tags: [fysik]
-aliases: [polarization]
+aliases: [polarization, polarize]
 ---
 # Polarisering
 

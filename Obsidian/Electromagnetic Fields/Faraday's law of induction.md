@@ -1,6 +1,7 @@
 ---
 tags: [el]
 ---
-# Maxwell's equations
-1. 
+# Faradays law of electromagnetic induction
+
+## Point form
 $$\nabla \times \vec{E} = - \frac{\partial \vec{B}}{\partial t}$$

@@ -1,5 +1,6 @@
 ---
 aliases: [D-delen, D-controller, D-part]
+tags: [regler]
 ---
 
 # Derivative control strategy

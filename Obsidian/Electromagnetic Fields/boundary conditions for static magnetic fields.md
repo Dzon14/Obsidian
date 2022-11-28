@@ -3,6 +3,7 @@ tags: [el]
 ---
 # Boundary Conditions for static magnetic fields
 (In vacuum we cannot have a boundary condition)
+![[Pasted image 20221128103646.png]]
 
 ## Three tasks
 
@@ -33,5 +34,5 @@ $\Rightarrow$ Tangential component is then **continous** across the boundary in 
 ### Task 3
 ![[Pasted image 20221121105411.png]]
 
-Conclusion: $$\Phi_{m} = 0 \ \ \text{ no flux passing through } \rightarrow A_{1t}=A_{2t} \ \ (continous)$$.
+Conclusion: $$\Phi_{m} = 0 \ \ \text{ no flux passing through } \rightarrow A_{1t}=A_{2t} \ \ (continous)$$
 

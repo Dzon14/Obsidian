@@ -1,5 +1,6 @@
 ---
 tags: [el]
+aliases: [magnetic circuit]
 ---
 # Magnetic circuits
 Magnetic circuits are not as prominent as electric circuits, but no less important. Some examples are transformers, generators, motors, relays and magnetic recording devices

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "056d532cb1582ed4",
+        "id": "23ac0f2255c88376",
         "type": "tabs",
         "children": [
           {
-            "id": "9a228038584b7aa0",
+            "id": "0d50888c87d37013",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "charge distribution",
+                "query": "tag:#regler",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,24 +182,23 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 200
   },
-  "active": "9a228038584b7aa0",
+  "active": "0d50888c87d37013",
   "lastOpenFiles": [
     "Matematisk statistik/Matematisk statistik.md",
-    "matstat F7.md",
-    "Matematisk statistik/Poisson-fördelning.md",
-    "Matematisk statistik/betingade variansen.md",
-    "variansen.md",
-    "Matematisk statistik/binomialfördelning.md",
-    "Matematisk statistik/Bernoullis sats.md",
-    "Matematisk statistik/sannolikhetsfunktionen.md",
-    "Matematisk statistik/fördelningsfunktion.md",
-    "Electromagnetic Fields/method of images.md"
+    "Matematisk statistik/matstat F8.md",
+    "matstat F9.md",
+    "Matematisk statistik/intervallskattning.md",
+    "Matematisk statistik/normalfördelning.md",
+    "Matematisk statistik/punktskattning.md",
+    "Matematisk statistik/linjärkombination.md",
+    "Electromagnetic Fields/Electromagnetic Fields.md",
+    "Electromagnetic Fields/magnetic circuits.md",
+    "Electromagnetic Fields/Elmagi F15.md"
   ]
 }

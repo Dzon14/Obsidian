@@ -1,5 +1,5 @@
 ---
-aliases: [betingade varianser]
+aliases: [betingade varianser, varians]
 tags: [matstat]
 ---
 # Betingade variansen 

@@ -1,6 +1,6 @@
 ---
 tags: [matstat]
-aliases: [normalfördelat, normalfördelad]
+aliases: [normalfördelat, normalfördelad, normalfördelningen]
 ---
 # Normalfördelning
 Används ofta för beskrivning av variationen hos olika företeelser. 
@@ -22,3 +22,5 @@ Täthetsfunktion och fördelningsfunktion ges enligt sats nedan.
 **Sats 6.2:** Om $X \in N(\mu, \sigma)$, så gäller att $$E(X) = \mu, \ \ \ V(X) = \sigma^{2}, \ \ \ D(X) = \sigma$$
 **Utseende:**
 ![[Pasted image 20221115164720.png]]
+
+## Lin

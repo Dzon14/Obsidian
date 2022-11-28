@@ -20,6 +20,8 @@ aliases: [elmagi, elektromagnetisk fältteori]
 - [[Elmagi F13]]
 - [[Elmagi F14]]
 - [[Elmagi F15]]
+- [[Elmagi F16]]
+- [[Elmagi F17]]
 
 ## Info/länkar
 [Electrical and Information Technology, EITF80 Electromagnetic Fields (E) 2022/2023 (lth.se)](https://www.eit.lth.se/index.php?ciuid=1548&coursepage=10653&L=1) 
@@ -29,7 +31,6 @@ The story of Electricity (BBC)
 ## Plan
 
 #### Inför dugga
-- Kolla på "Ultimat Biot-Savart law review"
 - Kolla videos på kursboken
 - Läsa kursboken och göra om uppgifter
 - Lecture 1-10
