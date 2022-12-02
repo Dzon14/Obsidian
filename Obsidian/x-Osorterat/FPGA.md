@@ -4,7 +4,7 @@ tags: [el]
 ---
 # FPGA - Field Programmable Gate Array
 - Programmerbar
-- Använder D-[[vippor]].
+- Använder D-[[Vippor]].
 - "Look-up tables"
 
 [[EDA]] - Ett program för att programmera FPGA.

@@ -1,7 +1,7 @@
 ## Rekursiv metod:
 En rekursiv metod måste ha:
 - [[Parameter|parametrar]] 
-- [[basfall]]
+- [[Basfall]]
 - rekursiva anrop
 
 ### Exempel: Beräkna potenser

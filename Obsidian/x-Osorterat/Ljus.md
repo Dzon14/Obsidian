@@ -5,7 +5,7 @@ tags: [fysik]
 
 # Ljus
 
-Ljus beter sig både som [[vågor]] och små [[Energi|energipaket]] (fotoner)
+Ljus beter sig både som [[Vågor]] och små [[Energi|energipaket]] (fotoner)
 
 ![[Brytningsindex]]
 

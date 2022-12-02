@@ -1,6 +1,6 @@
 ## Värderingsprinciper
 
-Behövs för att företaget inte ska ge en alltför [[ljus]] eller mörk bild av verksamheten vid Tillgångar, Skulder och Resultat (Se [[Resultaträkning och Balansräkning]])
+Behövs för att företaget inte ska ge en alltför [[Ljus]] eller mörk bild av verksamheten vid Tillgångar, Skulder och Resultat (Se [[Resultaträkning och Balansräkning]])
 
 ### Värderingen regleras av olika lagar
 - Värdering av Tillgångar, Skulder och Avsättningar regleras både i den civilsrättsliga lagstiftningen och i Skattelagstiftningen

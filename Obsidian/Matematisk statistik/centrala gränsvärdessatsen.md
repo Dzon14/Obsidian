@@ -2,6 +2,7 @@
 tags: [matstat]
 ---
 # Centrala gränsvärdessatsen
+Visar bl.a betydelsen för [[normalfördelning]], där summan av ett stort antal [[oberoende stokastiska variabler]] är approximativt [[normalfördelning|normalfördelad]] under vissa förutsättningar.  
 
 ## Satser
 **Sats 6.8:** Om $X_{1},X_{2},...$ är en oändligt följd av oneroende likafördelade [[stokastisk variabel|s.v]]. med [[väntevärden|väntevärdet]] $\mu$ och [[standardavvikelse|standardavvikelsen]] $\sigma > 0$, så gäller för $Y_{n} = X_{1}+...+X_{n}$ att $$P \left( a < \frac{Y_{n}-n \mu}{\sigma \sqrt{n}} \leq b \right) \rightarrow \Phi(b) - \Phi(a) \ \ \ \ \text{ då } n \rightarrow \infty$$

@@ -21,7 +21,7 @@ In this case, $C = \frac{Q}{V_{12}}$, where $V_{12}$ is the potential differene 
 ## [[How to find the capacitance]]
 
 ## 3 or more [[Conductor|conductors]]
-In general we consider an N-[[conductor]] system in an isolated system. The charges from all conductors contribute to the [[electric potential]] in each conductor. 
+In general we consider an N-[[Conductor]] system in an isolated system. The charges from all conductors contribute to the [[electric potential]] in each conductor. 
 $$V_{N} = p_{N1}Q_{1}+p_{N2}Q_{2} + \text{... }+ p_{NN}Q_{N}$$whereas $p_{ij} \equiv \text{coefficients of potential}$, or in terms of charges $$Q_{N} = c_{N1}V_{1}+c_{N2}V_{2}+ \text{ ... } + c_{NN}V_{N}$$where $c_{ii} \equiv \text{coefficients of capacitance}$ and $c_{iy}(i \neq j) \equiv \text{coefficients of induction}$.  
 
 - How do we relate coefficients of capacitance and induction to coupling capacitance of two conductors? For a 3-conductor system, conductor 0 is conducting earth at $V_{0}= 0$.

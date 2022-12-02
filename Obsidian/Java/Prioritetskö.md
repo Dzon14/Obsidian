@@ -26,7 +26,7 @@ En prioritetskö är stabil om element med lika prioritet plockas ut i samma ord
 Nackdel: Vissa operationer blir långsamma O(n)
 - Heap
 
-Finns specialfall när prioritetskö inte implementeras med [[heap]]. 
+Finns specialfall när prioritetskö inte implementeras med [[Heap]]. 
 
 ### [[Heap]]
 

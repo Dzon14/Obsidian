@@ -6,7 +6,7 @@ aliases: [spridningsmåttet, spridningsmåtten]
 Det är inte alltid tillräckligt med att känna till [[lägesmått|lägesmåttet]]. T.ex kan en tvåpunktsfördelad [[stokastisk variabel|s.v]]. med olika värden och väntevärden få en olika utspridd fördelning.
 
 ## Definitioner
-**Def 5.2:** Variansen $V(X)$ för en s.v. X med $\mu = E(X)$ är $$V(X) = E ((X-\mu)^{2})$$Variansen är alltså [[väntevärden|väntevärdet]] för den s.v. $Y=(X-\mu)^{2}$.
+**Def 5.2:** [[varians]] $V(X)$ för en s.v. X med $\mu = E(X)$ är $$V(X) = E ((X-\mu)^{2})$$Variansen är alltså [[väntevärden|väntevärdet]] för den s.v. $Y=(X-\mu)^{2}$.
 
 **Def 5.3:** [[standardavvikelse|standardavvikelsen]] $D(X)$ för en s.v. X är kvadratroten ur variansen $$D(X) = \sqrt{V(X)}$$
 **Def 5.4:** Kvoten $$R(X) = \frac{D(X)}{E(X)}$$kallas **varianskoefficienten**.

@@ -23,4 +23,3 @@ Täthetsfunktion och fördelningsfunktion ges enligt sats nedan.
 **Utseende:**
 ![[Pasted image 20221115164720.png]]
 
-## Lin

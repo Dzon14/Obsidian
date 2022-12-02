@@ -42,7 +42,7 @@ passar bra i speciella sammanhang och är enkla att implementera (två nästlade
 Snabb metod
 Sortera vänstra halvan, sen högra halvan och sedan samsortera (merge) de båda sorterade halvorna
 
-Nedan används [[Divide and conquer]] tekniken i [[mergeSort]].
+Nedan används [[Divide and conquer]] tekniken i [[Mergesort]].
 ```java
 public static void sort(int[] a) {
 	int[] tmpArray = new int[a.length];

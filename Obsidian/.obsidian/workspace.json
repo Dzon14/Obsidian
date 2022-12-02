@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "23ac0f2255c88376",
+        "id": "8ed55a910b40a650",
         "type": "tabs",
         "children": [
           {
-            "id": "0d50888c87d37013",
+            "id": "c0fa7715557e4a15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matematisk statistik/sannolikhetsfunktionen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matematisk statistik/sannolikhetsfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Matematisk statistik/sannolikhetsfunktionen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matematisk statistik/sannolikhetsfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matematisk statistik/sannolikhetsfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,23 +190,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 200
   },
-  "active": "0d50888c87d37013",
+  "active": "c0fa7715557e4a15",
   "lastOpenFiles": [
+    "Matematisk statistik/varians.md",
     "Matematisk statistik/Matematisk statistik.md",
-    "Matematisk statistik/matstat F8.md",
-    "matstat F9.md",
-    "Matematisk statistik/intervallskattning.md",
-    "Matematisk statistik/normalfördelning.md",
-    "Matematisk statistik/punktskattning.md",
-    "Matematisk statistik/linjärkombination.md",
-    "Electromagnetic Fields/Electromagnetic Fields.md",
-    "Electromagnetic Fields/magnetic circuits.md",
-    "Electromagnetic Fields/Elmagi F15.md"
+    "Matematisk statistik/matstat F4.md",
+    "x-Osorterat/Ägarförhållanden.md",
+    "Matematisk statistik/väntevärden.md",
+    "Matematisk statistik/funktioner av en stokastisk variabel.md",
+    "Matematisk statistik/fördelningsfunktion.md",
+    "Matematisk statistik/sannolikhetsfunktionen.md",
+    "Matematisk statistik/täthetsfunktion.md",
+    "Matematisk statistik/faltningsformeln.md"
   ]
 }

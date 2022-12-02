@@ -7,7 +7,7 @@
 		- **Förvaltningsberättelse** (Ska enligt ÅRL ge en rättvisande bild över utvecklingen av företagets verksamhet, finansiella ställning och resultat). Ger en mer komplett bild av företaget.
 		- Förslag till resultatdisposition undertecknad av VD och styrelse
 		- **Revisionsberättelse** (inte en direkt del av årsredovisning): Revisorerna ger rapporter (årsredovisning, styrelsens förvaltng av företag). Ska innehålla uttalande om ansvarsfrihet för styrelse och VD, Fastställa BR och RR, Styrelsens förslag till resultatdisposition. Hit Bifogas årsredovisningen!
-- Behandlas på företagets[[ årsstämma]] (bolagsstämma)
+- Behandlas på företagets[[ Årsstämma]] (bolagsstämma)
 - Skickas in till Bolagsverket och blir därigenom offentlig handling
 
 ### Redovisningsprocessen och viktiga begrepp

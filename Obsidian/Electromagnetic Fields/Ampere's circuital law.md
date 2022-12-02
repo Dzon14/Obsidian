@@ -17,7 +17,7 @@ $\oint\limits_{C}^{} \vec{B} \cdot \ d \vec{l} = \mu_{0}I_{enc}$
 - Find an Amperian loop C - the loop C to fulfill the symmetry conditions
 - $\lvert \vec{B} \rvert$ constant along C
 - $\vec{B} || d \vec{l}$ along C
-You can only use the aw if you know the entire circuit, since there must be symmetry. Don't use it if you only know about a part/section of the circuit. 
+You can only use the law if you know the entire circuit, since there must be symmetry. Don't use it if you only know about a part/section of the circuit. 
 
 ### Point form 
 When deriving we first get Ampere's circuital law in **point form** which is $$\begin{align} \nabla \times \vec{B}(R) = \frac{\mu_{0}}{4 \pi} \int\limits_{V'}^{} \vec{J}(\vec{R}')4 \pi \delta (\lvert \vec{R} - \vec{R}' \rvert) \ dv' 

@@ -3,7 +3,7 @@ aliases: [rotort, rotorten]
 ---
 # Root locus
 (aliases: rotort, rotorten)
-- Shows how the [[poles]] are translated when a control-loop [[parameter]] is varied. 
+- Shows how the [[poles]] are translated when a control-loop [[Parameter]] is varied. 
 $$Y(s) = \frac{KQ(s)}{P(s)+KQ(s)}R(s)$$
 P is a controller with gain K. The close-loop zeros are unaffected by K, the poles will however vary with K.
 - The locus for the roots in the characteristic polynom ([[transfer function]]).

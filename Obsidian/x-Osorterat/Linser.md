@@ -3,7 +3,7 @@ tags: [fysik]
 ---
 # Linser
 ![[Pasted image 20211024141155.png|400]]
-Figuren ovan visar hur [[Ljus|ljusets]] vågfronter påverkas av att gå in i ett nytt media där vågorna rör sig långsammare (alltså högre n, tänk $n=\frac{c}{v}$). Bilden i $P'$ bildas alltså genom refraktion in i ett nytt [[medium|media]]. Observera att det endast är i det paraxiella området (alltså där strålarna är [[Paraxiella strålar|paraxiella]]) som strålarna konvergerar till en punkt. Med hjälp av [[Brytningslagen]] kan följande ekvation som visar sambandet mellan [[brytningsindex]] ($n_1$ och $n_2$) och avstånd ($s$,$s'$ och $r$) härledas. 
+Figuren ovan visar hur [[Ljus|ljusets]] vågfronter påverkas av att gå in i ett nytt media där vågorna rör sig långsammare (alltså högre n, tänk $n=\frac{c}{v}$). Bilden i $P'$ bildas alltså genom refraktion in i ett nytt [[medium|media]]. Observera att det endast är i det paraxiella området (alltså där strålarna är [[Paraxiella strålar|paraxiella]]) som strålarna konvergerar till en punkt. Med hjälp av [[Brytningslagen]] kan följande ekvation som visar sambandet mellan [[Brytningsindex]] ($n_1$ och $n_2$) och avstånd ($s$,$s'$ och $r$) härledas. 
 
 $$\frac{n_1}{s} + \frac{n_2}{s'}=\frac{n_2-n_1}{r}$$
 
@@ -30,7 +30,7 @@ denna ekvation kallas **[[Linstillverkarformeln]]**. Kan skrivas om till
 
 ![[Gauss lins-formel]]
 
-som är *[[Gauss lins-formel]]*. Denna är samma som [[spegelekvationen]], bara
+som är *[[Gauss lins-formel]]*. Denna är samma som [[Spegelekvationen]], bara
 att konventionen är annorlunda för när $s'$ är positiv.
 
 En lins som är tjockare i mitten än vid kanterna (ex: konvex (kon-växer

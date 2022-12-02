@@ -7,4 +7,4 @@ När elektroner övergår från en högre energinivå till en lägre så frigör
 
 ![[Pasted image 20211024181752.png|300]]
 
-Energinivåerna konvergerar mot joniseringsenergin, dvs [[Energi|energin]] som behöver tillföras för att helt frigöra [[Energi|energin]]. Högre energiskillnad leder till kortare våglängd. Bara vissa övergångar emitterar [[ljus]] som ligger i det synliga spektrat.
+Energinivåerna konvergerar mot joniseringsenergin, dvs [[Energi|energin]] som behöver tillföras för att helt frigöra [[Energi|energin]]. Högre energiskillnad leder till kortare våglängd. Bara vissa övergångar emitterar [[Ljus]] som ligger i det synliga spektrat.

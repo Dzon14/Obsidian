@@ -17,3 +17,7 @@ Se även [[Bayes formel]]
 ## Egenskaper
 $$\begin{align} P(B^*|A) = 1 - P(B|A) \\ P(B \cup C|A) = P(B|A) + P(C|A) - P(B \cap C|A) \end{align}$$ där C är någon händelse.
 
+
+## Se också:
+- [[lagen om total sannolikhet]]
+- [[Bayes formel]]
