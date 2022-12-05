@@ -31,4 +31,22 @@ Två olika situationer:
 ![[Pasted image 20221129163451.png|500]]
 ![[Pasted image 20221129163502.png|500]]
 
-2) ![[Pasted image 20221129163742.png|600]]
+2) 
+   ![[Pasted image 20221129163742.png|600]]
+
+## Användning av normalapproximationen
+Tidigare diskussion om användning av normalapproximationen vid [[intervallskattning]] kan nu överföras till hypotesprövning.
+
+Man tar en testavariabel av formen $(\theta^{*} - \theta_{0})/D$ eller, om D inte är helt känt, $(\theta^{*} - \theta_{0})/d$ och kan, om kvoten ifråga kan antas ungefär [[normalfördelning|normalfördelad]], utföra ett test på samma sätt som för intervallskattning. Skillnaden är att *signifikansnivån* nu inte kan bestämmas exakt
+![[Pasted image 20221205183626.png|650]]
+
+## Tillämpning på [[binomialfördelning|binomialfördelningen]]
+Vi visar detta genom exemplen nedan:
+![[Pasted image 20221205190148.png|650]]
+![[Pasted image 20221205190253.png|650]]
+
+Nollhypotesen antas $H_{0} : p_{1} = p_{2}
+Antag att $H_{0}$ är sann och kalla det gemensamma värdet $p_{1}=p_{2}$ för $p$. Man inser att en skattning av $p$ ges av $$p_{obs}^{*} = \frac{(x_{1} + x_{2})}{(n_{1} + n_{2})}$$([[Maximum-likelihood-metoden|ML-skattningen]]). Med samma beteckningar som för intervallskattning för binomialfördelning, så får vi, om $H_{0}$ är sann, $$D = \sqrt{\frac{pq}{n_{1}}+\frac{pq}{n_{2}}} = \sqrt{pq \left( \frac{1}{n_{1}}+\frac{1}{n_{2}} \right)}$$Som medelfel tar vi $$d = \sqrt{p_{obs}^{*}(1-p_{obs}^{*})\left( \frac{1}{n_{1}} + \frac{1}{n_{2}} \right)}$$och bildar sedan kvoten $$u = \frac{(p_{1})_{obs}^{*} - (p_{2})_{obs}^{*}}{d}$$Därmed är det approximativa testet klart. 
+**Exempel:**
+![[Pasted image 20221205191802.png|600]]
+

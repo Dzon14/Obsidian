@@ -1,5 +1,6 @@
 ---
 tags: [el]
+aliases: [wave equation]
 ---
 # Wave equations
 
@@ -12,5 +13,5 @@ The solutions are
 2. Retarded vector potential: $$\vec{A}(R,t) = \frac{\mu}{4 \pi}\int\limits_{V'}^{} \frac{\vec{J}(t-\frac{R}{u})}{R} \ dv' \ \ \ \ [Wb/m]$$(This is when substituting $\vec{V}$ with $\vec{A}$). We can then find $\vec{B}$ through $\vec{B}= \nabla \times \vec{A}$.
 
 From lecture:
-![[Pasted image 20221130113247.png]]
+
 ![[Pasted image 20221130113305.png]]
