@@ -2,13 +2,25 @@
 tags: [matstat]
 ---
 # Hypotesprövning 
+Kan utföras med 3 olika metoder:
+1. Direktmetoden eller P-värde
+- Antag att $H_{0}$ sann
+- Räkna ut P-värdet $p = P$
+- Om $p < \alpha$ förkastas $H_{0}$
+2. Konfidensmetoden
+- Gör ett konfidensintervall med konfidensgraden $1 - \alpha$ och förkasta $H_{0}$ på nivån $\alpha$ om intervallet ej täcker $\theta_{0}$.
+- Intervallen ska, beroende på $H_{1}$, vara
+  ![[Pasted image 20221205193408.png]]
+3. Testkvantitet $T(X)$ och kritiskt område $C$
+- Förkasta $H_{0}$ om testkvantiteten hamnar i det kritiska området. 
+- $C$ och $T$ ska väljas så att $$\alpha = P(T(X) \in C) = P(\text{"Förkasta H0 om H0är sann"})$$
 
 ## Generell metod
 Vi har ett slumpmässigt stickprov från en fördelning (eller flera stickprov från flera fördelningar). Vi har en nollhypotes $H_0$ som ska prövas. (Nollhypotes - specificerar hur fördelningen ser ut). 
 - Om $H_{0}$ omfattar ett enda värde på $\theta$ kallas hypotesen **enkel**. Annars **sammansatt**.
 
 För att pröva $H_{0}$ hittar vi en lämplig *testvariabel* eller *teststorhet* $t= t_{obs} = t(x)$. Testvariablen ($t_{obs}$) är en observatiom av en stickprovsvariabel $t(X)$. Vi anger även ett *kritiskt område* C (en del av området som t varierar över). 
-	Signifikanstest: $$\begin{align} \text{Om }\  &t_{obs} \in C \ \text{ förkasta } H_{0} \\ &t_{obs} \notin  C \ \text{ förkasta ej } \ H_{0} \end{align}$$Vi avpassar $C$ så att $$P(t(X) \in C) = \alpha \ \ \text{ om } H_{0} \text{ sann }$$
+	Signifikanstest: $$ \begin{align} \text{Om }\  &t_{obs} \in C \ \text{ förkasta } H_{0} \\ &t_{obs} \notin  C \ \text{ förkasta ej } \ H_{0} \end{align}$$Vi avpassar $C$ så att $$P(t(X) \in C) = \alpha \ \ \text{ om } H_{0} \text{ sann }$$
 där $\alpha$ är testets *signifikansnivå* (alt. felrisk). $\alpha$ bör vara liten. 
 I det övre fallet är resultatet signifikant. I det undre icke-signifikant. 
 

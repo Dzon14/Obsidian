@@ -1,5 +1,6 @@
 ---
 tags: [fysik]
+aliases: [total reflection]
 ---
 # Totalreflektion
 

@@ -1,5 +1,6 @@
 ---
 tags: [matstat]
+aliases: [punktskattningen, punktskattningar]
 ---
 # Punktskattning
 Välkänd från det dagliga livet, att t.ex se en person och skatta åldern med ledning av utseendet. Eller att mäta längden av en sträcka och få en skattning av dess verkliga längd. 

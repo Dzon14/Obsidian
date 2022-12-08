@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "aa1344577039b646",
+        "id": "9e85c86520f77c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "9ff376f9204ffe4c",
+            "id": "dc2682ba5e8df1cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matematisk statistik/intervallskattning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dfe047bd799178f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematisk statistik/punktskattning.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12c4a2f8bf6a4286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematisk statistik/styrkefunktionen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -90,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matematisk statistik/styrkefunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Matematisk statistik/styrkefunktionen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matematisk statistik/styrkefunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,6 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matematisk statistik/styrkefunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,19 +221,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
-  "active": "9ff376f9204ffe4c",
+  "active": "12c4a2f8bf6a4286",
   "lastOpenFiles": [
-    "Matematisk statistik/Matematisk statistik.md",
-    "matstat F11.md",
     "Matematisk statistik/hypotesprövning.md",
-    "Matematisk statistik/binomialfördelning.md",
-    "Matematisk statistik/matstat F10.md",
-    "Electromagnetic Fields/Elmagi F17.md",
-    "Electromagnetic Fields/Elmagi F18.md",
-    "Electromagnetic Fields/magnetic flux.md",
-    "Electromagnetic Fields/phasors.md",
-    "Electromagnetic Fields/Electromagnetic Fields.md"
+    "Matematisk statistik/punktskattning.md",
+    "Matematisk statistik/intervallskattning.md",
+    "Matematisk statistik/Poisson-fördelning.md",
+    "Elmagi F20.md",
+    "Electromagnetic Fields/electromagnetic boundary conditions.md",
+    "Electromagnetic Fields/normal incidence at a plane conducting boundary.md",
+    "Electromagnetic Fields/polarization of plane waves.md",
+    "Electromagnetic Fields/Electromagnetic Fields.md",
+    "Electromagnetic Fields/Elmagi F19.md"
   ]
 }

@@ -1,15 +1,15 @@
 ---
 tags: [matstat]
-aliases: [konfidensintervall]
+aliases: [konfidensintervall, intervallskattningar, intervallskattningen]
 ---
 # Intervallskattning
 Oftast lämpligare än en [[punktskattning]].
 
 ## Allmänt
 **Konfidensintervall:** Ett intervall $I_\theta$ som med sannolikheten $1-\alpha$ täcker över $\theta$. $1 - \alpha$ kallas för konfidensgraden. Intervallets vänstra och högra ändpunkter (konfidensgränser) betecknas allmänt $a_{1}(x)$ och $a_{2}(x)$. Funktioner av värdena i stickprovet. $$P(a_{1}(X) < \theta < a_{2}(X)) = 1- \alpha$$
-"Vi använder en metod som med sannolikheten $1- \alpha$ leder till ettt korrekt påstående".
+"Vi använder en metod som med sannolikheten $1- \alpha$ leder till ett korrekt påstående".
 Ett konfidensintervall kan sägas vara en observation av ett intervall med stokastiska gränser. 
-![[Pasted image 20221128154811.png]]
+	![[Pasted image 20221128154811.png]]
 
 ## Tillämpning på [[normalfördelning|normalfördelningen]]
 

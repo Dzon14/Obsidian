@@ -1,6 +1,6 @@
 ---
 tags: [el]
-aliases: [boundary condition, boundary conditions]
+aliases: []
 ---
 # boundary conditions for electrostatic fields
 [[Electromagnetic Fields]]

@@ -4,7 +4,7 @@ aliases: [magnetic force]
 ---
 # Magnetic forces
 As shown in [[Biot-Savart law]], for a charge q moving at velocity $\vec{u}$ at P in $\vec{B}$ field, it experiences a magnetic force $\vec{F}_{m} = q \vec{u} \times \vec{B} \ \ [N]$.
-Now we want to tramslate the moving charge q to electric current $I$.
+Now we want to translate the moving charge q to electric current $I$.
 
 Consider a small $d \vec{l}$ of a current carrying conductor with N charge carriers per unit volume moving at drift velocity $\vec{u}$ in the direction $d \vec{l}$.
 ![[Pasted image 20221128114002.png]]
