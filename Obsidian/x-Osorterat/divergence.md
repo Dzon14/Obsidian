@@ -3,10 +3,12 @@ tags: [el]
 aliases: [divergens, divergent]
 ---
 # Divergence
+For [[Gradient]] we considered the spatial derivatives of a [[scalar field]]. Here we consider to the spatial derivatives of a [[vector field]]. This will define both divergence and [[Curl]]
+
 - Used in two of [[Maxwell's equations]]
 		- $\nabla \cdot \vec{D} = \rho$ 
 		- $\nabla \cdot \vec{B} = 0$
-- Divergence of a vector field: $\nabla \vec{A}$, where $\vec{A}$ is a [[vector field]] in 3D space.
+- Divergence of a vector field: $\nabla \cdot \vec{A}$, where $\vec{A}$ is a [[vector field]] in 3D space.
 
 
 **Definition:**
@@ -14,6 +16,8 @@ The divergence of a [[vector field]] $\vec{A}$ at a point is defined as the net 
 
 ## Geometric view
 (3b1b)
+
+![[Pasted image 20221216152948.png|500]]
 
 ## Proof (definition equals to $\nabla \vec{A}$)
 We use [[Cartesian Coordinates]] and choose a point $P(x_{0}, y_{0}, z_{0})$. Geometrically we get a cube with 6 square faces.
@@ -28,7 +32,7 @@ For the **back face**, we do a similar procedure,
 ![[Pasted image 20220928104620.png]]
 
 **Conclusion:**
-The definition of divergence is equal to $\nabla \vec{A}$.
+The definition of divergence is equal to $\nabla \cdot \vec{A}$.
 
 
 

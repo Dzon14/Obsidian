@@ -16,14 +16,14 @@ if(frontmatterExists) {
 		var i = 0;
 		newContent = content.replace(/---/g, function (match, pos, original) {
 		i++;
-		return (i ==2 ) ? variable+": [<%tp.file.cursor(1)%>]\n---" : match;
+		return (i ==2 ) ? variable+": [<%tp.file.cursor(1)%"+">]\n---" : match;
 		
 		});
 	} else {
-		newContent = content.replace(match[0], variable+": [<%tp.file.cursor(1)%>"); //add tag at beginning of variable
+		newContent = content.replace(match[0], variable+": [<%tp.file.cursor(1)%"+">"); //add tag at beginning of variable
 	}
 } else {
-	newContent = "---\n"+variable+": [<%tp.file.cursor(1)%>]\n---\n"+content;
+	newContent = "---\n"+variable+": [<%tp.file.cursor(1)%"+">]\n---\n"+content;
 	console.log(newContent);
 }
 var file = app.workspace.activeLeaf.view.file; //get current file

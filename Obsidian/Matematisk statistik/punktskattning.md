@@ -16,7 +16,7 @@ $\theta^{*}_{obs}$ där obs står för att värdet beräknats ur mätdata (obser
 #### Definitioner
 **11.1:** En punktskattning $\theta^{*}_{obs} = \theta^{*}(x_{1},x_{1},...,x_{n})$ av en parameter $\theta$ är en funktion av mätdata $x_{1},...,x_{n}$. Dessa mätdata ses som utfall avv [[stokastisk variabel|stokastiska variabler]] $X_{1},X_{2},...,X_{n}$ vilkas fördelning beror av parameter $\theta$. Punktskattningen $\theta^{*}_{obs}$ är ett utfall av stickprovsvariabeln $\theta^{*}=\theta^{*}(X_{1},X_{2},...,X_{n})$.
 
-**11.2:** en punktskattning $\theta^{*}_{obs}$ säges vara en [[väntevärden|väntevärde]]s riktig om tillhörande stickprovsvariabel $\theta^{*}$ har väntevärdet $\theta$, dvs om $$E(\theta^{*})=0$$för varje $\theta \in \Omega_{\Theta}$.
+**11.2:** en punktskattning $\theta^{*}_{obs}$ säges vara en [[väntevärden|väntevärde]]sriktig om tillhörande stickprovsvariabel $\theta^{*}$ har väntevärdet $\theta$, dvs om $$E(\theta^{*})=0$$för varje $\theta \in \Omega_{\Theta}$.
 
 **11.3:** Om för varje fixt $\theta \in \Omega_{\Theta}$ och för varje givet $\varepsilon > 0$ $$P(\lvert \theta^{*}_{n} - \theta \rvert > \varepsilon) \rightarrow 0$$då stickprovsstorleken $n \rightarrow \infty$, säges $\theta^{*}_{obs}$ vara **konsistent**.
 

@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "9e85c86520f77c9a",
+        "id": "e104a068529dd748",
         "type": "tabs",
         "children": [
           {
-            "id": "dc2682ba5e8df1cb",
+            "id": "3a4dfbb519637466",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematisk statistik/intervallskattning.md",
+                "file": "Elmagi course overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8dfe047bd799178f",
+            "id": "3d641a97373f7517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematisk statistik/punktskattning.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12c4a2f8bf6a4286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematisk statistik/styrkefunktionen.md",
+                "file": "Electromagnetic Fields/Divergence theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -107,23 +93,23 @@
             }
           },
           {
-            "id": "8db6e30c1fa6dd47",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "0562055e02b61b05",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematisk statistik/styrkefunktionen.md",
+                "file": "Elmagi course overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "0ad3cadfbb9539c9",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -158,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Matematisk statistik/styrkefunktionen.md",
+                "file": "Elmagi course overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematisk statistik/styrkefunktionen.md",
+                "file": "Elmagi course overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematisk statistik/styrkefunktionen.md",
+                "file": "Elmagi course overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,20 +207,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "12c4a2f8bf6a4286",
+  "active": "3a4dfbb519637466",
   "lastOpenFiles": [
-    "Matematisk statistik/hypotesprövning.md",
-    "Matematisk statistik/punktskattning.md",
-    "Matematisk statistik/intervallskattning.md",
-    "Matematisk statistik/Poisson-fördelning.md",
-    "Elmagi F20.md",
-    "Electromagnetic Fields/electromagnetic boundary conditions.md",
-    "Electromagnetic Fields/normal incidence at a plane conducting boundary.md",
-    "Electromagnetic Fields/polarization of plane waves.md",
-    "Electromagnetic Fields/Electromagnetic Fields.md",
-    "Electromagnetic Fields/Elmagi F19.md"
+    "Electromagnetic Fields/Divergence theorem.md",
+    "Elmagi course overview.md",
+    "x-Osorterat/divergence.md",
+    "Electromagnetic Fields/Integrals containing vector functions.md",
+    "Electromagnetic Fields/Line integral.md",
+    "Electromagnetic Fields/Curl.md",
+    "Electromagnetic Fields/Surface integral.md",
+    "Electromagnetic Fields/Gradient.md",
+    "Electromagnetic Fields/Orthogonal Coordinate Systems.md",
+    "Electromagnetic Fields/Conversion between different coordinate systems.md"
   ]
 }

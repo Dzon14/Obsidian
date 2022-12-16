@@ -2,7 +2,7 @@
 tags: [matstat]
 ---
 # Poisson-fördelningen
-[[sannolikhetsfunktionen|sannolikhetsfunktion]]: $$p_{X}(k) = \frac{\mu_{k}}{k!}e^{-\mu}, \ \ k=0,1,2,...$$Med kodbeteckningen $X \in Po(\mu)$
+[[sannolikhetsfunktionen|sannolikhetsfunktion]]: $$p_{X}(k) = \frac{\mu^{k}}{k!}e^{-\mu}, \ \ k=0,1,2,...$$Med kodbeteckningen $X \in Po(\mu)$
 
 ## Förekomst
 Uppträder då man studerar företeelse som inträffar slumpmässigt i tiden eller rummet. 

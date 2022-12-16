@@ -5,5 +5,6 @@ addition, subtraction & Multiplication
 [[scalar field]]
 
 [[Vector product]]
+[[Scalar product]]
 
 #matte

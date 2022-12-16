@@ -12,3 +12,5 @@ tags: [matstat]
 - [[Tjebysjovs olikhet]]
 - [[betingade väntevärden]]
 - [[betingade variansen]]
+-  [[summa av stokastiska variabler]] (längst ner)
+- [[linjärkombination]]

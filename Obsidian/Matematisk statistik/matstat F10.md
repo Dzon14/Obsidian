@@ -6,3 +6,4 @@ tags: [matstat]
 ## Topics
 - [[hypotesprövning]]
 - [[styrkefunktionen]]
+
