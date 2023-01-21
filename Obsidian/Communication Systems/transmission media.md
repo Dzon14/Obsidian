@@ -2,6 +2,7 @@
 tags: [komsys]
 ---
 # Transmission Media
+- Utbredningsmedia som kan användas i länkar. Man vill ej att signalen dampas för mycket eller utsätts för stora störningar.
 
 ## Guided media
 3 different:
@@ -34,9 +35,10 @@ Used for:
 		- not disturbed by radio signals
 ![[Pasted image 20230117153139.png|150]]
 
-## Unguided media
+## Unguided media (Rymden)
 - Radio
 - Light (e.g. infra-red or visible)
+- "Wireless communication"
 
 ##### Radio structures
 - Mobile, WiFi, Bluetooth, LoRa etc

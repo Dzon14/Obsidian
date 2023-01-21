@@ -26,4 +26,5 @@ Physical Layer:
 - [[Aliasing]]
 - [[quantization]]
 - [[transmission]]
+- [[distortion]]
 - [[manchester code]]

@@ -1,5 +1,6 @@
 ---
 tags: [komsys]
+aliases: [fysisk länk]
 ---
 # Physical Layer
 
