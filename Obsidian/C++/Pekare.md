@@ -1,9 +1,9 @@
 # Pekare
 -   En pekare är en adress till en minnescell.
 -   Datatypen är **inte** ett vanligt heltal, utan en **egen datatyp** som är beroende av vad den pekar på.
--   En pekare är inte samma sak som en minnescell.
+-   En pekare är **inte** samma sak som en minnescell.
 -   Man kan deklarera en pekare, men den är oanvändbar tills man har satt den att peka på något.
--   När en pekare pekar på något, kan man använda den unära (till skillnad från multiplikationsoperatorn) *-operatorn för att hämta ut innehållet.  
+-   När en pekare pekar på något, kan man använda den nära (till skillnad från multiplikationsoperatorn) *-operatorn för att hämta ut innehållet.  
     Exempel: tilldela värdet 6 till det som pekaren **myptr** pekar på skrivs på detta vis: ***myptr = 6;**
 -   För att sätta en pekare att peka på något, kan man använda **&** -operatorn (också kallad **adressoperatorn**). Blanda inte ihop denna operator med **referensoperatorn** som ser likadan ut.
 

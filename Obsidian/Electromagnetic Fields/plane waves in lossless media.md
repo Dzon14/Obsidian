@@ -8,14 +8,14 @@ In previous lecture the solution for $\vec{E}$ was based on potential functions 
 
 We have the following [[wave equations|wave equation]]: $$\nabla^{2} \vec{E} - \frac{1}{c^{2}}\frac{\partial^{2} \vec{E}}{\partial t^{2}} = \frac{1}{\varepsilon_{0}} \nabla \rho + \mu_{0} \frac{\partial \vec{J}}{\partial t}$$where $\frac{1}{c^{2}} = \mu_{0} \varepsilon_{0} \Rightarrow c= \frac{1}{\sqrt{ \mu_{0} \varepsilon_{0}}}, \ \ \mu=\mu_{0}, \ \ \varepsilon = \varepsilon_{0}$ (free space).
 
-However, the plane wave is a special case where wavefronts becoms planar (sourc distributed along an infinite plane).
+However, the plane wave is a special case where wavefronts becoms planar (source distributed along an infinite plane).
 
 ## Solving $\vec{E}$ for plane waves
 ![[Pasted image 20221205104116.png]]
 In time harmonic fields (phasor form) $$\nabla^{2} \vec{E} - \frac{1}{c^{2}}\frac{\partial^{2} \vec{E}}{\partial t^{2}} = 0 \Leftrightarrow \nabla^{2} \vec{E} - \left( \frac{j \omega }{c} \right)^{2} \vec{E}  =0 \Leftrightarrow \nabla^{2} \vec{E} + k_{0}^{2} =0$$where $k_{0} = \frac{\omega}{c} = \omega \sqrt{ \mu_{0} \varepsilon_{0}} \ \ [rad/m]  \equiv$ free space wavenumber
 
 Using cartesian coordinates and for a unform plane wave we can derive the **second order** differential equation $$\frac{d^{2} E_{x}}{dz^{2}}+ k_{0}^{2} E_{x}=0$$with the solution $$E_{x} (z) = E_{x}^{+}(z) + E_{x}^{-}(z) = E_{0}^{+}e^{jk_{0}z} + E_{0}^{-}e^{jk_{0}z} \ \ \ [V/m]$$
-**Note:** By solving for $\vec{E}$ in the source-free region, we solved the hoogeneous wave equations, which provides the form of the solution. To find the exact values of $E_{0}^+$ and $E_{0}^{-}$, we need to solve the non-homogenous wave equation (not equal to 0) with the source terms (not of interest here).
+**Note:** By solving for $\vec{E}$ in the source-free region, we solved the homogeneous wave equations, which provides the form of the solution. To find the exact values of $E_{0}^+$ and $E_{0}^{-}$, we need to solve the non-homogenous wave equation (not equal to 0) with the source terms (not of interest here).
 
 To visualize $E^{+}$ in time domain with $cos \omega t$ as reference phase: $$E_{x}^{+}(z,t)= Re(E_{x}^{+}(z)e^{j \omega t}=E_{0}^{+} cos (\omega t - k_{0}z)$$
 The wavelength of the time-harmonic plane wave is given by $\lambda_{0} = \frac{c}{f} = \frac{\omega}{k_{0} f}=\frac{2\pi}{k_{0}}$

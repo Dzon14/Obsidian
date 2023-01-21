@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e104a068529dd748",
+        "id": "9f1c7834e5b7ef2f",
         "type": "tabs",
         "children": [
           {
-            "id": "3a4dfbb519637466",
+            "id": "ca9f5a9edcf38d0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elmagi course overview.md",
+                "file": "Communication Systems/Communication Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3d641a97373f7517",
+            "id": "c5b179173fa5c4ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electromagnetic Fields/Divergence theorem.md",
+                "file": "Communication Systems/komsys F2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92460eceb973fefe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communication Systems/data and signals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#regler",
+                "query": "väntevärdesrikti",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elmagi course overview.md",
+                "file": "Communication Systems/data and signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Elmagi course overview.md",
+                "file": "Communication Systems/data and signals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,9 +192,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elmagi course overview.md",
+                "file": "Communication Systems/data and signals.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -191,14 +204,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elmagi course overview.md",
+                "file": "Communication Systems/data and signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -209,17 +222,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "3a4dfbb519637466",
+  "active": "92460eceb973fefe",
   "lastOpenFiles": [
-    "Electromagnetic Fields/Divergence theorem.md",
-    "Elmagi course overview.md",
-    "x-Osorterat/divergence.md",
-    "Electromagnetic Fields/Integrals containing vector functions.md",
-    "Electromagnetic Fields/Line integral.md",
-    "Electromagnetic Fields/Curl.md",
-    "Electromagnetic Fields/Surface integral.md",
-    "Electromagnetic Fields/Gradient.md",
-    "Electromagnetic Fields/Orthogonal Coordinate Systems.md",
-    "Electromagnetic Fields/Conversion between different coordinate systems.md"
+    "Communication Systems/quantization.md",
+    "Communication Systems/data and signals.md",
+    "Digital Signalbehandling/Sampling.md",
+    "Communication Systems/komsys F2.md",
+    "Communication Systems/bandwidth.md",
+    "Communication Systems/conversion to digital.md",
+    "Communication Systems/Communication Systems.md",
+    "Communication Systems/komsys F1.md",
+    "Communication Systems/WWW.md",
+    "Ledarskap och organisation A.md"
   ]
 }

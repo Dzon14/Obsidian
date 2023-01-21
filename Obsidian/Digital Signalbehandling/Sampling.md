@@ -1,9 +1,18 @@
 ---
 tags: [el]
+aliases: [samplad, samplade]
 ---
 # Sampling
 Sampling period T gives a sampling frequency:
 $F_{s}= \frac{1}{T}$ , with the unit samples/sec
+
+## From ComSys
+- The process of discretizing time of a continous signal $$s(n) = s(nT_{s})$$
+- Sample time: $T_{s}$
+- Sample frequency: $F_{S} = \frac{1}{T_{S}}$
+- Must save information about sampling time
+- Vid sampling av en kontinuerlig signal måste högsta frekvensen komma med, annars kan man ej återskapa korrekt senare. 
+- Enligt [[Nyquist sampling theorem]] måste samplingen ha en dubbelt så hög frekvens som den högsta frekvensen i signalen man önskar återskapa.
 
 ## Sampling of Analog Signals
 There are different ways to sample analog signals. Periodic or Uniform sampling is the most used sampling type. Described by:

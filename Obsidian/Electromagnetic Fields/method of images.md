@@ -7,6 +7,8 @@ However, when conducting bodies have boundaries of a simple geometry, we can rep
 
 Method of images is an example application of the uniqueness theorem, i.e. a solution of an electrostatic problem satisfying its boundary conditions is the only possible solution (even if obtained by an intelligent guess).
 
+The location and size/polarity is also unique. 
+
 ## Example 1 
 - A point charge +q is at a distance d from an infinitely large grounded conducting plane (in vacuum). Find $V$ or $\vec{E}$ above the plane. 
 ![[Pasted image 20221101105356.png]]
@@ -16,10 +18,10 @@ $V_{0}= 0$ is satisfied. Where shoulde we place the "image charge", at a mirror 
 
 Now we can find $\vec{E}$ (or $\vec{D}$) and also surface charge distribution, e.g. at point a point $P_0$ on the plane, between +q and -q.
 Based on the real and image charges, $$\vec{D} = - \vec{a}_{n} \frac{q}{4 \pi d^{2}}+ \vec{a}_{n}\frac{-q}{4 \pi d^{2}}= -\vec{a}_{n}\frac{q}{2 \pi d^{2}}$$
-But we know from [[Elmagi F8]] that $$D_{1n} = \rho_{s}= \varepsilon_{0}E_{1n} \Rightarrow \rho_{s}= - \frac{q}{2 \pi d^{2}} [C/m^{2}]$$2
+But we know from [[Elmagi F8]] that $$D_{1n} = \rho_{s}= \varepsilon_{0}E_{1n} \Rightarrow \rho_{s}= - \frac{q}{2 \pi d^{2}} [C/m^{2}]$$
 
 ## Example 2
-- A point charger near the corner of two right-angled infinite grounded plane. Find the locations of the image charges.
+- A point charge near the corner of two right-angled infinite grounded plane. Find the locations of the image charges.
 ![[Pasted image 20221101105437.png]]
 
 Note: In general, **the angle between the two planes can be** $\alpha = \frac{360\degree}{M}$ , where M is an even number (Example 1 is the special case with M = 2 and Example 2 is the special case with M = 4) . Then, M −1 image charges can be used to achieve $V_{0}= 0$ at the boundary.
@@ -32,12 +34,13 @@ Note: In general, **the angle between the two planes can be** $\alpha = \frac{36
 - A point charge outside a grounded spherical conductor of radius $a$. Find the location and magnitude of the image charge. 
 ![[Pasted image 20221101105523.png]]
 
-At point $M$, $$\begin{align} V_{M}= \frac{1}{4 \pi \varepsilon_{0}} \left(\frac{q}{R} + \frac{q_{i}}{Ri} \right) = 0 \ \text{ (boundary condition) } \\ \Leftrightarrow \frac{q}{R}= - \frac{q_{i}}{R_{i}} \Leftrightarrow \frac{R_{i}}{R}= -\frac{q_{i}}{q} \text{ (a constant)} \end{align}$$
+At point $M$, $$\begin{align} V_{M}= \frac{1}{4 \pi \varepsilon_{0}} \left(\frac{q}{R} + \frac{q_{i}}{Ri} \right) = 0 \ \text{ (boundary condition) } \\ \Leftrightarrow \frac{q}{R}= - \frac{q_{i}}{R_{i}} \Leftrightarrow \frac{R_{i}}{R}= -\frac{q_{i}}{q} \text{ (a constant)} \end{align}$$where $q_{i}$ is the image charge. The pont $M$ is at the shell. We replace the conducting sphere with a point charge and its image. 
+
 **Beware:** $\vec{E}$ found from method of images is only valid for points above the boundary (in the same region as the real charge(s), see examples 1-3), since $\vec{E} =0, \ V_{0}=0$ underneath (shielded region).
 **Demo:** http://demonstrations.wolfram.com/MethodOfImagesInElectrostatics/
 
 ## Recipe
 
-1) Make an initial guess of the positions(s) of the image charge(s).
+1) Make an initial guess of the position(s) of the image charge(s).
 2) If needed, use the [[boundary conditions for electrostatic fields|boundary condition]] (e.g., $V_{0}=0$) to find the exact position(s) and magnitude of the charge(s), e.g. the case of point charge outside a grounded sphere.
 3) Once the image charge(s) is found, then use it together with the real charge(s) to determine the $\vec{E}$ field everywhere outside the conductor. 

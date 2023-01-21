@@ -6,9 +6,9 @@ aliases: [absolute permeability]
 
 ## Macroscopic property of magnetic materials 
 
-1) Linear and isotropic (independent of direction of $\vec{H}$): $\vec{M} = \chi_{m} \vec{H}$, where $\chi_{m} \equiv \text{ magnetic susceptibility}$. Whith substitution and rearranging we get $$\vec{B} = \mu_{0}(1 + \chi_{m})\vec{H} = \mu_{0}\mu_{r}\vec{H} = \mu \vec{H}$$
+1) Linear and isotropic (independent of direction of $\vec{H}$): $\vec{M} = \chi_{m} \vec{H}$, where $\chi_{m} \equiv \text{ magnetic susceptibility}$. With substitution and rearranging we get $$\vec{B} = \mu_{0}(1 + \chi_{m})\vec{H} = \mu_{0}\mu_{r}\vec{H} = \mu \vec{H}$$
    $\mu_{r} = 1 + \chi_{m} \equiv$ relative permeability (both $\chi_{m},\mu_{r}$ are dimensionless)
-   $\mu [H/m] \equiv$ absolute permeability
+   $\mu = \mu_{0}\mu_{r}[H/m] \equiv$ absolute permeability
 
 ## Example
 ![[Pasted image 20221117112055.png]]

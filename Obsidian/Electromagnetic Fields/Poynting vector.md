@@ -15,3 +15,6 @@ $\sigma E^{2}$ is called **Ohmic power density.**
 
 ## Poynting Theorem described in words
 In words, Poynting Theorem states that net power flow out of closed surface $S$ = negative rate of increase of electric and magnetic energies minus the power dissipated as heat due to conductivity of material. It can be seen as an extension of  [[Joule's law]] to time-varying fields. (Note: Though presented in the context of plane waves, the expression $\mathcal{P}(\vec{R},t)$ apply in general to time varying $\vec{E}$ and $\vec{H}$ fields.)
+
+## Average Power Density
+$$\mathcal{P}_{av} = \frac{1}{2} \mathcal{R}e(\vec{E} \times \vec{H}^{*})$$

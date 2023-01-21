@@ -7,7 +7,7 @@ Static $\vec{B}$ field does not induce current, but **time-varying** $\vec{B}$ f
 We can derive [[Faraday's law of induction]]:
 ![[Pasted image 20221128132602.png]]
 and gives us $$\nabla \times \vec{E} = - \frac{\partial \vec{B}}{\partial t}$$This is Faraday's law in **point form**. This is one of [[Maxwell's equations]].
-
+Integral form: $$\oint\limits_{C}^{} \vec{E} \cdot \ d \vec{l} = - \int\limits_{S}^{} \frac{\partial \vec{B}}{\partial t} \cdot \ d \vec{s}$$
 -  [[Lenz' law]] - that an induced emf always give rise to a current whose magnetic field opposes the original change in magnetic flux $\equiv$ "Nature opposes a change in flux". Lenz' law helps determine the direction of current. 
 
 - Once $\mathcal{V}$ is found, we can use [[magnetic circuits|magnetic circuit]] theory to find the current. 

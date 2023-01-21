@@ -27,6 +27,7 @@ aliases: [elmagi, elektromagnetisk fältteori]
 - [[Elmagi F20]]
 
 ## [[Elmagi course overview]] 
+## [[Elmagi old exams]]
 
 ## Info/länkar
 [Electrical and Information Technology, EITF80 Electromagnetic Fields (E) 2022/2023 (lth.se)](https://www.eit.lth.se/index.php?ciuid=1548&coursepage=10653&L=1) 
@@ -42,4 +43,4 @@ The story of Electricity (BBC)
 - Läsa kursboken och göra om uppgifter
 - Lecture 1-10
 
-
+#### Uppgifter med svårigheter

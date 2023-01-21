@@ -8,7 +8,7 @@ Now we want to translate the moving charge q to electric current $I$.
 
 Consider a small $d \vec{l}$ of a current carrying conductor with N charge carriers per unit volume moving at drift velocity $\vec{u}$ in the direction $d \vec{l}$.
 ![[Pasted image 20221128114002.png]]
-To conclude the derivation:
+To conclude the derivation: 
 - The force is $d \vec{F}_{m} = I \ d \vec{l} \times \vec{B} \ \ [N]$
 - Closed loop: $\vec{F}_{m} = I_{1} \oint\limits_{C_{1}}^{} d \vec{l}_{1} \times \vec{B} \ \ [N]$
 - Two-circuit system: $\vec{F}_{21} = I_{1} \oint\limits_{C_{1}}^{} d \vec{l}_{1} \times \vec{B}_{21} \ \ [N]$

@@ -30,7 +30,7 @@ To get the integral form we apply [[Surface integral]] and [[Stoke's theorem]].
 where $$(*) = B_{\phi} 2 \pi r = \mu_{0}I \Leftrightarrow B_{\phi} = \frac{\mu_{0}I}{2 \pi r} \Rightarrow \vec{B} = \frac{\vec{a}_{\phi}\mu_{0} I }{2 \pi r} \ \ [T]$$
 ## Example 2
 ![[Pasted image 20221114105412.png]]
-**i) Inside cavity$**, $r < a$
+**i) Inside cavity**, $r < a$
 - $I_{enc} = 0$
 - $\oint\limits_{C}^{} \vec{B} \cdot \ d \vec{l} = B_{\phi}2 \pi r \Rightarrow \vec{B} = 0$
 

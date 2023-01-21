@@ -8,3 +8,5 @@ How does electric field interact with [[Conductor]]s and [[dielectrics]] (bounde
 - [[conductors in static electric field]]
 - [[dielectrics in static electric field]]
 - [[Polarisering|polarization]]
+- [[electric dipole]]
+- [[electric flux density]]

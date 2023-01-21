@@ -10,5 +10,5 @@ No free electrons, but bounded ones.
 
 ## [[Polarisering|polarization]]
 
-## electric flux density and [[dielectrics|dielectric]] constant
-![[Pasted image 20221010131222.png]]
+## [[electric flux density]]
+

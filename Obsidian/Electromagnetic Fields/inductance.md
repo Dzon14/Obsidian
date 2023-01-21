@@ -20,6 +20,7 @@ We define the mutual inductance $L_{12}$ as proportionaly constant for $\Phi_{12
 - More generally, if loop $C_{2}$ consists of $N_{2}$ turns then the magnetic flux linkage is $\Lambda_{12}= N_{2}\Phi_{12}= L_{12}I_{1}$
   $\Rightarrow$ $L_{12} = \frac{\Lambda_{12}}{I_{1}}$
   $\Rightarrow$ Mutual inductance between two circuits is the magnetic flux linkage with one circuit per unit current in the other circuit. 
+- $L_{12} = L_{21} = M$
 
 Notes: 
 1) For linear circuit, inductance is a physical property (like capacitance). It is a function of the geometrical shapes and physical arrangements of the conductor circuits, as well as the permeability of the medium. 

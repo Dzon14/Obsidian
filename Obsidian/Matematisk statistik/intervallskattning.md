@@ -4,6 +4,8 @@ aliases: [konfidensintervall, intervallskattningar, intervallskattningen]
 ---
 # Intervallskattning
 Oftast lämpligare än en [[punktskattning]].
+Om man tar en sample A så är konfidensintervallet det intervallet där vi med t.ex 95% (confidence level) (två standardavvikelser) säkerhet kan säga att A uppfyller det vi vill. Felmarginalen blir därmed 2 gånger standardfelet (2 eftersom vi har 2 standardavvikelser, 95%). Om vi tar samplevärdet + felmarginalen o sedan minus felmarginalen så får man konfidensintervallen.
+[Confidence intervals and margin of error | AP Statistics | Khan Academy - YouTube](https://www.youtube.com/watch?v=hlM7zdf7zwU&ab_channel=KhanAcademy)
 
 ## Allmänt
 **Konfidensintervall:** Ett intervall $I_\theta$ som med sannolikheten $1-\alpha$ täcker över $\theta$. $1 - \alpha$ kallas för konfidensgraden. Intervallets vänstra och högra ändpunkter (konfidensgränser) betecknas allmänt $a_{1}(x)$ och $a_{2}(x)$. Funktioner av värdena i stickprovet. $$P(a_{1}(X) < \theta < a_{2}(X)) = 1- \alpha$$

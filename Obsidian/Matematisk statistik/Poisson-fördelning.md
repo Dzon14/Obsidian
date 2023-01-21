@@ -26,3 +26,5 @@ Poisson-fördelningen är, eftersom den innehåller en enda parameter, lättare 
 
 **Exempel:**
 ![[Pasted image 20221121184141.png]]
+
+Om Poisson-fördelning i [[hypotesprövning]] och $\lambda \cdot t > 15 \Rightarrow$ normalapproximera

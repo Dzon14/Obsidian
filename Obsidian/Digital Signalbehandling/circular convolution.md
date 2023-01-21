@@ -33,4 +33,4 @@ Can we use DFT to calculate linear as well?
 if we have an [[Linear and time-invariant (LTI) systems|LTI]] system with a linear convolution $$y(n) = h(n)*x(n) = \sum_{k=0}^{K-1}h(k)x(n-k)$$
 ![[Pasted image 20221003141744.png|450]]
 
-This is used in communication systems. One of the most clever applications of the [[Discrete Fourier transform|DFT]].
+This is used in [[communication systems]]. One of the most clever applications of the [[Discrete Fourier transform|DFT]].

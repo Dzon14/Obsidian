@@ -5,7 +5,7 @@ tags: [el]
 
 Until now we have considered plane waves travelling in a single (linear, isotropic, homogenous) medium with material properties, $\varepsilon$, $\mu$ and $\sigma = 0$ (lossless medium). In reality, waves can travel across *different* media. 
 
-We consider a plane wave in lossless mediuum 1 ($\varepsilon_{1}, \mu_{1}$ and $\sigma_{1}=0$, with $\eta_{1} = \sqrt{ \frac{\mu_{1}}{\varepsilon_{1}}}$) incident on a plane perfectly conducting boundary ($\sigma_{2} = \infty$) in the normal direction. 
+We consider a plane wave in lossless medium 1 ($\varepsilon_{1}, \mu_{1}$ and $\sigma_{1}=0$, with $\eta_{1} = \sqrt{ \frac{\mu_{1}}{\varepsilon_{1}}}$) incident on a plane perfectly conducting boundary ($\sigma_{2} = \infty$) in the normal direction. 
 ![[Pasted image 20221207133544.png|550]]
 
 A perfect conductor is equivalent to a perfect diamagnetic material, in which free surface currents will flow in such a way as to ensure $\vec{B} = \vec{H} = 0$ inside the conductor. Similarly we showed that free charges on the surface will be distributed to ensure that $\vec{E} = 0$ in perfect conductors. 

@@ -3,6 +3,8 @@ aliases: [static electricity, electrostatic]
 tags: [el]
 ---
 # Electrostatics
+- Electric charges at rest
+
 - Mass of a proton = mass of a neutron $= 1,7 \cdot 10^{-26}$ kg
 - Mass of an electron - $m_{e} = \frac{m_p}{1836}$
 - Amber - elektron (electricity)

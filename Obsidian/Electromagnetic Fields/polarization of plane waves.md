@@ -10,6 +10,7 @@ $E_{x} \rightarrow$ x-polarized field (oscillates along x).
 When there are 2 plane waves with the same phase that oscillates in different directions, then the total $\vec{E}(z,t) = \vec{E}_{1}(z,t)+\vec{E}_{2}(z,t)$ oscillates in another fixed direction $\alpha$ (e.g. $\alpha= 45 \degree$).
 ![[Pasted image 20221205113435.png|400]]
 $\Rightarrow \alpha = tan^{-1} \frac{E_{20}}{E_{10}}$
+$\Rightarrow$ linearly polarized if same phase.
 
 ## Out of phase
 ![[Pasted image 20221205114132.png]]

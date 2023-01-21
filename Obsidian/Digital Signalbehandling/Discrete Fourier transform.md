@@ -3,7 +3,7 @@ aliases: [DFT]
 tags: [el]
 ---
 # Discrete Fourier Transform (DFT)
-Many communication systems today are based on DFT.
+Many [[communication systems]] today are based on DFT.
 
 - Other transformations in this couse are functions of a continous-valued variable or a continous frequency variable, however this is less suitable for efficient digital implementation
 - A transform where we only need samples of the frequency function at certain points on the continous frequency axis. We can implement frequency-domain processing our signals. 

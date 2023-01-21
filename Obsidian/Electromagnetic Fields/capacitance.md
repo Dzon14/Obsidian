@@ -1,9 +1,9 @@
 ---
 tags: [el]
-aliases: [capacitor]
+aliases: [kapacitans]
 ---
 # Capacitance
-(Note: Capacitance and capacitor is not the same thing. Capacitor is a passive device whilst capacitance is the property of a capacitor).
+(Note: Capacitance and [[capacitor]] is not the same thing. Capacitor is a passive device whilst capacitance is the property of a capacitor).
 - Capacitance is a physical property of the two-conductor system
 - The system is separated by vacuum or [[dielectrics]].
 
@@ -17,6 +17,10 @@ $$\begin{flalign} \Rightarrow &Q \propto V \\ &Q = C V  \end{flalign}$$
 where C is capacitance - in farad $[F]\ / \ [\frac{C}{V}]$.
 
 In this case, $C = \frac{Q}{V_{12}}$, where $V_{12}$ is the potential differene between the two conductors.
+
+## Parallel plate capacitor
+with a dielectric material between:
+$$C = \frac{Q}{V}= \varepsilon \frac{S}{d}$$derived from boundary condition of the tangential component (see example 1).
 
 ## [[How to find the capacitance]]
 

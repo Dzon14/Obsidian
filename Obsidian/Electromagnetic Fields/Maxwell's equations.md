@@ -17,4 +17,5 @@ Together with [[Lorentz' force equation]], these form the foundation of electrom
 
 ![[Pasted image 20221130104747.png]]
 
+![[Pasted image 20221230150200.png]]
 See [[wave equations]]

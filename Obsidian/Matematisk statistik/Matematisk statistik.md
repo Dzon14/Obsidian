@@ -26,3 +26,8 @@ tags: [matstat]
 
 ## Laborationer
 [[MatstatLab1]]
+
+## [[matstat extentor]]
+
+## Annat
+[[lathund miniräknare matstat]]

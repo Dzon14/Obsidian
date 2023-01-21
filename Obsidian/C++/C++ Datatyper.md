@@ -1,6 +1,6 @@
 # Datatyper
 - char
-- signed char, unsigned char
+- signed char, unsigned char (positiv)
 - int, unsigned int
 - short int, unsigned short int
 - long int, unsigned long int
@@ -15,7 +15,8 @@ const double PI = 3.1415;
 
 Oftast gäller:
 ![[Pasted image 20220623220137.png]]
-
+- Unsigned char 0-255
+- signed char -128-127
 - Operatorn "sizeof" ger strlk på någonting, t.ex "sizedof(int)" ger storleken på en int. 
 
 ## Typkonvertering

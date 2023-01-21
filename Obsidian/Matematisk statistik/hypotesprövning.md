@@ -7,6 +7,7 @@ Kan utföras med 3 olika metoder:
 - Antag att $H_{0}$ sann
 - Räkna ut P-värdet $p = P$
 - Om $p < \alpha$ förkastas $H_{0}$
+- ![[Pasted image 20230110135901.png|550]]
 2. Konfidensmetoden
 - Gör ett konfidensintervall med konfidensgraden $1 - \alpha$ och förkasta $H_{0}$ på nivån $\alpha$ om intervallet ej täcker $\theta_{0}$.
 - Intervallen ska, beroende på $H_{1}$, vara
@@ -51,6 +52,8 @@ Tidigare diskussion om användning av normalapproximationen vid [[intervallskatt
 
 Man tar en testavariabel av formen $(\theta^{*} - \theta_{0})/D$ eller, om D inte är helt känt, $(\theta^{*} - \theta_{0})/d$ och kan, om kvoten ifråga kan antas ungefär [[normalfördelning|normalfördelad]], utföra ett test på samma sätt som för intervallskattning. Skillnaden är att *signifikansnivån* nu inte kan bestämmas exakt
 ![[Pasted image 20221205183626.png|650]]
+
+Om [[Poisson-fördelning]]: om $\lambda \cdot t > 15 \Rightarrow$ normalapproximera
 
 ## Tillämpning på [[binomialfördelning|binomialfördelningen]]
 Vi visar detta genom exemplen nedan:

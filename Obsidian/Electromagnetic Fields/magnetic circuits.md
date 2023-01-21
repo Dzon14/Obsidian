@@ -6,7 +6,7 @@ aliases: [magnetic circuit]
 Magnetic circuits are not as prominent as electric circuits, but no less important. Some examples are transformers, generators, motors, relays and magnetic recording devices
 
 Instead of voltage (electromotive force/emf) or current source, magnetic circuits rely on current loop (with N turns) as the source (wound around the core of a ferromagnetic material).
-- Magnetomotive force (mmf), $\mathcal{V}_{m}$ based on [[Ampere's circuital law]] is defined as $$\oint\limits_{C}^{} \vec{H} \cdot \ d \vec{l}=NI \overset{\Delta}{=} \mathcal{V}_{m} \ \ [A] \text{ or ampere-turns } [A.t]$$
+- [[magnetomotive force]] (mmf), $\mathcal{V}_{m}$ based on [[Ampere's circuital law]] is defined as $$\oint\limits_{C}^{} \vec{H} \cdot \ d \vec{l}=NI \overset{\Delta}{=} \mathcal{V}_{m} \ \ [A] \text{ or ampere-turns } [A.t]$$
 For magnetic circuits, we assume:
 - No leakage flux
 - Linear magnetic materials
@@ -19,6 +19,7 @@ current in a solenoid produces uniform $\vec{B}$ inside.
 ![[Pasted image 20221121113303.png]]
 
 - [[reluctance]]
+- [[Hopkinson's law]]
 
 Analogous quanties: $$\begin{align} &\mathcal{V}_{m} \leftrightarrow V \\ &\mathcal{R} \leftrightarrow R \\ &\Phi \leftrightarrow I \end{align}$$
 

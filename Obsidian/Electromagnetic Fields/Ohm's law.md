@@ -10,5 +10,5 @@ Isotropic materials (i.e. $\sigma$ not depending on direction of $\vec{E}$) wher
 
 ## Derivation of resistance using [[Ohm's law in point form]]
 ![[Pasted image 20221103151247.png]]
-$$R = \frac{1}{\sigma S}$$
+$$R = \frac{\mathcal{l}}{\sigma S}$$
 For calculations, see [[Resistance calculations]].

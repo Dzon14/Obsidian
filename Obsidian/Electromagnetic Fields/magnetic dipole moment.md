@@ -3,6 +3,7 @@ tags: [el]
 aliases: [magnetization]
 ---
 # Magnetic Dipole Moment/Magnetization
+The current-carrying loop is called a magnetic dipole, which can be compared to the [[electric dipole]] in [[Electrostatics]].
 $$\vec{m}\overset{\Delta}{=}m \vec{a}_{z}$$
 Derived from [[vector magnetic potential]] through:
 ![[Pasted image 20221117103352.png]]
