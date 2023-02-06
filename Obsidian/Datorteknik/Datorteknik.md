@@ -7,3 +7,5 @@ tags: [dator]
 
 ## Föreläsningar
 - [[datorteknik F2]]
+- [[datorteknik F3]]
+- [[datorteknik F4]]

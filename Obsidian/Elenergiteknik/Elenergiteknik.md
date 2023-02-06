@@ -7,6 +7,11 @@ tags: [elenergi]
 - [[elenergi F1]]
 - [[elenergi F2]]
 - [[elenergi F3]]
+- [[elenergi F4]]
+- [[elenergi F5]]
+- [[elenergi F6]]
+- [[elenergi F7]]
+- [[elenergi F8]]
 
 
 

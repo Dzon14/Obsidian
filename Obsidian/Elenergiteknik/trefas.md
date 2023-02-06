@@ -34,7 +34,7 @@
 
 ## Trefaseffekt
 - Symmetri: Trefaseffekt = 3 x enfaseffekt
-		- Skenbar trefaseffekt $S = 3U_{f}I = \sqrt{3}U_{h}I = \lvert \bar{S} \rvert$
+		- Skenbar trefaseffekt $$S = 3U_{f}I = \sqrt{3}U_{h}I = \lvert \bar{S} \rvert$$
 		- Komplex trefaseffekt $\bar{S} = 3 \bar{U}_{f}\bar{I}^{*}$
 		- Spänning i trefassystem anges normalt med huvudspänning $\Rightarrow \sqrt{3}U_{h}...$ standard även om $3U_{f}...$ enklare att förstå:
 $$\begin{align} P = Scos \varphi = ... = 3R_{s}I^{2} \\ Q = Ssin \varphi = ... = 3X_{s}I^{2} \end{align}$$

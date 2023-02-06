@@ -85,3 +85,6 @@ Precis som i [[synkronmaskin|synkronmaskinen]] beror $E_{a}$ enbart av rotatione
 
 Den seriemagnetiserade motorn kan drivas med både AC och DC och kallas därför [[universalmotor]] eller allströmsmotor
 - Vanlig i dammsugare, borrmaskiner, hårtorkar mm.
+
+## Likströmsmotor och driftkvadranter
+![[Pasted image 20230206105436.png|600]]

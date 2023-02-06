@@ -97,3 +97,6 @@ Används överallt. (Kollar man på ledningar så är det alltid 3 st).
 - Tomgång är ett neutralläge där axeln inte uträttar arbete
 - Om axeln drivs på av en momentkälla blir det generatordrift
 - Om axeln bromsas blir det motordrift
+
+## Start av synkrongenerator
+![[Pasted image 20230124082328.png]]

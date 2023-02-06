@@ -3,6 +3,8 @@ tags: [fek]
 ---
 # Ledarskap och organisation A
 
+## Seminarie
+- [[seminarie 1 - ledorg]]
 
 ## Arbetsuppgifter
 - Introduktionsuppgift med seminarium

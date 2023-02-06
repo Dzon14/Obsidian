@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a85995093ee150bd",
+        "id": "9dfdfc5b69bcbc11",
         "type": "tabs",
         "children": [
           {
-            "id": "8b032f2996e126ae",
+            "id": "904f76f5aea2ffa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "8772fc6eed68fab9",
+            "id": "0f7b995ed82b0593",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication Systems/komsys F2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cac722f3641a2af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication Systems/transmission.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d3b47cc474d499c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication Systems/physical layer.md",
+                "file": "Communication Systems/Bellman-Ford.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +83,7 @@
       {
         "id": "d64c10830eb0dc83",
         "type": "tabs",
-        "dimension": 41.35220125786164,
+        "dimension": 41.387024608501115,
         "children": [
           {
             "id": "8b78c25d30051673",
@@ -123,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication Systems/transmission.md",
+                "file": "Communication Systems/Bellman-Ford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +118,7 @@
       {
         "id": "2a206e9f51f27a73",
         "type": "tabs",
-        "dimension": 58.64779874213836,
+        "dimension": 58.61297539149888,
         "children": [
           {
             "id": "91d1e86eee472fa1",
@@ -169,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Communication Systems/transmission.md",
+                "file": "Communication Systems/Bellman-Ford.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication Systems/transmission.md",
+                "file": "Communication Systems/Bellman-Ford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication Systems/transmission.md",
+                "file": "Communication Systems/Bellman-Ford.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 322
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,17 +221,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1cac722f3641a2af",
+  "active": "a930cc0a84b17676",
   "lastOpenFiles": [
-    "Communication Systems/komsys F2.md",
-    "Communication Systems/distortion.md",
-    "Communication Systems/physical layer.md",
-    "Communication Systems/transmission.md",
-    "Communication Systems/data and signals.md",
-    "Communication Systems/transmission media.md",
-    "Communication Systems/bandwidth.md",
-    "Communication Systems/Communication Systems.md",
-    "Ledarskap och organisation A.md",
-    "Electromagnetic Fields/Conversion between different coordinate systems.md"
+    "Communication Systems/komsys F5.md",
+    "Communication Systems/router.md",
+    "Communication Systems/Bellman-Ford.md",
+    "Communication Systems/Dikjstras algoritm.md",
+    "Communication Systems/routingprotokoll.md",
+    "Communication Systems/flooding.md",
+    "Communication Systems/vägväljare.md",
+    "Communication Systems/Internet.md",
+    "Communication Systems/Internetprotokoll.md",
+    "Communication Systems/nätstruktur.md"
   ]
 }

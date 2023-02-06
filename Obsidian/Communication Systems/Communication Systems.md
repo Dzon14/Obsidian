@@ -17,6 +17,9 @@ Internet Protocol Suite = TCP/IP model
 - [[komsys F6]] - Network layer 2
 - [[komsys F7]] - Transport layer: TCP, UDP
 
+## Seminars
+- [[seminarium 1 - komsys]]
+
 These lectures does **not** cover the entire course. 
 
 ## Time plan
@@ -26,5 +29,6 @@ These lectures does **not** cover the entire course.
 - [ ] Lab 1 - Data transmission P2P - börja denna vecka (1) om möjligt.
 - [ ] Lab 2 - Data transmission via AP, ARQ, CRC
 - [ ] Lab 3 - Networking (home lab, using Wireshark)
+![[Pasted image 20230123151837.png|600]]
 
 ## Tentamen - komsys

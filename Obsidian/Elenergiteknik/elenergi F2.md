@@ -20,6 +20,7 @@
 - [[synkronmaskin]]
 - [[tomgång]]
 - [[Poltal]]
+- [[torque|vridmoment]]
 
 ## Sammanfattning
 1. En synkronmaskin har en roterande magnetiserad **rotor** i en **stator** med lindningar 

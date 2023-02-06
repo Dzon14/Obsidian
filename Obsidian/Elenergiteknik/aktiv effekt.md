@@ -8,3 +8,5 @@ tags: [elenergi]
 ![[Pasted image 20230116142913.png]]
 
 ![[Pasted image 20230116144227.png]]
+
+$$P = \frac{\text{ axeleffekt }}{\text{verkningsgrad}}$$

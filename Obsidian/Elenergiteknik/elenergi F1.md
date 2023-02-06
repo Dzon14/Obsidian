@@ -1,7 +1,7 @@
 ---
 tags: [elenergi]
 ---
-# Elenergi F1
+# Elenergi F1 - växelspänning och växelström
 **Varvtal spelar roll för spänning**
 
 ## Topics

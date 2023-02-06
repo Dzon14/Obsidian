@@ -9,6 +9,15 @@ tags: [el]
 ## Schemalagd tid
 ![[Pasted image 20230118082917.png|500]]
 
+## Projektplanering
+- Bakgrund/syfte/mål
+- Avgränsningar
+- Åtgärds-/resursplanering
+- Tidsplanering
+	  - Bestäm starttid, sluttid och uppföljning.
+	  - Bedöm vilka tidsmått som krävs och vilka aktiviteter som ska göras.
+	  - Vilka aktiviteter är beroende av andra?
+- 
 
 ## Hydroponisk odlingssystem
 
@@ -32,3 +41,4 @@ tags: [el]
 - Bidrar med ventilering o luftfuktighet.
 
 - Ett fristående skåp (typ ett växthus)
+
