@@ -8,10 +8,10 @@ aliases: [random based, random based access method, random based accessmetod, co
 
 ## [[ALOHA]]
 
-## [[CSMA/CD]]
+## [[CSMACD]]
 
 
-## [[CSMA/CA]]
+## [[CSMACA]]
 
 
 

@@ -1,5 +1,5 @@
 ---
-tags: [fek]
+tags: [ ledorg ]
 ---
 # Seminarie 1 - LedOrg
 - Källor och egna reflektioner

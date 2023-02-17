@@ -1,7 +1,10 @@
 ---
-tags: [fek]
+tags: [ledorg]
 ---
-# Ledarskap och organisation A
+# Ledarskap och [[organisation]] A
+
+## Föreläsning
+- [[Ledorg F2]]
 
 ## Seminarie
 - [[seminarie 1 - ledorg]]

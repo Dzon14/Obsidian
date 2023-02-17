@@ -7,7 +7,7 @@ En elektrisk maskin för växelspänning. Dess rotor roterar synkront med växel
 
 ## Generisk synkronmaskin - induktion
 - Två ledare bildar en lindning som roterar i B-fältet:
-![[Pasted image 20230117084031.png|600]]
+![[Pasted image 20230117084031.png|700]]
 - I ledarna längs rotationsaxeln induceras $e_{1}$ respektive $e_{2}$
 - Ena ledaren motsatt riktad + rör sig motsatt $\Rightarrow e_{1}= e_{2}, \ e=2e_{1}$
 - När en ledarslinga roteras i ett magnetfält B induceras e som är noll två gånger per varv. 
@@ -23,7 +23,7 @@ En elektrisk maskin för växelspänning. Dess rotor roterar synkront med växel
 		- Maximalt när ledare står mitt för polerna
 		- Noll när ledare står mitt emellan polerna.
 - Hävarm $= rcos(\frac{\pi}{2}- \theta)=rsin \theta$
-- Totalt vridmoment $T = 2Frsin \theta = 2Frsin \omega t$, vilket med $F=Bil \ (i=i_{DC})$ blir $\Rightarrow T =2Bilrsin \theta = 2Bilrsin \omega t$ 
+- Totalt vridmoment $T = 2Frsin \theta = 2Frsin \omega t$, vilket med $F=Bil \ (i=i_{DC})$ blir $\Rightarrow T =2Bilrsin \theta = 2Bilrsin \omega t$ , alltså $$T = 2Bilrsin \omega t$$
 		- Detta vridmoment är när ledarslingan har **likström**.
 
 ## Induktion och vridmoment
@@ -33,12 +33,12 @@ En elektrisk maskin för växelspänning. Dess rotor roterar synkront med växel
 		- ger strömmen $i = \frac{e}{r_{L}}$ ($i=i_{AC}$)
 		- ger ett vridmoment
 - strömmen störst när slingan skär fältet mest.
-- e störst vid polerna och noll mittemelllan. Samma gäller ström och vridmoment. 
+- e störst vid polerna och noll mittemellan. Samma gäller ström och vridmoment. 
 - Vridmomentet är riktat **mot** rotationen.
 
-- $e=2Bl \omega r Sin \omega t$, $u = e$
+- $e=2Bl \omega r sin \omega t$, $u = e$
 - Ger strömmen (i lasten) $i = \frac{2Bl \omega r sin (\omega t)}{R_{L}}$
-- Strömmen och fältet ger vridmomentet$$T = 2Bil r sin \omega t = ... = (2Blr)^{2} \frac{\omega}{R_{L}} \frac{(1-cos2\omega t)}{2}$$
+- Strömmen och fältet ger vridmomentet$$T = 2Bil r sin \omega t = (2Blr)^{2}\omega \frac{sin^{2}(\omega t)}{R_{L}} = (2Blr)^{2} \frac{\omega}{R_{L}} \frac{(1-cos2\omega t)}{2}$$
 
 ## Synkronmaskin och spänningskälla
 - Synkronmaskinen beter sig som en växelspänningskälla $e(t) = \hat{e}sin \omega t$
@@ -100,3 +100,7 @@ Används överallt. (Kollar man på ledningar så är det alltid 3 st).
 
 ## Start av synkrongenerator
 ![[Pasted image 20230124082328.png]]
+
+## Synkrongenerator
+$$P_{el}= \omega_{mek} \cdot T_{mek}$$
+**Axelvarvtal:** $$n_{syn} = \frac{2 \cdot 60}{p}f_{matning}$$

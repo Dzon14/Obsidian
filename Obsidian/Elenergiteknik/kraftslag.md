@@ -12,6 +12,7 @@ tags: [elenergi]
 		- Energiproduktion/år = Fulleffekttimmar/år $\cdot$ installerad effekt
 		- **Energitillgänglighet** = Fulleffekttimmar/8760
 - **Effektvärde** = % av installerad effekt tillgänglig på timmen på året med högst elbehov.
+- Fulleffekttimmar/år = Energiproduktion/år / installerad effekt
 
 ## Typiska värden för Sverige
 ![[Pasted image 20230131090126.png]]

@@ -5,7 +5,7 @@ tags: [elenergi]
 - Har energilager
 
 - Roterande massor 
-		- Turbinjhul
+		- Turbinhjul
 		- Generatorrotor
 - Energilager
 		$W_{k}= \frac{1}{2} J \omega^{2}_{m}$ 

@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Elmagi F19 
 From last lectures:
 ![[Pasted image 20221205100537.png|600]]

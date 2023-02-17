@@ -12,8 +12,7 @@ tags: [elenergi]
 - [[elenergi F6]]
 - [[elenergi F7]]
 - [[elenergi F8]]
-
-
+- [[elenergi F9]]
 
 ## Grovschema
 ![[Pasted image 20230116134720.png|600]]
@@ -23,3 +22,4 @@ tags: [elenergi]
 - 90 minuter + genomgång
 - 4 uppgifter med 50% för godkänt.
 
+## [[Elenergi exduggor]]

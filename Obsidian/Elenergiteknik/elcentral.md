@@ -8,7 +8,7 @@ tags: [elenergi]
 
 
 ## Elcentralens anslutningar
-![[Pasted image 20230119104153.png]]
+![[Pasted image 20230119104153.png|500]]
 - Tre fasanslutningar L1, L2, L3
 - Nolla från närmaste transformator
 - PEN delas i två ledare

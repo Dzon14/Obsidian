@@ -1,5 +1,5 @@
 ---
-tags: [elmagi]
+tags: [ el ]
 ---
 # Inductances
 In [[magnetostatics|magnetostatic]]s, the inductance of [[magnetic circuits]] is defined in terms of total [[magnetic flux]] generating (or linking) capability of the current-carrying circuits. 

@@ -13,7 +13,7 @@ tags: [elenergi]
 
 ## Sammanfattning
 1. Med oförändrad effekt ger X ggr högre spänning $\frac{1}{X}$ ström och $\frac{1}{X^{2}}$ förluster 
-2. Friledning har luft som isolation: längd på isolatoerkedjor indikerar spänningsnivå 
+2. Friledning har luft som isolation: längd på isolatorkedjor indikerar spänningsnivå 
 3. Magnetfält från kraftledningar beror på avståndet r som $\frac{1}{r}$ 
 4. Viktigast parameter i en $\pi$-modell av en 400 kV friledning är seriereaktans X 
 5. Kabel är väderskyddad men kapacitansen är högre och längden är begränsad 

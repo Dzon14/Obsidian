@@ -20,7 +20,7 @@ Se frekvensens betydelse i [[kraftverk]]
 - Spänningen nära noll i område runt felet
 - Felströmmen (överström) detekteras
 - Felet kopplas snabbt bort, så att feldrabbat område minimeras
-- Feket (i stad oftast grävskopa) avlägsnas
+- Felet (i stad oftast grävskopa) avlägsnas
 - Bortkopplat nätdel återinkopplas. Manuellt om säkring kopplats bort. Automatiskt efter <1 s (bra vid blixtnedslag) om brytare kopplat bort
 Vi kan använda [[överströmsskydd]]
 

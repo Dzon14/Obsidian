@@ -1,3 +1,6 @@
+---
+tags: [elenergi]
+---
 # Elenergi F2 - Synkronmaskinen
 - En elmaskin är både generator och motor
 - Den mest grundläggande av roterande elektriska maskiner.
@@ -6,7 +9,7 @@
 **Strömförande ledare i magnetfält - kraft**
 - Strömmen i en ledare med längd l ger upphov till en kraft $\vec{F} = q \vec{v} \times \vec{B}$
 - Rörelsen är vinkelrät mot fältet: $F=qvB = q \frac{l}{t} B = \frac{q}{t} lB = ilB$
-			- HHR: F-i-B
+	  - HHR: i-B-F
 ![[Pasted image 20230117082903.png|200]]
 - När en ledare med längd l i ett magnetfält B leder strömmen i, påverkas ledaren av en kraft $F = Bil$ 
 **Rörlig ledare i magnetfält: Induktion**

@@ -6,7 +6,7 @@ Det mest användna tråndbundna LAN. Idag används Ethernet II
 
 ## IEEE 802.3
 För att standardisera lokala nät.
-Använde [[CD]]
+Använde [[CSMACD]]
 ![[Pasted image 20230130165733.png]]
 
 ## Ethernet frame: structure

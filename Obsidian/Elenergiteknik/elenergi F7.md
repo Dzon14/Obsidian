@@ -1,3 +1,6 @@
+---
+tags: [elenergi]
+---
 # Elenergi F7 - Kraftslag
 
 ## Topics

@@ -5,7 +5,7 @@ tags: [komsys]
 
 # Cyklisk Redundanscheck (CRC)
  Cyclic Redundancy Check (CRC)
-- Kan förklaras antingen med att bitarna representeras av ett polynom eller nfdofssdklfdfds
+- Kan förklaras antingen med att bitarna representeras av ett polynom eller nånting annat ....
 
 - Predefined shared divisor to calculate codeword
 ![[Pasted image 20230123155552.png]]

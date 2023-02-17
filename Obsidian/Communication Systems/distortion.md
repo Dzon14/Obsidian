@@ -1,5 +1,5 @@
 ---
-tags: [comsys]
+tags: [komsys]
 ---
 # Distortion
 - Signalen ändrar sin form.

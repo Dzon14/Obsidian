@@ -3,6 +3,9 @@ tags: [el]
 ---
 # Elektronikprojekt - Hydroponiskt odlingssystem
 
+## Föreläsningar
+- [[Agil]]
+
 ## Tidsplan
 ![[Pasted image 20230118082853.png|500]]
 

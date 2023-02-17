@@ -10,3 +10,5 @@ tags: [elenergi]
 ![[Pasted image 20230116144227.png]]
 
 $$P = \frac{\text{ axeleffekt }}{\text{verkningsgrad}}$$
+$$P_{el} = \frac{P_{mek}}{\eta}$$
+$$P_{förlust} = RI^{2} \text{ or } 3RI^{2}$$

@@ -13,7 +13,7 @@ Det är inte alltid man hittar de här renodlade organisationsformerna
 - Parallella processer
 - Bred kompetens hos medarbetare
 - Samverkan
-- Platta organisationer
+- Platta [[Organisation|organisationer]]
 - Lagarbete
 - Rotation
 - Utbildning

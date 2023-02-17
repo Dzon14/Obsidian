@@ -1,3 +1,6 @@
+---
+tags: [elenergi]
+---
 # Högspänning
 
 ## Lönsamt

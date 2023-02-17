@@ -1,4 +1,7 @@
-## Organisation
+---
+aliases: [organisation, organisationer, organisationen]
+---
+# Organisation
 Medvetet, stabilt och målinriktat samarbete mellan människor
 - Arbetsfördelning
 - Ansvarsfördelning

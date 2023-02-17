@@ -1,3 +1,6 @@
+---
+tags: [elenergi]
+---
 # Strömtång
 Hjälper oss att mäta ström i en ledare.
 

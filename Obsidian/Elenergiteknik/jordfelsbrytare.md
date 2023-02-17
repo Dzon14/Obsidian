@@ -1,3 +1,6 @@
+---
+tags: [elenergi]
+---
 # Jordfelsbrytare
 - Jordfel - ström går till jord (ev. via människa)
 - Jordfelsbrytaren bryter vid tillräcklig felström
