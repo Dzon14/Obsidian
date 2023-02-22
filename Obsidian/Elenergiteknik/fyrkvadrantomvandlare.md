@@ -10,7 +10,7 @@ Om två stycken av den ovan beskrivna tvåkvadrantomvandlaren kombineras fås en
 ## 4 kvadranter för DC till [[likströmsmaskin]]
 - Spänning med växlande polaritet till [[likströmsmaskin]] med svänghjul
 - Drift i alla fyra kvadranter
-- 4-kvadrand DC-DC-omvandlare blir bra
+- 4-kvadrant DC-DC-omvandlare blir bra
 ![[Pasted image 20230207085840.png]]
 
 ## 4 kvadranter för AC till RL-krets

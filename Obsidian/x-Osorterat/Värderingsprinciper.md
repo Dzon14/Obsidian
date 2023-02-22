@@ -1,4 +1,4 @@
-## Värderingsprinciper
+# Värderingsprinciper
 
 Behövs för att företaget inte ska ge en alltför [[Ljus]] eller mörk bild av verksamheten vid Tillgångar, Skulder och Resultat (Se [[Resultaträkning och Balansräkning]])
 

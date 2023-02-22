@@ -1,5 +1,5 @@
 ---
-tags: [elenergi]
+tags: [ledorg]
 ---
 # Systemteori
 Kan se [[Organisation|organisation]] som system.

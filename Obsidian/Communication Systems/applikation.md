@@ -1,5 +1,6 @@
 ---
 aliases: [application, applikationer]
+tags: [komsys]
 ---
 # Applikation
 

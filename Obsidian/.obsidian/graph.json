@@ -92,7 +92,7 @@
       }
     },
     {
-      "query": "tag:#fek",
+      "query": "tag:#ledorg",
       "color": {
         "a": 1,
         "rgb": 16768256
@@ -109,6 +109,6 @@
   "repelStrength": 8.70546318289786,
   "linkStrength": 1,
   "linkDistance": 212,
-  "scale": 0.032704859586496,
+  "scale": 0.027504683194307517,
   "close": true
 }

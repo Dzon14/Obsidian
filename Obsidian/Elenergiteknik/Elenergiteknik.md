@@ -13,6 +13,7 @@ tags: [elenergi]
 - [[elenergi F7]]
 - [[elenergi F8]]
 - [[elenergi F9]]
+- [[elenergi F10]]
 
 ## Grovschema
 ![[Pasted image 20230116134720.png|600]]

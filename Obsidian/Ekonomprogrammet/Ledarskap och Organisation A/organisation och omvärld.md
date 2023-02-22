@@ -1,5 +1,5 @@
 ---
-tags: [ ledorg ]
+tags: [ledorg]
 ---
 # Organisation och omvärld
 

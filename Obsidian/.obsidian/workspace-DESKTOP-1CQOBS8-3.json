@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3391faf3b9de20b9",
+        "id": "46351bc141bb74b8",
         "type": "tabs",
         "children": [
           {
-            "id": "42bd730f60d7dd2e",
+            "id": "1351bbeb1464d7f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ekonomprogrammet/Handelsrättslig översiktskurs/hök F2.md",
+                "file": "Elenergiteknik/Elenergiteknik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "445f50018e10d8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elenergiteknik/elenergi F10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -121,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ekonomprogrammet/Handelsrättslig översiktskurs/hök F2.md",
+                "file": "Elenergiteknik/elenergi F10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ekonomprogrammet/Handelsrättslig översiktskurs/hök F2.md",
+                "file": "Elenergiteknik/elenergi F10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ekonomprogrammet/Handelsrättslig översiktskurs/hök F2.md",
+                "file": "Elenergiteknik/elenergi F10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,17 +210,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42bd730f60d7dd2e",
+  "active": "445f50018e10d8a9",
   "lastOpenFiles": [
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/Handelsrättslig översiktskurs.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/enuntiation.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/hök F2.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/kollektivavtal.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/hyresrätt.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/hyra.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/fastighetsrätt.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/garanti.md",
-    "Elenergiteknik/Elenergiteknik.md",
-    "Digital Signalbehandling/elenergi F9.md"
+    "temperaturen i ett hus.md",
+    "Elenergiteknik/elenergi F10.md",
+    "ventilationsförluster.md",
+    "transmissionsförluster.md",
+    "U-värde.md",
+    "stationärt värmeeffektbehov.md",
+    "temperaturen i ett rum.md",
+    "termiska egenskaper hos fysisk kropp.md",
+    "Ekonomprogrammet/Ledarskap och Organisation A/klassisk organisationsteori.md",
+    "Ekonomprogrammet/Ledarskap och Organisation A/contingency theory.md"
   ]
 }

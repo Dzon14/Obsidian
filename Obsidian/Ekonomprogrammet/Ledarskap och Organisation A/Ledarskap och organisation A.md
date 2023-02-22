@@ -3,8 +3,9 @@ tags: [ledorg]
 ---
 # Ledarskap och [[organisation]] A
 
-## Föreläsning
+## Föreläsningar
 - [[Ledorg F2]]
+- [[Ledorg F3]]
 
 ## Seminarie
 - [[seminarie 1 - ledorg]]
