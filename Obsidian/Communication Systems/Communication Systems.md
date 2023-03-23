@@ -26,9 +26,14 @@ These lectures does **not** cover the entire course.
 ![[Pasted image 20230116104941.png|600]]
 
 ## Laborationer
-- [ ] Lab 1 - Data transmission P2P - börja denna vecka (1) om möjligt.
-- [ ] Lab 2 - Data transmission via AP, ARQ, CRC
-- [ ] Lab 3 - Networking (home lab, using Wireshark)
+- [x] Lab 1 - Data transmission P2P - börja denna vecka (1) om möjligt.
+- [x] Lab 2 - Data transmission via AP, ARQ, CRC
+- [x] Lab 3 - Networking (home lab, using Wireshark)
 ![[Pasted image 20230123151837.png|600]]
 
 ## Tentamen - komsys
+- [[komsys extentor]]
+- [[komsys - sammanfattning]]
+- [[komsys - teori]]
+- [[komsys - ordlista]]
+

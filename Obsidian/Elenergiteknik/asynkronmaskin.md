@@ -4,6 +4,8 @@ aliases: [asynkronmaskinen]
 ---
 # Asynkronmaskin
 - En elektrisk maskin där rotorns varvfrekvens/varvtal varierar med lasten. Till skillnad från [[synkronmaskin]] så roteras fältet runt lindningen (som står still) istället för tvärtom. Slingan är dessutom kortsluten och bara dess egen resistans återstår.
+![[Pasted image 20230302110136.png|400]]
+![[Pasted image 20230302110010.png|550]]
 
  [[Torque|Vridmomentet]] gör att slingan vill rotera med fältet, och en fri slinga hade därmed roterat _synkront_ med fältet - dvs $\omega_\text{rotor}=\omega_s$. En bromsad slinga kommer rotera **asynkront**: $\omega_\text{rotor}<\omega_s$. Rotorströmmen induceras således av skillnaden mellan fältets och rotorns rotationshastighet.
 
@@ -62,6 +64,9 @@ $$P_{12}= \frac{R_{r}}{s}i_{r}^{2} \Leftrightarrow \text{ mekaniska effekten } T
 Aynkronmotorn kan (t skillnad från synkron) direktstartas (50Hz för stillastående motor).
 - Direktstart går alltså bra men ger hög startström
 - Kraftelektronik kan ge mjukstart utan hög ström
+
+## Från dugga
+$$\text{märkvarvtalet} = n_{n} = (1-s_n)n_{0}$$där $n_{0}$ är varvtalet vid [[tomgång]].
 
 ## Se även 
 - [[synkront varvtal]]

@@ -1,7 +1,7 @@
 ---
 tags: [ledorg]
 ---
-# Kultur
+# Organisationskultur
 
 kultur - något som är särskiljande, ett sätt att förstå ett samhälle, 
 - Normer/värderingar

@@ -1,5 +1,6 @@
 ---
 aliases: [domain, domäner, domains]
+tags: [komsys]
 ---
 # Domän
 [[Internet]] delas in i ett antal domäner, där varje domän får sin egen kod. Dessa kan ha ett antal underdomäner (subdomain).

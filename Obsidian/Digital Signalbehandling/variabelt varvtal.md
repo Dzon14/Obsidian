@@ -23,3 +23,11 @@ tags: [elenergi]
 	  - Upp till 50 Hz: konstant flöde och maxmoment, $P_{max} = \omega T_{märk}$
 	  - Vid 50 Hz nås märkfrekvens och $P_{max} = \text{ märkeffekt }$
 	  - Över 50 Hz: bara f ökar $\rightarrow$ minskande flöde ("fältförsvagning") och minskande maxmoment, $T_{max}= \frac{P_{märk}}{\omega}$
+
+## Krets för att varvatalsreglera en [[likströmsmaskin]]
+![[Pasted image 20230222152836.png]]
+Lägre stationärt varvtal: Likspänningen är en rektangelvåg med medelvärde tp/T där tp är pulslängd och T är periodtid. För att sänka varvtalet ska medelspänningen minskas genom att minska tp (genom att referensen som jämförs med triangelvågen sänks)
+
+## Krets för att varvtalsreglera en [[asynkronmaskin]]
+![[Pasted image 20230222152904.png]]
+För att få lägre stationärt varvtal: Primärt ska grundtonsfrekvensen sänkas, vilket görs genom att referensen som jämförs med triangelvågen varieras långsammare

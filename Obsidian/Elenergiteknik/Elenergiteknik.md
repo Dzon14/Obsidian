@@ -23,4 +23,11 @@ tags: [elenergi]
 - 90 minuter + genomgång
 - 4 uppgifter med 50% för godkänt.
 
+## Dugga 2
+Omfattning:
+- [[likströmsmaskin]] och [[asynkronmaskin]] ([[elenergi F3]] och [[elenergi F4]])
+- Föreläsningar [[elenergi F8]] - [[elenergi F10]] (11 o 12 också inofficiellt)
+- Simulink från Lab 2
+- Övningar 7-10 + 3-4
+
 ## [[Elenergi exduggor]]

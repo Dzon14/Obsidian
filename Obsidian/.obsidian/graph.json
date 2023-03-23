@@ -97,6 +97,20 @@
         "a": 1,
         "rgb": 16768256
       }
+    },
+    {
+      "query": "tag:#hållbar",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#num",
+      "color": {
+        "a": 1,
+        "rgb": 11352843
+      }
     }
   ],
   "collapse-display": false,
@@ -109,6 +123,6 @@
   "repelStrength": 8.70546318289786,
   "linkStrength": 1,
   "linkDistance": 212,
-  "scale": 0.027504683194307517,
+  "scale": 0.029552176650136198,
   "close": true
 }

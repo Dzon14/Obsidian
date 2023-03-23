@@ -1,3 +1,6 @@
+---
+tags: [komsys]
+---
 # KomSys F6 - Network Layer 2
 
 ## Topics
@@ -10,3 +13,5 @@ Internet:
 Applikationer:
 - [[applikation]]
 - [[enkel nätövervakning]]
+- [[ping]]
+- [[traceroute 1]]

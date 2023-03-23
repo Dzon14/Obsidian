@@ -1,10 +1,12 @@
 ---
 tags: [ledorg]
+aliases: [nyinstitutionell teori, institutionella teorin]
 ---
 # Institutionell teori
 En teoribildning som belyser varför organisationer inte fungerar som de rationella verktyg de är tänkta att vara. Den sätter fokus på hur organisationer styrs av omgivande faktorer, invanda mönster och tillfälliga moden snarare än av rationalitet.
-
-Ser på [[Organisation|organisationen]] på ett annat sätt.
+- Omgivning
+- Ser på [[Organisation|organisationen]] på ett annat sätt.
+- Stabilitet
 
 Rationell ([[klassisk organisationsteori]]) handlar om mål - information - bästa. (rationellt och logiskt).
 Inst. teorin kommer in och säger att detta ej fungerar, att [[Organisation|organisationer]] inte fungerar enligt detta.
@@ -19,6 +21,14 @@ Man måste förstå detta och anpassa sig.
 ## Löskoppling (Decoupling)
 Att utveckla något som inte har någon funktion i arbetet, betyder inget. T.ex en likabehandlingsplan, arbetsmiljöplan. Saker som behövs (för det operativa) men kanske är löskopplade från det organisatoriska livet. 
 
+Inom denna teorin är löskoppning inte ett problem utan en **lösning**.
+- Formella kontra informella strukturen
+- t.ex löskoppla för att hantera både de vardagliga aktiviteter/rutiner och den formella strukturen
+
 ## Isomorfism
 "Härma varandra"
 Att ta efter andra företag. T.ex om ett företag har en strategi, så måste vi också ha det. 
+- Att organisationer i samma fält liknar varandra (likriktning). De följer samma rationaliserande myter och strävar efter legimitet.
+- Tvingande (t.ex lagar)
+- Imiterande (imitera andra, kke större organisation)
+- Normativ (kke anställt folk med samma utbildning)

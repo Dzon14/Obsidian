@@ -11,7 +11,7 @@ tags: [komsys]
 
 ## Forwarding
 - Att förflytta datagrammen genom nätet till mottagare på det sätt som för ögonblicket är det bästa. 
-- Data ankommer till router och tas emot som ramar enlingt [[länkprotokoll]]. Ramens kontrollinfo skalas bort och datan skickas vidare till vägväljarmodulen som beräknad bästa bäg. Vid utgången får den en ny ram med kontrollinfo och sckickas vidare.
+- Data ankommer till router och tas emot som ramar enlingt [[länkprotokoll]]. Ramens kontrollinfo skalas bort och datan skickas vidare till vägväljarmodulen som beräknad bästa väg. Vid utgången får den en ny ram med kontrollinfo och sckickas vidare.
 
 ## Routing
 Routern måste veta vilken väg som leder till datagrammets destination. Finns ofta flera vägar, så gäller att välja bästa. Routern behöver info om hur nätet ser ut och vilka tillgängliga vägar som finns (även status på dessa) - detta kallas för routing. 

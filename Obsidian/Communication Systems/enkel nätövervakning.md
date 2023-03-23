@@ -1,13 +1,13 @@
 ---
 tags: [komsys]
 ---
-# Enkel nätövervakningw
+# Enkel nätövervakning
 En [[applikation]] för att övervaka det nät man är kopplad till.
 Följjande [[applikation|applikationer]]:
 
 ## [[ping]]
 
-## [[traceroute]]
+## [[traceroute 1]]
 
 ## Nslookup/Dig/Host
 Två program med vars hjälp man kan ställa frågor till [[domain name system|DNS]].

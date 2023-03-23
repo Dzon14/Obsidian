@@ -1,7 +1,7 @@
 ---
 tags: [elenergi]
 ---
-# Elenergi F10
+# Elenergi F10 - Uppvärmning i byggnad
 
 ## Topics
 - [[termiska egenskaper hos fysisk kropp]]
@@ -11,6 +11,7 @@ tags: [elenergi]
 - [[transmissionsförluster]]
 - [[U-värde]]
 - [[ventilationsförluster]]
+- [[coefficient of performance]]
 
 ## Sammanfattning
 1. Nationell elanvändning fördelas på tre sektorer  

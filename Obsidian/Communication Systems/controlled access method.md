@@ -8,7 +8,7 @@ aliases: [controlled, controlled accessmetod]
 		  - TDMA/FDMA/CDMA kan ses som controlled eller channelization protocols.
 
 ## Polling
-- master - slave / primar - secondary
+- master - slave / primary - secondary
 Primär styr accessen till länken och sekundärdatorerna får skicka data endast på begäran från primärdatorn.
 Primär skickar POLL och sekundär svarar med att skicka tillbaka data till primärdatorn. Om inget finns att skicka svaras NO POLL och primär går vidare till nästa sekundär
 

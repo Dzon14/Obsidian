@@ -54,7 +54,7 @@ $E_{a}=k \omega$ och $T = ki_{a}$ med a för ankare aeller armature
 - Om $E_{a}=U_{a}$ (eller om motorn ej ansluten) blir $i_{a}=0$ 
 		- Vridmomentet T=0 och maskinen går i tomgång
 - Eftersom $U_{a} = E_{a} = k \omega$ blir $U_{a}$ ett mått på varvtalet
-- En "takometer" är en likströmsmaskin i tomgång och används som varvtalsgivare
+- En "tachometer" är en likströmsmaskin i tomgång och används som varvtalsgivare
 
 ## Likströmsmaskinens driftlägen
 1. Generatordrift
@@ -78,7 +78,7 @@ Precis som i [[synkronmaskin|synkronmaskinen]] beror $E_{a}$ enbart av rotatione
 
 ## Seriemagnetiserad likströmsmaskin
 - Med permanentmagneter är maskinen **konstantmagnetiserad**
-- Permanentmagneterna kan ersättas med en fältlindning och maskinen böir då **separatmagnetiserad**
+- Permanentmagneterna kan ersättas med en fältlindning och maskinen blir då **separatmagnetiserad**
 		- Fältströmmen $i_{f}$ styr B, så $$k=k_{2}i_{f} \Rightarrow E_{a}=k_{2}i_{f}\omega \ \text{ och } \ T=k_{2}i_{f}i_{a}$$
 - Fältlindning och ankarlindning kan kopplas i serie och maskinen blir då **seriemagnetiserad** och $i_{f}=i_{a}$
 		- Vridmomentet $T=k_{2}i_{f}i_{a}=k_{2}i_{a}^{2}$ så $T > 0$ även för $i_{a}<0$

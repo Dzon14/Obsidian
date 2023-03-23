@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "3391faf3b9de20b9",
+        "id": "848724c2fdc3c72e",
         "type": "tabs",
         "children": [
           {
-            "id": "42bd730f60d7dd2e",
+            "id": "ca673f3b2cfe3f5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ekonomprogrammet/Handelsrättslig översiktskurs/hök F2.md",
+                "file": "Numerical Analysis/numerical analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d65bb4f12ef2819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical Analysis/num S1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b30a7babe2f110e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical Analysis/matlab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25b0597931e47c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical Analysis/ODE solvers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "väntevärdesrikti",
+                "query": "token ring",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -121,7 +157,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ekonomprogrammet/Handelsrättslig översiktskurs/hök F2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +191,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ekonomprogrammet/Handelsrättslig översiktskurs/hök F2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,19 +207,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ekonomprogrammet/Handelsrättslig översiktskurs/hök F2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,17 +230,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42bd730f60d7dd2e",
+  "active": "8b78c25d30051673",
   "lastOpenFiles": [
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/Handelsrättslig översiktskurs.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/enuntiation.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/hök F2.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/kollektivavtal.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/hyresrätt.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/hyra.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/fastighetsrätt.md",
-    "Ekonomprogrammet/Handelsrättslig översiktskurs/garanti.md",
-    "Elenergiteknik/Elenergiteknik.md",
-    "Digital Signalbehandling/elenergi F9.md"
+    "Numerical Analysis/ODE solvers.md",
+    "images/Pasted image 20230323164032.png",
+    "images/Pasted image 20230323163951.png",
+    "images/Pasted image 20230323163756.png",
+    "images/Pasted image 20230323163037.png",
+    "images/Pasted image 20230323162959.png",
+    "images/Pasted image 20230323162851.png",
+    "images/Pasted image 20230323162513.png",
+    "images/Pasted image 20230323162440.png",
+    "Numerical Analysis/matlab.md",
+    "images/Pasted image 20230323155833.png",
+    "images/Pasted image 20230323155512.png",
+    "Untitled.md",
+    "Numerical Analysis/num S1.md",
+    "Numerical Analysis/numerical analysis.md",
+    "Communication Systems/komsys - sammanfattning.md",
+    "Numerical Analysis/ill-conditioned & well-conditioned.md",
+    "Numerical Analysis/back substitution.md",
+    "Numerical Analysis/num F2.md",
+    "Numerical Analysis/perturbation analysis.md",
+    "Numerical Analysis/backward & forward error.md",
+    "Numerical Analysis/floating point representation.md",
+    "Numerical Analysis/source of error.md",
+    "Numerical Analysis/condition number.md",
+    "Numerical Analysis/vector norm.md",
+    "Numerical Analysis/norm.md",
+    "Numerical Analysis/matrix norm.md",
+    "Numerical Analysis/supremum.md",
+    "Numerical Analysis/LU factorization.md",
+    "Numerical Analysis/num F1.md",
+    "Numerical Analysis/linear systems.md",
+    "Numerical Analysis/pivoting.md",
+    "Numerical Analysis/permutation matrices.md",
+    "Numerical Analysis/forward substitution.md",
+    "Numerical Analysis/Gauss elimination.md",
+    "Numerical Analysis",
+    "Hållbar utveckling"
   ]
 }
