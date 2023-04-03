@@ -3,8 +3,6 @@ aliases: [digsig, signals]
 tags: [el]
 ---
 
-
-
 # Digital Signalbehandling
 ![[Pasted image 20220831081724.png]]
 
@@ -25,10 +23,16 @@ tags: [el]
 
 ## Home assignments
 1. All done
-2. 
+2. All done
 
 ## Laborationer
 **Done in groups of 2**
 Lab 1 - Audio and speech processing
 Lab 2 - Signal processing for [[communication systems]]
 
+
+## Omtenta plan
+- [ ] Kolla igenom föreläsningar (slides och obsidian)
+- [ ] Extentor
+- [ ] Kolla plattan för bevis på olika formler
+- [ ] Kolla home assignments

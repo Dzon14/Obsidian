@@ -1,3 +1,6 @@
+---
+tags: [dator]
+---
 # Datorteknik F3
 
 ## Topics

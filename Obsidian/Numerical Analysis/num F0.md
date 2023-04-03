@@ -17,3 +17,4 @@ tags: [num]
 Book:
 - [[nested multiplication]]
 - [[base points]]
+- [[loss of significance]]

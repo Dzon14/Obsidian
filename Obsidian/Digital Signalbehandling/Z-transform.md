@@ -47,7 +47,7 @@ If M ≠ N the $z^{-M+N}$ term also contributes with |M - N| zeros or poles at t
 ![[Pasted image 20220907085657.png|400]]
 
 If we have a signal $$a^{n}u(n) \longleftrightarrow \frac{1}{a-az^{-1}}$$
-we get the following signle real pole location (Ex. a = 0, a = 1, a = 2):
+we get the following single real pole location (Ex. a = 0, a = 1, a = 2):
 ![[Pasted image 20220907092239.png|600]]
 
 **Important:**

@@ -1,5 +1,5 @@
 ---
-aliases: [tidskomplexiteten]
+aliases: [tidskomplexiteten, order notation]
 ---
 # Tidskomplexitet T(n)
 - Ett m책tt p책 hur tids책tg책ngen v채xer med problemets storlek n. 
@@ -14,6 +14,8 @@ Verklig tids책tg책ng: $t(n) = c \cdot T(n)$, d채r c 채r en konstant och beror p�
 
 ![[Pasted image 20220111204125.png]]
 
+## Numerical analysis
+![[Pasted image 20230327151959.png]]
 
 #prog 
 

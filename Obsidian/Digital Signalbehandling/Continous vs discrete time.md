@@ -8,10 +8,10 @@ tags: [el]
 - Discrete-time electronic devices (digital circuits) can be very flexivle and programmable
 
 **How do we get the best of both worlds?**
-- An electronic device interacting with the real world, observing an input signal and producing an output signal.
+- An electronic device interacting with the real world, observing an input signal and producing an output signal. 
 - We mix Continous and Discrete-time signals.
 Input -> Sampling (ADC) -> Digital signal processing -> Reconstruction (DAC) -> Output
-The **Digital signal processing** step in the middle creates "best of both worlds"
+The **Digital signal processing** step in the middle creates "best of both worlds".
 
 ### Continous-time sinusoid ("analog"):
 $X_{a(t)}= Acos(\Omega t + \theta) = \frac{A}{2}e^{\Omega t + \theta} + \frac{A}{2}e^{-j(\Omega t + \theta)}$ 
