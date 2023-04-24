@@ -111,6 +111,13 @@
         "a": 1,
         "rgb": 11352843
       }
+    },
+    {
+      "query": "tag:#marknad",
+      "color": {
+        "a": 1,
+        "rgb": 10270740
+      }
     }
   ],
   "collapse-display": false,

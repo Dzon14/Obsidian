@@ -24,3 +24,9 @@ The basis of the divided difference scheme is the *recursion*: $$f[x_{i},...,x_{
 
 ## Numerical example
 ![[Pasted image 20230329155351.png|550]]
+
+## Example from book
+![[SmartSelect_20230418_140150_Samsung Notes.jpg]]
+If we want to add new data points, it's easy to do:
+- Add (1,0) to the list.
+![[Pasted image 20230418140357.png]]

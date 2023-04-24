@@ -17,3 +17,4 @@ If $f : [a,b] \rightarrow \mathbb{R}$ is $(m+1)$-times continously differentiabl
 ## Another way: [[damped Newton method]]
 
 
+## Example from book

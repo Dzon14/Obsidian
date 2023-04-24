@@ -9,4 +9,5 @@ A typical step looks like:
 - Compute $d^{(k)} := -H^{(k)}f(x^{(k)})$
 - Compute $x^{(k+1)}:= x^{(k)} +d^{(k)}$
 - Update by some method $H^{(k)} \rightarrow H^{(k+1)}$
-- 
+
+## See [[Broyden condition]]

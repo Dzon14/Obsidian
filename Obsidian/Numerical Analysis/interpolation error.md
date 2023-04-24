@@ -5,6 +5,9 @@ aliases: [interpolation errors]
 # Interpolation error
 - In numerical analysis, interpolation error refers to the difference between the actual function value and the interpolated value at a specific point. When approximating a function using an interpolation method, the interpolated value may differ from the actual value due to the nature of the approximation.
 
+## Theorem
+$$f(x) - P(x)= \frac{(x-x_{1})(x-x_{2})...(x-x_{n})}{n!}f^{(n)}(c)$$where $c$ lies between the smallest and largest of the numbers $x,x_{1},...,x_{n}$
+ 
 ![[Pasted image 20230328161032.png]]
 - We can also write P-f and positive right side
 - $N=D-1$
@@ -25,3 +28,7 @@ Does the error decrease as the degree of the polynomial increases?
 
 ## How to reduce the error by minimixing $\lvert \lvert B_{N+1} \rvert \rvert_\infty$
 - [[Chebyshev interpolation]]
+
+## Example from book
+![[Pasted image 20230418142316.png]]
+![[Pasted image 20230418142330.png]]

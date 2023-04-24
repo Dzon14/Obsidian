@@ -34,4 +34,4 @@ If $A\in\mathbb{R}^{n\times n}$ is strictly diagonally dominant, then for nay $b
 ![[Pasted image 20230327161027.png]]
 
 ## Example from book
-![[Pasted image 20230330132059.png]]
+![[Pasted image 20230330132059.png]]![[SmartSelect_20230418_113455_Samsung Notes.jpg]]

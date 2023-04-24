@@ -11,4 +11,3 @@ tags: [num]
 - [[Secant method]]
 - [[Quasi-Newton method]]
 -  [[Broyden condition]]
-- 

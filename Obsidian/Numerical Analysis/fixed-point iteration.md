@@ -32,6 +32,15 @@ as we clearly see - $\phi_{2}$ works but not $\phi_{1}$ - why is this?
 - The reason is the *derivative*
 ![[Pasted image 20230330165138.png]]
 
-## Local convergence
+## Local convergence / Linear convergence
 ![[Pasted image 20230330170233.png]]
+In other words:
+If $$\lim_{i\to \infty}\frac{e_{i+1}}{e_{i}} = S < 1$$where $e_{i}$ is the error at step $i$ and S is the rate.
+**Theorem:**
+Assume that g is continously differentiable, that $g(r)= r$, and that $S= \lvert g'(r) \rvert < 1$. Then FPI converges linearly with rate S to the fixed point r for initial guesses sufficiently close to r. 
 
+## Example from book 
+Using [[bracketing method]]:
+![[Pasted image 20230419133557.png]]
+![[Pasted image 20230419133609.png]]
+![[Pasted image 20230419133618.png]]

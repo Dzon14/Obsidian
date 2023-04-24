@@ -12,8 +12,9 @@ We see that the phase response of the filter must be a linear function of $\omeg
 
 ![[Pasted image 20220921094532.png|500]]
 
+## Linear phase - important slide!!
 The symmetry conditions on impulse responses can be expressed in terms of the [[Z-transform]] ($H(z)$) (using the time-reversal and delay properties).
-![[Pasted image 20220921095207.png|400]]
+![[Pasted image 20230407175947.png]]
 
 [[Notch filters|IIR filter]] cannot have a linear phase if it's BIBO stable.
 

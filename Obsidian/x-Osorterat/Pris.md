@@ -1,3 +1,6 @@
+---
+tags: [marknad]
+---
 # Pris 
 Tre aspekter vid prissättning: 
 - Kundvärde
@@ -17,4 +20,3 @@ Dvs vissa satta priser är mer lockande för hjärnan.
 [[Penetrationspris]]
 [[Marknadsskumning]]
 
-#indek 

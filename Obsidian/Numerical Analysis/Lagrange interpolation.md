@@ -5,9 +5,20 @@ tags: [num]
 - A form of [[polynomial interpolation]]
 - Most important as a theoretical tool (since it has a high cost)
 
+## From book
+
+
 ## Lagrange interpolation formula
 $$\begin{align}  P_{2}(x) = y_{1}\frac{(x-x_{2})(x-x_{3})}{(x_{1}-x_{2})(x_{1}-x_{3})} + y_{2}\frac{(x-x_{1})(x-x_{3})}{(x_{2}-x_{1})(x_{2}-x_{3})} + y_{3}\frac{(x-x_{1})(x-x_{2})}{(x_{3}-x_{1})(x_{3}-x_{2})}\end{align}$$
 This is for three points $\Rightarrow n=2$ .
+
+## Main theorem
+Let $(x_1, y_1)$$,... ,$ $(x_n, y_n)$ be n points in the plane with distinct $x_{i}$. Then there exists one and only one polynomial P of degree $n − 1$ or less that satisfies $P (x_i) = y_i$ for $i = 1,...,n.$
+
+## Example (3.2)
+![[Pasted image 20230418133143.png]]
+
+## From Lecture
 
 ## Polynomial interpolation with Lagrange basis functions
 $$\phi_{i}(x) = \prod\limits_{\begin{align} k&=0 \\ k &\neq i \end{align}}^{n}\frac{x-x_{k}}{x_{i}-x_{k}}, \ \ \ i = 0,1,...,n$$

@@ -1,5 +1,6 @@
 ---
 aliases: [pole, pol, poler, polerna, polen]
+tags: [el]
 ---
 
 # Poles
@@ -20,4 +21,11 @@ Important unstable signals (who have poles on the unit circle)
 - Unit step
 These are only valid inside $-\pi < \omega < \pi$ 
 
-#el 
+## More on poles and zeros
+![[Pasted image 20230407175028.png|700]]
+poles close to zeros can cancel their  
+effect away from the location of the zeros,
+Note: The closer the poles are to the zeros,  
+the more “localized” the effect of the zeros  
+along the frequency axis  
+IIR filter

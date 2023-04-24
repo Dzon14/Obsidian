@@ -6,12 +6,13 @@ aliases: [Newton-Raphson method]
 - A numerical for finding the roots of a differentiable function. It is an iterative method that starts with an initial guess and then successively refines the guess by using the tangent line of the function at the current guess to find the next approximation. The method is based on the idea that a good approximation to a root of the function can be obtained by following the tangent line of the function at a nearby point.
 - The most famous method for solving [[nonlinear equation|nonlinear systems]].
 - It requires that the equation solved to be cast in the form $f(x) = 0$.
-- Fast in terms of [[convergence]]
+- Fast in terms of [[convergence]], converges faster than the linear convergent methods (in [[fixed-point iteration]]).
 - See [[modified Newton's method]]
 ![[Pasted image 20230403141854.png]]
 
 ## Formula
-The iteration for the method is $$x_{k+1}=x_{k} + dx_{k}=x_{k}-\frac{f(x_{k})}{f'(x_{k})}$$
+The iteration for the method is $$x_{k+1}=x_{k} + dx_{k}=x_{k}-\frac{f(x_{k})}{f'(x_{k})}$$where we also need to do an inital guess $x_{0}$
+
 #### Newton's method as [[fixed-point iteration]]
 Donate Newton's method $x_{k+1}... = \Phi(x)$
 Let $x^{*}$ be a root of f, then clearly $\Phi(x) = x^{*}$
@@ -38,3 +39,8 @@ No quadratic [[convergence]], because 1.25 is a double root: $f'(1.25)= 0$
 ![[Pasted image 20230403154447.png]]
 
 ## [[Newton's method for systems]]
+
+## Example from book 
+![[Pasted image 20230419142001.png]]
+After 6 steps we can see that we get the same.
+![[Pasted image 20230419142024.png|600]]

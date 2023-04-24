@@ -1,10 +1,11 @@
 ---
 aliases: [fixed-point iterative method]
+tags: [num]
 ---
 
 # fixed-point iterative methods
 A class of iterative methods for [[linear systems]].
-The idea is to rewrite $Ax=b$ into $$x= Bx +c$$By doing a initial gauess $x_{0}$ and
+The idea is to rewrite $Ax=b$ into $$x= Bx +c$$By doing a initial guess $x_{0}$ and
 Given $x_{0} \in \mathbb{R}^{n}$ we construct $$x_{k+1} = Bx_{k}+c \ \ \ \ k=0,1,...,$$so that a fixed point of $g(x) = Bx+c$ is a solution of $Ax =b$
 *Iteration error:* $e_{k}=x_{k}-k$
 

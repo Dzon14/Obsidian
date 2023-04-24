@@ -9,6 +9,8 @@ tags: [hållbar]
 - [[hållbar F3]] - kap 3
 - [[hållbar F4]]  - kap 2-6 (D)
 - [[hållbar F5]] - kap 4 & 5
+- [[hållbar F6]] - kap 4 & 5
+- [[hållbar F7]] - kap 8
 
 ## Seminarium
 - [[hållbar-projekt S1]]

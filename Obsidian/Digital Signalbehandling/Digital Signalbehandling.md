@@ -32,7 +32,10 @@ Lab 2 - Signal processing for [[communication systems]]
 
 
 ## Omtenta plan
-- [ ] Kolla igenom föreläsningar (slides och obsidian)
-- [ ] Extentor
-- [ ] Kolla plattan för bevis på olika formler
-- [ ] Kolla home assignments
+- [x] Kolla igenom föreläsningar (slides och obsidian)
+- [x] Extentor
+- [x] Kolla plattan för bevis på olika formler
+- [x] Kolla home assignments
+- [x] exam type problems (sista föreläsningen)
+
+## [[digsig extentor]]

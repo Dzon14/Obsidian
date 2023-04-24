@@ -1,3 +1,4 @@
+
 ---
 aliases: [IIR filter, FIR filter]
 tags: [el]
@@ -23,3 +24,4 @@ and we get the following plot
 
 ## [[IIR filter]]
 
+![[Pasted image 20230407180817.png]]

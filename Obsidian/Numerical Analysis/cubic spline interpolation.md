@@ -27,3 +27,12 @@ Total number of coefficients (unknowns) to be determined: 4N $\Rightarrow$ 2 *de
 - **Curvature-adjusted** cubic [[spline]]: $S_{1}''(x_{0}) = v_{0}$ and $S_{N}''(x_{N}) = v_{N}$
 - **Not-a-knot** cubic [[spline]]: $S_{1}'''(x_{1})=S_{2}'''(x_{1})$ and $S_{N-1}'''(x_{N-1}) = S_{N}'''(x_{N-1})$
 		  - (This is [[matlab]]s default when using the spline command)
+
+## Example from book
+Check that properties are satisfied for ![[Pasted image 20230418150306.png]]
+![[Pasted image 20230418150320.png]]
+
+## Another example
+![[Pasted image 20230418151316.png]]
+![[Pasted image 20230418151326.png]]
+![[Pasted image 20230418151345.png]]

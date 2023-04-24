@@ -1,5 +1,6 @@
 ---
 tags: [num]
+aliases: [interpolate, interpolates]
 ---
 # Interpolation
 If  $P(x)$ is intended for evaluation only at points x in the interval $[x_{0},x_{n}]$ then we talk about *regular* interpolation. If it's intended for evaluation at points x lying outside of $[x_{0}, x_{n}]$ we talk about *extrapolation* which are the different types.

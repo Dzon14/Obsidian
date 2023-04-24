@@ -1,0 +1,4 @@
+---
+tags: [marknad]
+---
+# PEST-analys

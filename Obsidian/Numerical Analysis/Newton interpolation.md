@@ -8,7 +8,7 @@ tags: [num]
 $$\phi_{i}(x) = \prod\limits_{k=0}^{i-1}(x-x_{k}), \ \ \ i=0,1,...,n$$
 ![[Pasted image 20230328145431.png]]
 - $x_{0}, ..., x_{N-1}$ are called the *centers* of the Newton polynomial
--  [uses [[nested multiplication|Horners method]]
+-  uses [[nested multiplication|Horners method]]
 - System matrix:  alower [[triangular matrix]]: $$\begin{bmatrix}
 1 & 0 & 0 & 0 & 0 \\
 1 & \phi_1(x_1) & 0 & 0 & 0 \\
@@ -33,6 +33,6 @@ f_4
 \end{bmatrix}$$which require $2n^{2}$ FLOPs. 
 
 ## Advantage with Newton basis functions
-- compared to monomial basis functions, this is comparatively vheap to add a new data point at a late stage of the computations.  The system matrix does not need to be solved again, we can just add a new bottom row.
+- compared to monomial basis functions, this is comparatively cheap to add a new data point at a late stage of the computations. The system matrix does not need to be solved again, we can just add a new bottom row.
 
 

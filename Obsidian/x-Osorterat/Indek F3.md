@@ -2,18 +2,18 @@
 
 # Innehåll Del 1
 [[Affärsidémodellen]]
-[[Marknadsföring]]
+[[marknadsföring]]
 [[Marknadsorientering]]
-[[Marknadsegmentering]]
+[[marknadsegmentering]]
 
 # Innehåll Del 2
-[[Konkurrensmedel]]
-[[Produkten]]
-[[Pris]]
+[[konkurrensmedel]]
+[[produkten]]
+[[pris]]
 [[Penetrationspris]]
 [[Marknadsskumning]]
-[[Påverkan - marknadskommunikation]]
-[[Promotion]]
+[[påverkan - marknadskommunikation]]
+[[promotion]]
 [[PLATS]] 
 
 

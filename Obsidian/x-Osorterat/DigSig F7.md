@@ -1,3 +1,6 @@
+---
+tags: [el]
+---
 # Digital signalbehandling F7 - DTFT and LTI systems
 
 ## Topics
@@ -8,4 +11,3 @@
 - [[LTI systems as filters]] 
 - [[Impulssvar|impulse response]] (of an ideal LP filter)
 
-#el 

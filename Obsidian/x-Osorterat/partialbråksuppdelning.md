@@ -1,5 +1,6 @@
 ---
 tags: [matte]
+aliases: [partial-fraction expansion]
 ---
 # Partialbråksuppdelning
 
