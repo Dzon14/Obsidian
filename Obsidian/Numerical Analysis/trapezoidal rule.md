@@ -4,6 +4,7 @@ tags: [num]
 ---
 # The trapezoidal rule
 - A form of [[Newton-Cotes quadrature]], where the area under the curve is approximated by the area of a trapezoid that connects the endpoints of the interval.
+- Linear - $Q^{1}$
 - A closed [[Newton-Cotes quadrature|Newton-Cotes rule]] defined $n=N=1, x_{0}=a, x_{1}=b$
 
 $$Q^{1}(f) = \frac{b-a}{2}(f(a)+f(b))$$The trapezoidal rule is exact for polynomial $P \in \mathbb{P}_{1}$ (degree of precision = 1)

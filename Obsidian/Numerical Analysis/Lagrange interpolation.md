@@ -8,7 +8,7 @@ tags: [num]
 ## From book
 
 
-## Lagrange interpolation formula
+#### Lagrange interpolation formula
 $$\begin{align}  P_{2}(x) = y_{1}\frac{(x-x_{2})(x-x_{3})}{(x_{1}-x_{2})(x_{1}-x_{3})} + y_{2}\frac{(x-x_{1})(x-x_{3})}{(x_{2}-x_{1})(x_{2}-x_{3})} + y_{3}\frac{(x-x_{1})(x-x_{2})}{(x_{3}-x_{1})(x_{3}-x_{2})}\end{align}$$
 This is for three points $\Rightarrow n=2$ .
 

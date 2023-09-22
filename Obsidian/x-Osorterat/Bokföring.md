@@ -1,5 +1,26 @@
-## Bokföring
+---
+tags: [indek]
+---
+# Bokföring
+# Ekonomi
+- T-konto: vänstra sidan är debit och högra kredit. 
+## Traditionell kontoplan
+![[Pasted image 20230828160927.png|500]]
+Sist balans- och resultatrapport
+- Ramlagar: Bokföringslagen, BFL, och Årsredovisnignslagen, ÅRL.
+## Normbildare
+- Bokföringsnämnden
+- Rådet för finansiell rapportering
+- Finansinspektionen
+- Föreningen för god sed på värdepappersmarknaden
 
+## Externa rapporter
+- Årsredovisning
+- Årsbokslut
+- Förenklat årbokslut
+
+
+# Indek
 - Bokföring är ett system för att registrera, klassificera, värdera och rapportera affärshändelser i företag
 - Ur ett företags ekonomiska redovisning ska det gå att utläsa företagets resultat för en givne period (typ 1 år) samt dess finansiella ställning vid periodens slut
 - Bokföring är en lagstadgad skyldighet som huvudsakligen regleras av **Bokföringslagen** och **Årsredovisningslagen**
@@ -29,4 +50,3 @@
 
 [[Löpande Bokföring och Bokslut]]
 
-#indek 

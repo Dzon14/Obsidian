@@ -1,8 +1,10 @@
 ---
 aliases: [abstrakta datatyper]
+tags: [prog]
 ---
 # Abstrakt datatyp (ADT)
-En abstrakt modell tillsammans med de operationer man kan utföra på den 
+*Definition:*
+En abstrakt modell tillsammans med de operationer man kan utföra på den.
 
 **Viktiga abstrakta datatyper:**
 - [[Lista]]
@@ -14,4 +16,3 @@ En abstrakt modell tillsammans med de operationer man kan utföra på den
 
 ![[KlasseriJFC.png]]
 
-#prog 

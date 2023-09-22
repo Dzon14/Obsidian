@@ -5,7 +5,7 @@ tags: [num]
 - we can't always rely on [[polynomial interpolation]], since we don't always know that data points comes from a function resembling a polynomial.
 - When there is uncertainty about what type of function underlies the data points, a piecewise polynomial interpolation scheme known as cubic splines is very popular
 - A type of [[piecewise polynomial interpolation]]
-- The idea is to use interpolating polynomials of degree three on each consecutive interval $[x_{i},x_{i+1}]$. That is, on the first interval $[x_{0},x_{1}]$ we seek the polynomial $$S_{1}(x) = a_{0}+a_{1}x+a_{2}x^{2}+a_{3}x^{3}$$and on the second interval $[x_{1},x_{2}]$ we seek another polynomial $$S_{2}(x) = b_{0}+b_{1}x+b_{2x^2}+b_{3}x^{3}$$and so on..
+- The idea is to use interpolating polynomials of degree three on each consecutive interval $[x_{i},x_{i+1}]$. That is, on the first interval $[x_{0},x_{1}]$ we seek the polynomial $$S_{1}(x) = a_{0}+a_{1}x+a_{2}x^{2}+a_{3}x^{3}$$and on the second interval $[x_{1},x_{2}]$ we seek another polynomial $$S_{2}(x) = b_{0}+b_{1}x+b_{2}x^{2}+b_{3}x^{3}$$and so on..
 - We use this to get  a smoother curve
 ![[Pasted image 20230329161759.png|500]]
 

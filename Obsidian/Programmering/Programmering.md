@@ -1,4 +1,8 @@
-# Programmering #prog
+---
+aliases: []
+tags: [prog]
+---
+# Programmering 
 
 ## Språk
 [[Java]]

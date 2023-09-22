@@ -3,6 +3,14 @@ tags: [matstat]
 aliases: [lägesmåttet]
 ---
 # Lägesmått
+L¨agesm˚att sammanfattar datamaterialet med ett tal som visar ”hur stora observationerna är”.
+- Medelvärde
+- Median
+- Typvärde
+- Under och övre kvartil
+- Percentil
+
+## Matstat
 
 [[väntevärden|Väntevärdet]] $E(X)$ är ett lägesmått, som ger upplysning om var massan är belägen "i genomsnitt". Man kan mycket väl använda någon annan storhet som lägesmått. Ibland används medianen $x_{0.50}$ eller som vi också betecknar den, $\tilde{m}$. Medianen är inte alltid entydigt bestämd. Vid symmetrisk fördelning sammanaller median och väntevärde (om medianen är entydig och väntevärdet existerar).
 ![[Pasted image 20221109105109.png]]

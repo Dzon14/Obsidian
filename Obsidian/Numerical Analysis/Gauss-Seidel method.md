@@ -28,6 +28,11 @@ $$
 **Theorem**
 If $A\in\mathbb{R}^{n\times n}$ is strictly diagonally dominant, then for nay $b\in\mathbb{R}^{n}$ and $x_{0}\in\mathbb{R}^{n}$ (starting value) the Gauss-Seidel method converges to a solution of $Ax=b$.
 
+## Härledning
+$A=L+D+U$ (as for [[Jacobi method]]) gives $(L+D+U)x = b$. This gives $$\begin{align} &(L+D)x = -Ux + b \\ &x= (L+D)^{-1}(-Ux+b) \\ &x_{k+1} = (L+D)^{-1}(b-Ux_{k}) = x_{k+1}=\underbrace{ -(L+D)^{-1}U }_{ =B }x_k+\underbrace{ (L+D)^{-1}b }_{ =c }\end{align}$$ $i=0,1,...$
+## Gauss-Seidel with twist
+From the standard formula above we can write $$\begin{align} &Lx_{k+1} + Dx_{k+1}= b-Ux_{k} \\ &Dx_{k+1}=b-Ux_{k}-Lx_{k+1} \\ &x_{k+1}=D^{-1}(b-Ux_{k}-Lx_{k+1}) \end{align}$$$i=0,1,...$
+This formula is equivalent to the "standard" formula, but it looks a bit funny. Could one really have $x_{i+1}$ on the right hand side of an iterative formula? The answer is “yes”. The explanation is that matrix-vector multiplication on the right hand side of this formula is done one row at a time, thereby producing the new entries of $x_{i+1}$ one by one – starting at the top. Thanks to the strictly lower triangular structure of $L$, the individual entries of $x_{i+1}$ on the right hand side are only needed in $Lx_{i+1}$ when they already have been produced.
 
 ## Example
 ![[Pasted image 20230327161015.png]]

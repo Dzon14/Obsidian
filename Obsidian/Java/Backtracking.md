@@ -1,3 +1,6 @@
+---
+tags: [prog]
+---
 # Backtracking
 Strategi för att lösa vissa typer av problem. Problemet bryts ned i ett antal steg
 Ex:
@@ -48,5 +51,3 @@ private boolean solver(int row) {
 }
 ```
 
-
-#prog 

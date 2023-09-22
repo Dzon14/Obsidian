@@ -3,7 +3,7 @@
 # Innehåll:
 
 [[BAS-kontoplanen]]
-[[Momsredovisning]]
+[[Moms]]
 [[Bokslutstablå]]
 
 #indek 

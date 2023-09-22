@@ -34,6 +34,7 @@ Utveckling av svensk avfallshantering har blivit bättre med tiden och deponi ä
 - I sista hand bortskaffning
 		- Deponering
 		- Förbränning utan energiutvinning
+![[Pasted image 20230524111437.png|450]]
 
 ## Producentansvar
 - Producenterna ansvarar för att samla in och ta uttjänta produkter

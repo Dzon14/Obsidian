@@ -3,7 +3,7 @@ tags: [num]
 ---
 # Simpson's rule
 - An another form of [[Newton-Cotes quadrature]] that uses quadratic polynomials to approximate the integrand over each subinterval, resulting in a more accurate approximation of the integral compared to the [[trapezoidal rule]]
-- Similar to the [[trapezoidal rule]] except that the degree 1 interpolant is replaced by a parabola,
+- Similar to the [[trapezoidal rule]] except that the degree 1 interpolant is replaced by a parabola - $Q^{2}$
 
 ## Formula - book
 $$\int\limits_{x_{0}}^{x_{2}} f(x) \ dx = \frac{h}{3} (y_{0}+4y_{1}+y_{2})- \frac{h^{5}}{90}f^{''''}(c)$$where $h=x_{2}-x_{1}=x_{1}-x_{0}$ and $c$ is between $x_{0}$ and $x_{2}$.

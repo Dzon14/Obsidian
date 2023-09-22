@@ -12,7 +12,7 @@
 [[pris]]
 [[Penetrationspris]]
 [[Marknadsskumning]]
-[[påverkan - marknadskommunikation]]
+[[påverkan]]
 [[promotion]]
 [[PLATS]] 
 

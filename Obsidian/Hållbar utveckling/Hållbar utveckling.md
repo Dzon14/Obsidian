@@ -11,6 +11,12 @@ tags: [hållbar]
 - [[hållbar F5]] - kap 4 & 5
 - [[hållbar F6]] - kap 4 & 5
 - [[hållbar F7]] - kap 8
+- [[hållbar F8]] - F
+- [[hållbar F9]] - Kap 7
+- [[hållbar F10]]
+
+## Tentamen
+- [[tentamen hållbar]]
 
 ## Seminarium
 - [[hållbar-projekt S1]]
@@ -26,6 +32,6 @@ tags: [hållbar]
 
 
 ## Moment
-- [ ] Projekt
-- [ ] Skriftlig rapport
+- [x] Projekt
+- [x] Skriftlig rapport
 - [ ] Tentamen

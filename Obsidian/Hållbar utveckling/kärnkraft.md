@@ -29,7 +29,7 @@ tags: [hållbar]
 - Kapitalintensivt
 - Oklart vad det egentligen kostar idag
 - Olkiluoto 3 i Finland trodde man skulle kosta 3 miljarder euro men blev snarare 11 miljarder euro. Driftstart 2009 försenad till 16 april 2023
-- Även ett exempel på Hinkley Point i UK där det gick från £16 miljarder till £33 miljader
+- Även ett exempel på Hinkley Point i UK där det gick från £16 miljarder till £33 miljarder
 
 ## Dagsläger för kärnkraft i Sverige
 - Energikommision Sverige: 100% förnybar elproduktion till 2040

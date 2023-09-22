@@ -7,10 +7,12 @@
   "canvas",
   "outgoing-link",
   "tag-pane",
+  "properties",
   "page-preview",
   "note-composer",
   "command-palette",
   "slash-command",
+  "bookmarks",
   "markdown-importer",
   "word-count",
   "file-recovery"

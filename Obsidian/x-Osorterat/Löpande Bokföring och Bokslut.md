@@ -1,4 +1,23 @@
-## Löpande Bokföring och Bokslut
+# Löpande Bokföring och Bokslut
+# Ekonomi
+- Affärshändelser
+- Kronologisk ordning
+- Systematisk ordning
+- Tidpunkt för bokföring
+- Verifikation, bl.a datum? vad avses? belopp? motpart?
+
+## Arbetsgång vid bokslut
+1. Bokföring av bokslutstransaktioner, periodiseringar.  
+2. Avsluta konton för inkomster och utgifter mot  
+resultaträkningen.  
+3. Resultaträkningen avslutas mot eget kapital.  
+4. Avsluta konton för tillgångar, eget kapital och skulder mot  
+balansräkningen.  
+5. Balansräkningen summeras och ska då ha lika stor summa  
+på debetsidan som på kreditsidan.
+
+
+# Indek
 4 olika slags affärshändelser (som ska bokföras):
 - Inbetalningar
 - Utbetalningar

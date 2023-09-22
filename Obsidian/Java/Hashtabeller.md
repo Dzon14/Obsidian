@@ -1,5 +1,6 @@
 ---
 aliases: [hashtabell]
+tags: [prog]
 ---
 
 # Hashtabell
@@ -9,13 +10,13 @@ aliases: [hashtabell]
 - Passar bra för att implementera [[Set|mängd]] och [[Map|mappar]]
 - Använder [[nyckel]]
 
-SE [[HashSet]] och [[HashMap]]
+Se [[HashSet]] och [[HashMap]]
 
 ## Implementering
 - Elementen sprids ut i en vektor
 - Söknyckeln måste översättas till ett index i vektorn. Sker i två steg:
 1. Hashfunktionen avbildar nyckeln på heltal (hashkod)
-2. Hashkoden måste skalas ned så att den passar som index i vektorn (t.ex hashkod mod vektorns storlek)
+2. Hashkoden måste skalas ned så att den passar som index i vektorn (t.ex hashkod mod vektorns storlek: hashkod % table.length)
 
 Hashfunktionen ska översätta nyckeln till ett heltal
 		- Om nyckeln är ett heltal kan hashkoden vara talet själv.
@@ -73,8 +74,9 @@ Notera att talet som är sist i följen ska vara längst till vänster i listan.
 
 ## Fyllnadsgrad
 - Ett mått på hur fylld tabellen är.
-- Fyllnadsgrad = antal insatta element / vektorns storlek
+- Fyllnadsgrad = antal insatta element / vektorns storlek (antal platser)
 - Ett lämpligt val är 0.75, man vill inte fylla den för mke.
+- En sluten tabell bör ej fyllas mer än hälften. 
 
 ### Rehashing
 Om tabellen blir för fylld.
@@ -87,5 +89,4 @@ Då måste man bygga om tabellen:
 ![[Pasted image 20220809140055.png|600]]
 
 
-
-#prog 
+ 

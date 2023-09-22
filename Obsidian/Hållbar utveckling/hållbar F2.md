@@ -28,6 +28,7 @@ I fallet med Örtofta, var det just rovfåglar som upptäcktes vara förgiftade,
 
 -  Vad betyder PBT och varför behövs klassificeringen för att göra en riskbedömning?
 *Svar*: [[persistens]], [[bioackumulering]], [[toxicitet]]
+
 - Ge två exempel på ämnen som är av relevans för elektronikindustrin och som uppfyller alla krav på att vara miljögift
 *Svar*: 
 1. Polychlorerade bifenyler (PCB): PCB var tidigare vanligt förekommande i elektroniska apparater som kondensatorer och transformatorer på grund av deras isolerande och värmeledande egenskaper. Men PCB har visat sig vara farliga för miljön och människors hälsa, och de har sedan dess förbjudits i många länder. PCB är klassificerade som PBT-ämnen, eftersom de är mycket persistenta, bioackumulativa och toxiska.

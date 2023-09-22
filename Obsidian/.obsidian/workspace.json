@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "25e0e530d1b7adc9",
+        "id": "add4a8c92b2b0cd0",
         "type": "tabs",
         "children": [
           {
-            "id": "963c33e973122b53",
+            "id": "3ee2fcd58880948d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ekonomprogrammet/Externredovisning/BAS-kontoplanen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b39ecf169876deea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "x-Osorterat/Bokföring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "224ede01125f7854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teknologistrategier/Teknologistrategier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49c58ea0f0ecdc59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teknologistrategier/tekstrat F9.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -44,20 +85,29 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tillväxtmatr",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b0e3a59327b7a23d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -112,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Teknologistrategier/tekstrat F9.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teknologistrategier/tekstrat F9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,6 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teknologistrategier/tekstrat F9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,43 +254,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "963c33e973122b53",
+  "active": "49c58ea0f0ecdc59",
   "lastOpenFiles": [
-    "Numerical Analysis/least square approximation.md",
-    "Numerical Analysis/numerical analysis.md",
-    "Numerical Analysis/num F9.md",
-    "Numerical Analysis/least squares.md",
-    "images/Pasted image 20230424163141.png",
-    "images/Pasted image 20230424163139.png",
-    "images/Pasted image 20230424163005.png",
-    "images/Pasted image 20230424162953.png",
-    "images/Pasted image 20230424162840.png",
-    "images/Pasted image 20230424162802.png",
-    "images/Pasted image 20230424162628.png",
-    "images/Pasted image 20230424162604.png",
-    "images/Pasted image 20230424160353.png",
-    "images/Pasted image 20230424160337.png",
-    "Hållbar utveckling/hållbar F7.md",
-    "Hållbar utveckling/Hållbar utveckling.md",
-    "Hållbar utveckling/energisystem.md",
-    "x-Osorterat/Energi.md",
-    "Hållbar utveckling/mineraler.md",
-    "Hållbar utveckling/avfall.md",
-    "Hållbar utveckling/carbon capture and storage.md",
-    "Hållbar utveckling/kärnkraft.md",
-    "Hållbar utveckling/hållbar F6.md",
-    "Hållbar utveckling/hållbar resursanvändning.md",
-    "Hållbar utveckling/cirkulär ekonomi.md",
-    "Hållbar utveckling/E-waste.md",
-    "Numerical Analysis/interpolation.md",
-    "Numerical Analysis/num F7.md",
-    "Numerical Analysis/composite quadrature.md",
-    "Hållbar utveckling/hållbar F5.md",
-    "Numerical Analysis/Newton-Cotes quadrature.md",
-    "Numerical Analysis/numerical integration.md",
-    "Numerical Analysis/trapezoidal rule.md",
-    "Numerical Analysis/Simpson's rule.md",
-    "Numerical Analysis/fixed-point iterative methods.md",
+    "Teknologistrategier/Teknologistrategier.md",
+    "Teknologistrategier/tekstrat F9.md",
+    "Teknologistrategier/teknologistrategier och organisering.md",
+    "Teknologistrategier/colonists vs consolidators.md",
+    "x-Osorterat/Bokföring.md",
+    "Teknologistrategier/tekstrat F5.md",
+    "Teknologistrategier/standards war.md",
+    "images/Pasted image 20230922170739.png",
+    "images/Pasted image 20230922170645.png",
+    "images/Pasted image 20230922165524.png",
+    "images/Pasted image 20230922165406.png",
+    "images/Pasted image 20230922165314.png",
+    "images/Pasted image 20230922165221.png",
+    "images/Pasted image 20230922164942.png",
+    "images/Pasted image 20230922164617.png",
+    "images/Pasted image 20230922164516.png",
+    "images/Pasted image 20230922161549.png",
+    "Teknologistrategier/tekstrat F8.md",
+    "Ekonomprogrammet/Externredovisning/BAS-kontoplanen.md",
+    "Teknologistrategier/technology road mapping.md",
+    "teknologistrategi.md",
+    "Ekonomprogrammet/Dataanalys och statistik/Dataanalys och statistik.md",
+    "datastat - F3.md",
+    "Teknologistrategier/tekstrat F7.md",
+    "Teknologistrategier/disruption by technology.md",
+    "Teknologistrategier/diffusion of innovation.md",
+    "Hållbar utveckling/innovation.md",
+    "Matematisk statistik/normalfördelning.md",
+    "Ekonomprogrammet/Dataanalys och statistik/translation och skalning.md",
+    "kvantitativ data.md",
+    "Ekonomprogrammet/Dataanalys och statistik/kvalitativ data.md",
+    "z-värde.md",
+    "Ekonomprogrammet/Dataanalys och statistik/kategoridata.md",
+    "Ekonomprogrammet/Externredovisning/Externredovisning A.md",
+    "Ekonomprogrammet/Dataanalys och statistik/outlier.md",
+    "Ekonomprogrammet/Dataanalys och statistik/datastat - F2.md",
+    "Ekonomprogrammet/Dataanalys och statistik",
+    "Ekonomprogrammet/Externredovisning",
+    "Untitled 1",
+    "El- och elhybridfordonsteknik",
+    "Teknologistrategier",
     "Ekonomprogrammet/Marknadsföring",
     "Numerical Analysis",
     "Hållbar utveckling"

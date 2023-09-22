@@ -15,15 +15,21 @@ Splitting up the interval $[a,b]$ into N shorter sub-intervals $[a_{j},b_{j}], j
 ## Composite [[Newton-Cotes quadrature]]
 ![[Pasted image 20230405134049.png]]
 
-## Composite [[trapezoidal rule]]
+### Composite [[trapezoidal rule]]
 $$\int\limits_{a}^{b} f(x) \ dx = \frac{h}{2} \left( y_{0}+y_{m}+ 2 \sum\limits_{i=1}^{m-1}y_{i} \right) - \frac{(b-a)h^{2}}{12}f^{''}(c)$$where $h = \frac{b-a}{m}$ and $c$ is between $a$ and $b$.
 
+##### Example 
+![[Pasted image 20230428134402.png]]
 
-## Composite [[Simpson's rule]]
+
+### Composite [[Simpson's rule]]
 ![[Pasted image 20230405134640.png]]
 From book: $$\int\limits_{a}^{b} f(x) \ dx = \frac{h}{3} \left[ y_{0}+y_{2m} + 4 \sum\limits_{u=1}^{m}y_{2i-1} + 2 \sum\limits_{u=1}^{m-1}y_{2i}  \right] - \frac{(b-a)h^{4}}{180}f^{(iv)}(c)$$where c is between a and b.
+
+##### Example
+![[Pasted image 20230428134438.png]]
 
 ## Illustrations
 ![[Pasted image 20230421151735.png]]
 
-## Example from book
+

@@ -7,7 +7,7 @@ Mäts i global average temperature från runt 1800-talet.
 (insert graph)
 
 ## Vad är det?
-(insert pic)
+![[Pasted image 20230524101310.png|550]]
 
 ## Olika gasers bidrag
 - Olika gaser absorberar strålning på olika våglängd

@@ -9,6 +9,10 @@ Den samling konkurrensmedel som ett företag använder sig av för att marknadsf
 Ett erbjudande kan beskrivas i några olika dimensioner
 - [[produkten]]
 - [[pris]]
-- [[påverkan - marknadskommunikation]]
+- [[påverkan]] ([[promotion]])
 - [[PLATS]]
 
+Ytterligare tre P (kommer på tentan ibland)
+- Process
+- People
+- Physical evidence

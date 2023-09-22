@@ -1,5 +1,8 @@
+---
+tags: [prog]
+---
 
-# Nyckel #prog 
+# Nyckel 
 
 Även kallas söknyckel
 

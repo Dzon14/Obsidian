@@ -1,5 +1,6 @@
 ---
 tags: [marknad]
+aliases: [segment, segmentet, segmentering]
 ---
 # Marknadsegmentering
 Delar in [[Företag|företagets]] marknader i delmarknader som blir en avgränsad målgrupp

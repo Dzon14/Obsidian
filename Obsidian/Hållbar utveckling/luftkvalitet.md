@@ -46,7 +46,7 @@ aliases: [luftkvaliten, luftkvalite]
 - Montrealprotokollet
 		- Minskar påverkan på ozonlagret genom att reglera freoner
 - Stockholmskonventionen
-		- Begränsar användning och utsläpp av POPs (persistenta organiska förorerningar)
+		- Begränsar användning och utsläpp av POPs (persistenta organiska föroreningar)
 **EU**:
 - Nationella utsläpptstak
 - Miljökvalitetsnormer för utomhusluft - gränsvärden

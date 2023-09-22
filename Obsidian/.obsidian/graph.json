@@ -118,6 +118,27 @@
         "a": 1,
         "rgb": 10270740
       }
+    },
+    {
+      "query": "tag:#elhybrid",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#tekstrat",
+      "color": {
+        "a": 1,
+        "rgb": 12106278
+      }
+    },
+    {
+      "query": "tag:#extern",
+      "color": {
+        "a": 1,
+        "rgb": 16638291
+      }
     }
   ],
   "collapse-display": false,
@@ -130,6 +151,6 @@
   "repelStrength": 8.70546318289786,
   "linkStrength": 1,
   "linkDistance": 212,
-  "scale": 0.03082707461553132,
+  "scale": 0.030567769209624163,
   "close": true
 }

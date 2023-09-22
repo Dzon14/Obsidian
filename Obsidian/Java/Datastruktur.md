@@ -1,5 +1,6 @@
 ---
 aliases: [datastrukturer]
+tags: [prog]
 ---
 
 # Datastruktur 
@@ -10,4 +11,3 @@ För att implementera mängder eller mappar (key-valuetabeller):
 [[Map]]
 För att implementera prioritetsköer:
 [[Heapar]]
-#prog 

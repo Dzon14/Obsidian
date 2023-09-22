@@ -68,5 +68,4 @@ Bildas även från naturliga källor. Bland annat: Partiklar kan bildas på fler
 CFC-ämnen användes tidigare i bland annat sprayburkar, kylskåp och luftkonditioneringssystem. När dessa ämnen släpptes ut i atmosfären bröts de ned av UV-strålning och frigjorde kloratomer. Dessa kloratomer kunde sedan reagera med ozonmolekyler och bryta ner dem. Ett enda CFC-ämne kan orsaka nedbrytning av många tusen ozonmolekyler, vilket leder till minskade ozonhalter i stratosfären och skapar ett ozonhål.
 
 Ozonhålet bildas särskilt över polområdena, på grund av kalla temperaturer och hög höjd som leder till att det bildas moln som innehåller ämnen som katalyserar nedbrytningen av ozon. När våren kommer i Antarktis och solen börjar lysa igen bryts CFC-ämnen ned och frigör kloratomer som sedan reagerar med ozonmolekyler och skapar ett stort ozonhål. Liknande processer sker också i mindre omfattning över Arktis.
-
 *Montrealprotokollet* förbjuder dessa ämnen. 

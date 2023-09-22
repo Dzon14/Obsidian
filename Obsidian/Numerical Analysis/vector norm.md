@@ -8,6 +8,7 @@ the p-norm (or vector norm) of a vector x is a measure of its size or magnitude.
 #### Definition
 ![[Pasted image 20230322161729.png]]
 $$||x||_p = (|x_1|^p + |x_2|^p + ... + |x_n|^p)^\frac{1}{p}$$
+![[Pasted image 20230524140501.png]]
 #### Example
 - 1-norm (p=1): $\lvert \lvert x \rvert \rvert_{1} = \sum\limits_{i=1}^{n}\lvert x_{i} \rvert$
 - 2-norm (Euclidean norm; p=2): $\left( \sum\limits_{i_{1}}^{n}\lvert x_{i} \rvert^{2} \right)^\frac{1}{2}$

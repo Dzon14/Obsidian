@@ -6,6 +6,9 @@ tags: [num]
 - The method involves dividing the interval into smaller subintervals (composite) and approximating the integral over each subinterval using quadrature rule, such as [[trapezoidal rule]] or [[Simpson's rule]].
 - The key feature of adaptive quadrature is that it uses an iterative process to refine the subintervals based on the error estimate of the quadrature rule used. If the error estimate of a subinterval is above a given tolerance level, the subinterval is subdivided into smaller subintervals, and the quadrature rule is applied again to the new subintervals. This process continues until the error estimate for all subintervals is below the tolerance level.
 - Useful in cases where the function being intergrated is complex or where the integrand varies rapidly over the integration interval. 
+**Book:**
+- A wildly varying function will require more steps than equal step sizes that we have learned so far. Smaller step sizes improve accuracy. 
+-  By using the information from the integration error formulas, a criterion can be developed for deciding during the calculation what step size is appropriate for a particular subinterval. The idea behind this method, called Adaptive Quadrature
 
 ![[Pasted image 20230405101119.png]]
 For ex. this graph shows a function that varies rapidly around $x=1$. We must choose extremely small panels $\Gamma_{j}$ to capture these variations. The basic strategy that all adaptive solvers use is the following, where $I_{j}$ is the exact value of the integral on a panel $\Gamma_{j}$ and $I_{app,j}$ is the numerical approximation obtained with the underlying quadrature rule used:
@@ -18,5 +21,12 @@ For ex. this graph shows a function that varies rapidly around $x=1$. We must ch
    **Two remarks:**
    First, since $I_{app,j1}+I_{app,j2}$ must be a better approximation to $I_{j}$ than $I_{app,j}$, one redefines $I_{app,j}$ in the equation above as $I_{app,j1}+I_{app,j2}$. Secondly, there is no guarantee for a specific global accuracy. The tolerance tol only controls the local error.
 
+## Formula from book
+![[Pasted image 20230429183428.png]]
+
 ## Numerical example
-See lecture8.m for approximarion of $$f(x) = \begin{cases} 1, \ \ \ &x \leq 0 \\ x^{-\frac{1}{2}}, \ \ \ &x > 0 \end{cases}$$and $[a,b] = [-0.5,1]$. f 
+See lecture8.m for approximarion of $$f(x) = \begin{cases} 1, \ \ \ &x \leq 0 \\ x^{-\frac{1}{2}}, \ \ \ &x > 0 \end{cases}$$and $[a,b] = [-0.5,1]$. 
+
+## Example
+![[Pasted image 20230429184029.png]]
+![[Pasted image 20230429184043.png]]

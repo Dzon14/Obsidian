@@ -5,7 +5,7 @@ tags: [hållbar]
 - Fossila bränslen dominerar globalt
 
 ## Dagens energisystem ej hållbara
-- >1 miljard människor saknar tillgånng till säker och effektiv energi
+- >1 miljard människor saknar tillgång till säker och effektiv energi
 - Stora ojämlikheter i tillgång till energi $\Leftrightarrow$ sociala spänningar
 - Gigantiska miljö- och hälsoproblem
 - Många länder/regioner är beroende av importerad fossil energi $\rightarrow$ ekonomiska och säkerhetsmässiga risker
@@ -21,7 +21,7 @@ $$\text{Energianvändning} \Leftrightarrow \text{fossila bränslen} \Rightarrow 
 1. Använda mindre energi genom energieffektivisering och beteendeförändringar
 2. Använda utsläppsfri energi
 **Effektivisering** - ett billigare alternativ? $$\text{Högre energipriser} \Rightarrow \text{Effektivisering blir allt lönsammare!}$$
-## Varför implementeras inte energieffektivseringsåtgäder trots lönsamma?
+## Varför implementeras inte energieffektivseringsåtgärder trots lönsamma?
 - Tekniska hinder
 - Ekonomiska hinder
 - Oragnisatoriska hinder
@@ -50,7 +50,7 @@ $$\text{Energianvändning} \Leftrightarrow \text{fossila bränslen} \Rightarrow 
 
 ## Förnybar el
 - Kostnader sjunker dramatiskt
-- Solell har exempelvis minskat i kostand väldigt mycket
+- Solel har exempelvis minskat i kostnad väldigt mycket
 
 ## Hållbarhetsproblem med sol och vindkraft
 - Material

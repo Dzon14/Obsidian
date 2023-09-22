@@ -9,7 +9,7 @@ I Europa beräknas vi producera 16kg elektronikskrot per person och år. 53 milj
 
 - I EU har vi ett särksilt direktiv för elskrot sedan 2012: WEEE-direktivet, med flera mål
 		- Separat insamling (producentansvar)
-		- Hrda krav på export - vi ska hantera det inom EU
+		- Hårda krav på export - vi ska hantera det inom EU
 		- Harmonisering inom EU
 - Elskrot räknas som farligt avfall. Ungefär hälften består av stora hemelektronikgrejer.
 

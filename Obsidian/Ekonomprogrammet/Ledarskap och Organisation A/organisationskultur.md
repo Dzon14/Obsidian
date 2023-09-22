@@ -16,6 +16,6 @@ Kultur som ett verktyg
 - Lyfta fram hjältar/symboler för att påverka kulturer
 
 Sätt 2 (inte bygga vidare):
-Kultur för att förstå pch förklara
+Kultur för att förstå och förklara
 - Organisationer ÄR kulturer
 - Sitter i väggarna, en ledare kan ej säga vad en kultur är.

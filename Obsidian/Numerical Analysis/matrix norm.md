@@ -13,3 +13,6 @@ Let $$A = \begin{bmatrix} 2 & 4 \\ 2 & 1 \end{bmatrix}$$
 - $\lvert \lvert A \rvert \rvert_{1} = 5$
 - $\lvert \lvert A \rvert \rvert_{\infty}= 6$
 ![[Pasted image 20230322163443.png]]
+
+## 2nd norm
+$$\lvert \lvert \cdot \rvert \rvert_{2} = \text{ square root of maximum eigenvalue}$$

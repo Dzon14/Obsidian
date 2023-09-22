@@ -41,6 +41,7 @@ passar bra i speciella sammanhang och är enkla att implementera (två nästlade
 ## [[Mergesort]]
 Snabb metod
 Sortera vänstra halvan, sen högra halvan och sedan samsortera (merge) de båda sorterade halvorna
+- Stabil sorteringsalgoritm
 
 Nedan används [[Divide and conquer]] tekniken i [[Mergesort]].
 ```java
@@ -84,6 +85,10 @@ private static void quickSort(int[] a, int first, inte last) {
 	}
 }
 ```
+- Oftast snabb:
+	- Sämre än Mergesort i värsta fall – O($n^2$ ). 
+	- Bra (snabb) i medelfall – O(nlogn). 
+	- Värstafallet kan göras statistiskt osannolikt.
 
 ### Partitionering
 - Sök från vänster upp ett element som är >= pivot
@@ -96,6 +101,9 @@ private static void quickSort(int[] a, int first, inte last) {
 I värsta fall blir det O($n^2$)
 Quicksort behöver inget extra minnesutrymme för temporär vektor
 
+#### Exempel Partitionering
+![[Pasted image 20230809174035.png]]
+
 ## Quicksort vs Mergesort
 Quicksort:
 - Snabb i medelfall (O(nlogn)), men O(n^2) i värsta fall. 
@@ -105,11 +113,5 @@ Mergesort:
 	- O(nlogn) i både medel- och värsta fall.
 	- Stabil 
 
-#prog 
-	
 ## Stabila sorteringsalgoritmer
 ![[Pasted image 20220112202604.png]]
-
-
-	
-	

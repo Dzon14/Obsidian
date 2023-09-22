@@ -8,5 +8,5 @@ tags: [marknad]
 - [[marknadsföringsprocess]]
 - [[marknadsföringsorientering]]
 - [[marknadsegmentering]]
-- [[konkurrensmedel|marknadsmix]] ([[pris]], [[produkten]], [[påverkan - marknadskommunikation]], [[PLATS]], [[promotion]])
+- [[konkurrensmedel|marknadsmix]] ([[pris]], [[produkten]], [[påverkan]], [[PLATS]], [[promotion]])
 - [[customer relationship management]]

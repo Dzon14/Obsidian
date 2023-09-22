@@ -1,5 +1,6 @@
 ---
 aliases: [Söndra och härska]
+tags: [prog]
 ---
 # Divide and conquer
 - Teknik för att konstruera rekursiva algoritmer
@@ -15,5 +16,3 @@ aliases: [Söndra och härska]
 Härska-steget är algoritmkonstruktionen och Söndra-steget är rekursiva anrop.
 Finns en metod som kallas för [[Mergesort]]
 
-
-#prog 

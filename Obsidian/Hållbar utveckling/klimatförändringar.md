@@ -12,7 +12,7 @@ tags: [num]
 
 ## Strålningsdrivning (RF)
 - Strålningsdrivning (radiative force) mäter förändrat energiflux genom atmosfären i $W/m^{2}$
-- Positiv RF leder till  uppvärmning
+- Positiv RF leder till uppvärmning
 - Ett nettomått för olika drivkrafters bidrag till klimatförändring
 - Förutom gaser påverkar även partiklar (aerosoler) RF 
 		- Dessa bidrar negativt då aerosoler reflekterar solljus och ger en kylande effekt

@@ -1,3 +1,6 @@
+---
+tags: [prog]
+---
 # Fibonaccitalen
 ## Rekursivt (dålig lösning):
 ```java
@@ -55,4 +58,3 @@ private static long fib(int n, long[] table) {}
 ```
 Detta har linjär [[Tidskomplexitet]]
 
-#prog 

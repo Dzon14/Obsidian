@@ -19,14 +19,14 @@ Step 1:
 ![[Pasted image 20230321163949.png]]
 Step 2: New pivot is $d-\frac{c}{a}b$ and do analogously as before
 ![[Pasted image 20230321164004.png]]
-The left matrix becomse L and the right U.
+The left matrix becomes L and the right U.
 ![[Pasted image 20230328114959.png]]
 When solving with [[back substitution]] (i.e for finding variables) we can either use the L or U matrix since both give same answers for the variables.
 
 ## Computational complexity of LU factorization
 $$\frac{2}{3}n^{3}- \frac{1}{2}n^{2}- \frac{1}{6}n$$
 
-## PU = LA factorization
+## PA = LU factorization
 The "normal" factorization using [[Gauss elimination|Gaussian elimination]] is considered "naive" because we can encounter both zero pivot and swamping. We can instead use PU = LU with [[partial pivoting]], which is a LU factorization of a row-changed version of A. 
 Before calculating on this we need to understand: 
 - [[pivoting]] / [[partial pivoting]]

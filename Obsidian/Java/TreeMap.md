@@ -5,7 +5,9 @@ En typ av datatypen [[Map]]
 - Balanserat binärt sökträd (röd-svarta-träd)
 - [[Tidskomplexitet]] för sökning, insättning och borttagning är O(log(n))
 
-I en TreeMap är det nyckelklassen som ska implementera Comparable(om man inte använder konstruktorn med parameter av Comparator)
+- I en TreeMap är det nyckelklassen som ska implementera Comparable(om man inte använder konstruktorn med parameter av Comparator)
+- Förutsätter att elementen/nycklarna som sätts in går att jämföra med varandra (Comparable/Comparator). 
+- Vid iterering får man elementen/nycklarna i ordning.
 
 **Map.Entry** är ett inre interface som är nästlat i interfacet Map. 
 ```java

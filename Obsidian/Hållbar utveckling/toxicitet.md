@@ -22,7 +22,7 @@ aliases: [toxiska, toxisk]
 - $LOEC$ - Lowest Observed Effect Concentration - den lägsta testkoncentration där skillnad mot kontroll kan påvisas
 
 ## Hormonstörande ämnen
-- Inte direkt tociska men stör kroppens hormonsystem
+- Inte direkt toxiska men stör kroppens hormonsystem
 - Hormonell reglering är ett viktigt medel i kroppen för att upprätthålla fysiologisk balans
 - Störningar på det kan orsaka t.ex fortplantningsstörning (eller missbildning), cancer, diabets, hjärt- & kärlsjukdomar och skador på immunsystemet samt nervsystemet.
 

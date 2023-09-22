@@ -11,7 +11,7 @@ aliases: [Newton-Raphson method]
 ![[Pasted image 20230403141854.png]]
 
 ## Formula
-The iteration for the method is $$x_{k+1}=x_{k} + dx_{k}=x_{k}-\frac{f(x_{k})}{f'(x_{k})}$$where we also need to do an inital guess $x_{0}$
+The iteration for the method is $$x_{k+1}=x_{k} + dx_{k}=x_{k}-\frac{f(x_{k})}{f'(x_{k})}$$where we also need to do an initial guess $x_{0}$
 
 #### Newton's method as [[fixed-point iteration]]
 Donate Newton's method $x_{k+1}... = \Phi(x)$

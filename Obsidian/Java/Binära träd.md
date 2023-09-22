@@ -1,5 +1,6 @@
 ---
-aliases: [binära träden, binära trädet, binärt träd]
+aliases: [binära träden, binära trädet, binärt träd, binary tree]
+tags: [prog]
 ---
 # Binära träd 
 Binärt träd är en [[Datastruktur]] och ett [[träd]] där varje nod har max två "barn". Går uppifrån ner. 
@@ -91,6 +92,7 @@ private void print(Node<E> n) {
 }
 ``` 
 
+![[Pasted image 20230809185840.png|500]]
 
 ## Höjd och djup
 - Rotens djup/nivå är 1. 
@@ -101,5 +103,3 @@ private void print(Node<E> n) {
 ## Strikt binärt
 - Ett träd är strikt binärt om varje nod har noll eller två barn. D.v.s. alla noder som inte är löv har två barn.
 ![[Pasted image 20220809103420.png]]
-
-#prog 

@@ -1,5 +1,6 @@
 ---
 aliases: [rekursivt, rekursiv]
+tags: [prog]
 ---
 # Rekursion
 Att tänka rekursivt: "Jag fyller ett år mer än förra året"
@@ -33,5 +34,8 @@ Det ska användas när:
 - Finns en icke-rekursiv lösning men den rekursiva är effektivare. (t.ex [[Sortering]])
 - När en rekursiv lösning är enklare att förstå, implementera osvosv. (t.ex binärsökning)
 
-#prog 
+## En rekursiv metod måste ha
+- En eller flera *parametrar* som bestämmer problemets storlek 
+- Ett eller flera *basfall* som löses direkt. 
+- Ett eller flera *rekursiva anrop*. De rekursiva anropen måste leda till att ett basfall så småningom nås.
 

@@ -1,5 +1,6 @@
 ---
 aliases: [Resultaträkning, Balansräkning]
+tags: [indek]
 ---
 
 # Resultaträkning och Balansräkning
@@ -72,5 +73,3 @@ Både anläggnings- och omsättningstillgångar bidrar till en ökade likviditet
 ![[Pasted image 20211123092154.png]]
 
 För att företagen inte ska kunna ge en alltför [[Ljus]] eller mörk bild av verksamheten krävs regler för hur värderingen får göras. [[Värderingsprinciper]]
-
-#indek

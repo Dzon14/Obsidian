@@ -3,6 +3,14 @@ tags: [matstat]
 aliases: [spridningsmåttet, spridningsmåtten]
 ---
 # Spridningsmått
+Mäter hur utspridda observationerna är:
+- Variationsbredd (Range)
+- Kvartilavstånd (IQR)
+- [[varians]]
+- [[standardavvikelse]]
+
+
+## Matstat
 Det är inte alltid tillräckligt med att känna till [[lägesmått|lägesmåttet]]. T.ex kan en tvåpunktsfördelad [[stokastisk variabel|s.v]]. med olika värden och väntevärden få en olika utspridd fördelning.
 
 ## Definitioner

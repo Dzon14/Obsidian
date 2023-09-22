@@ -1,5 +1,6 @@
 ---
 aliases: [Binära sökträden, binära sökträdet, binärt sökträd]
+tags: [prog]
 ---
 # Binära sökträd
 En [[Datastruktur]] som passar för sökning.
@@ -16,19 +17,24 @@ Det är ett [[Binära träd|binärt träd]] där:
 ![[Pasted image 20211120130310.png|200]]'
 Här är ordningen: 2, 4, 5, 6, 8, 9
 
+Tidskomplexitet: O(n)
+
 ## Sökning
 - Börja i roten, jämför med sökt element x, om likhet är vi klara
 - Om x är mindre än rotens element: gå till vänster barn annars gå till höger barn.
 - Fortsätt på samma sätt tills vi hittar det sökta, eller tills den nod som står i tur att undersökas är null (misslyckad sökning)
+- O(logn)
 
 ## Insättning
 - Om talet x man vill sätta in är mindre än roten, gå till vänstra grenen och sätt in vid misslyckad sökning. 
 - Vid insättning ska ordningen för trädet bevaras
 - Dubletter får ej förekomma
+- O(logn)
 
 ## Borttagning
 - För borttagning av ett element måste vi söka upp det
 - När det tas bort måste föräldern kopplas ihop med något av barnen (alltså måste man hålla reda på referens till föräldern vid sökning)
+- O(logn)
 **Noll barn:**
 - Börja med att söka efter noden (och föräldern)
 - Noden, act, som ska bort är ett löv. Sätt den referens i parent som som refererar till act till null
@@ -61,11 +67,11 @@ Om ett binärt sökträd hålls balanserata kommer sökning, insättning och bor
 
 ### AVL-träd - Balanserade binära träd
 - Ett binärt träd är balanserat om det för varje nod i trädet gäller att höjdskillnaden mellan dess båda subträd är högst ett
+- Ett träd är (höjd)balanserat om det för varje nod i trädet gäller att höjdskillnaden mellan dess båda subträd är högst ett. Ett AVL-träd är ett självbalanserande binärt sökträd som hålls balanserat genom att man vid insättning/borttagning återställs trädets form ifall det blev obalanserat.
 - I balanserade träd är höjden <= 1.44 * 2_log(n).
 ![[Balanseratbinärtträd.png|500]]
 
 ## Klasserna [[TreeSet]] och [[TreeMap]]
-#prog 
 
 ## Implementering av binära sökträd
 ```java
