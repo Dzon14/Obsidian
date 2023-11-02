@@ -4,6 +4,8 @@ tags: [indek]
 # Bokföring
 # Ekonomi
 - T-konto: vänstra sidan är debit och högra kredit. 
+
+![[Pasted image 20231010111832.png]]
 ## Traditionell kontoplan
 ![[Pasted image 20230828160927.png|500]]
 Sist balans- och resultatrapport

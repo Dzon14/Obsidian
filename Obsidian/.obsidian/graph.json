@@ -139,6 +139,20 @@
         "a": 1,
         "rgb": 16638291
       }
+    },
+    {
+      "query": "tag:#energimarknad",
+      "color": {
+        "a": 1,
+        "rgb": 7296242
+      }
+    },
+    {
+      "query": "tag:#elprod",
+      "color": {
+        "a": 1,
+        "rgb": 11053506
+      }
     }
   ],
   "collapse-display": false,

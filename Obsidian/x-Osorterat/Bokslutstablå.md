@@ -1,4 +1,4 @@
-## Bokslutstablå
+# Bokslutstablå
 - Överskådligt preliminärt bokslut i en sammanfattande tablå utanför kontosystemet
 - En bokslutstablå omfattar kolumner för
 		- Kontonamn

@@ -11,9 +11,9 @@ tags: [tekstrat]
 - [[tekstrat F5]] - Tillämpade TS
 - [[tekstrat F6]] - Digitalisering & Triathlon
 - [[tekstrat F7]] - Disruption, diffusion och innovation
-- [[tekstrat F8]] - Teknologistrategiers impact
+- [[tekstrat F8]] - Teknologistrategiers impact (tech road mapping)
 - [[tekstrat F9]] - TS och organisering
-- [[tekstrat F10]]
+- [[tekstrat F10]] - TS i beslut och organisation
 
 ## Case
 - [[tekstrat C1]]
@@ -26,3 +26,7 @@ tags: [tekstrat]
 
 ## Lektionsplan
 ![[Pasted image 20230918131849.png|600]]
+
+## Inför tentamen
+![[Pasted image 20231016155703.png]]
+![[Pasted image 20231016155650.png]]

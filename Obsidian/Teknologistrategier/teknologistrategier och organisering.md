@@ -6,7 +6,9 @@ tags:
 
 ## Affärsmodellen
 ![[Pasted image 20230922154844.png]]
-
+- Värdeskapande = processteknologi
+- Värdeerbjudandet = produktteknologi
+- Värdefångsten = marknadsteknologi
 ## Hur bidrar TS till värdefångst?
 - **Exklusivitet** (Appropriability, Teece)
 	-  Kan användningen av teknologin kontrolleras så att ingen annan kan utnyttja eller kopiera den. Då blir den en unik tillgång

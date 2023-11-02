@@ -1,13 +1,16 @@
 ---
 tags:
   - tekstrat
+aliases:
+  - TRM
+  - tech road mapping
 ---
 # Technology Road Mapping (TRM)
 - A high-level, visual plan that communicates an organization's technology strategy.
 - Why, What, How, When
 ## Roots and forgotten history
 - TRM recognized and a established management tool
-- It's a history and develooment: Key mile stones
+- It's a history and development: Key mile stones
 - Academic research has lagged well behind the industry practice
 - Well integrated in industrial engineerng
 - Six companies in the forefront (choice)
@@ -56,7 +59,7 @@ tags:
 
 ##### 4. Ongoing Management
 Actively manage technology asset base
-- Modularity: 
+- **Modularity**: 
 		  - Building a complex product from smaller subsystems that can be designed independently, and function together as a whole
 		  - Requires architect company to have deep product knowledge for advance specification of subsystems
 		  - Reduces uncertainty in product design

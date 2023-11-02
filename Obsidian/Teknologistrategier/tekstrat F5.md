@@ -7,5 +7,6 @@ tags:
 ## Topics
 - [[teknologistrategi]]
 - [[teknologistrategi och dynamik]]
+- [[teknologistrategier i USOs]]
 - [[innovation]]
 - [[entreprenörskap]]

@@ -16,7 +16,7 @@ tags:
 
 ## Pacing digital transformation
 Doing nothing is not an option, and doing just enough is almost impossible. 
-![[Pasted image 20230914143932.png]]
+![[Pasted image 20230914143932.png|700]]
 
 ## The exploring digital framework 2.0
 - Traditional transformation management theory also applies to digital transformation
