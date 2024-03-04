@@ -14,3 +14,15 @@ istället för en iterator kan man använda en **Foreach-sats**
 ![[Iterator.png]]
 ### Användning av iterator
 ![[Pasted image 20220414182846.png]]
+
+## .forEach och .removeIf
+![[Pasted image 20231229145658.png]]
+![[Pasted image 20231229145716.png]]
+
+## [[stream]]
+
+## Metoder med variabelt antal argument - varargs
+![[Pasted image 20231229145814.png]]
+![[Pasted image 20231229145842.png]]
+#### Exempel
+![[Pasted image 20231229145907.png]]

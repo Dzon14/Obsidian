@@ -67,7 +67,7 @@
       "query": "tag:#komsys",
       "color": {
         "a": 1,
-        "rgb": 9549
+        "rgb": 549055
       }
     },
     {
@@ -120,38 +120,52 @@
       }
     },
     {
-      "query": "tag:#elhybrid",
+      "query": "tag:#farsi",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 11492061
+      }
+    },
+    {
+      "query": "tag:#datastat",
+      "color": {
+        "a": 1,
+        "rgb": 14235214
+      }
+    },
+    {
+      "query": "tag:#ekoverk",
+      "color": {
+        "a": 1,
+        "rgb": 2529572
       }
     },
     {
       "query": "tag:#tekstrat",
       "color": {
         "a": 1,
-        "rgb": 12106278
+        "rgb": 11053842
       }
     },
     {
-      "query": "tag:#extern",
+      "query": "tag:#automation",
       "color": {
         "a": 1,
-        "rgb": 16638291
+        "rgb": 6507339
       }
     },
     {
-      "query": "tag:#energimarknad",
+      "query": "tag:#affärsanalys",
       "color": {
         "a": 1,
-        "rgb": 7296242
+        "rgb": 10060037
       }
     },
     {
-      "query": "tag:#elprod",
+      "query": "tag:#mikro",
       "color": {
         "a": 1,
-        "rgb": 11053506
+        "rgb": 10094857
       }
     }
   ],
@@ -165,6 +179,6 @@
   "repelStrength": 8.70546318289786,
   "linkStrength": 1,
   "linkDistance": 212,
-  "scale": 0.030567769209624163,
+  "scale": 0.03326208160263112,
   "close": true
 }

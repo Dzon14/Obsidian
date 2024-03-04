@@ -12,7 +12,10 @@ Snabbare än motsvarande trädklasser
 
 ## Varför skuggning
 ![[Pasted image 20230810114430.png]]
-
+![[Pasted image 20240102125612.png]]
 ## Exempel
 ![[Pasted image 20230810114455.png]]
-![[Pasted image 20230810114534.png]]
+![[Pasted image 20230810114534.png|500]]
+![[Pasted image 20240102125926.png]]
+## Om man glömmer skugga
+![[Pasted image 20240102125823.png]]

@@ -48,7 +48,7 @@ Använd [[generisk metod]]
 - Vi förutsätter att klassen som ersätter E implementerar Comparable. Dvs. om en vektor av typen Person ska sorteras måste klassen Person implementera Comparable. 
 - Inuti metoden binarySearch måste vi använda typkonvertering vid anrop av compareTo: int compResult = ((Comparable) x).compareTo(a[mid]);
 - Om man iställer kräver att klassen som ersätter E implementerar Comparable, alltså < E implements Comparable< E>> int indexOf(...).. så slipper vi typkonvertera. 
-
+![[Pasted image 20231231124419.png|500]]
 ## Med comparator (compare)
 ![[Pasted image 20230809172028.png]]
-
+![[Pasted image 20231231125302.png]]

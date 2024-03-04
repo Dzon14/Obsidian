@@ -1,3 +1,7 @@
+---
+tags:
+  - "#prog"
+---
 # TreeSet
 En typ av [[interface|interfacet]] [[Set]]
 Kan lite mer än en vanligt mängd som implementerar set.
@@ -15,4 +19,4 @@ Kan lite mer än en vanligt mängd som implementerar set.
 		- contains(element) - undersöker om ett element finns i mängden.
 
 ![[Pasted image 20211120141454.png|400]]
-#prog 
+

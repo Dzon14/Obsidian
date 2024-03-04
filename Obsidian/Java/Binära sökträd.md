@@ -65,7 +65,7 @@ För att rätta till ett träd och göra det balanserat måste man arbeta med ro
 En enskild rotation kostar O(1).
 Om ett binärt sökträd hålls balanserata kommer sökning, insättning och borttagning därmed att kosta O(2_log(n)) i värsta fall. 
 
-### AVL-träd - Balanserade binära träd
+### AVL-träd - Balanserade binära (sök?)träd
 - Ett binärt träd är balanserat om det för varje nod i trädet gäller att höjdskillnaden mellan dess båda subträd är högst ett
 - Ett träd är (höjd)balanserat om det för varje nod i trädet gäller att höjdskillnaden mellan dess båda subträd är högst ett. Ett AVL-träd är ett självbalanserande binärt sökträd som hålls balanserat genom att man vid insättning/borttagning återställs trädets form ifall det blev obalanserat.
 - I balanserade träd är höjden <= 1.44 * 2_log(n).
@@ -104,7 +104,7 @@ public class BimarySearchTree<E> {
 			return null;
 		}
 		//skapar compResult för att endast anropa comparable en gång, annars fel
-		int compResult = ((Comparable<E>) x).compareTo(n.data); 
+		int compResult = ((Comparable<E>)x).compareTo(n.data); 
 		if (compResult == 0) {
 			return n.data; //Observera att n.data returneras och inte x ...
 		} else if (compResult < 0) {
@@ -115,6 +115,12 @@ public class BimarySearchTree<E> {
 	}		
 }
 ```
+![[Pasted image 20240101173814.png]]
+Oavsett vilken konstruktor som används skriver man comp.compare..:
+![[Pasted image 20240101174017.png]]
+Om comparator används så måste man skicka [[Lambdauttryck]] som argument, exempelvis:
+![[Pasted image 20240101174231.png]]
+
 Man kan även använda [[interface|interfacet]] Comparator för att jämföra element i trädklassen (vilket är smidigare). 
 Det ger oss möjlighet att jämföra objekt av en klass på flera olika sätt. Man kan använda lambauttryck för att skapa detta. (compare-metod).
 En parameter behövs då i konstruktorn. och följande deklareras i konstruktorn:
@@ -122,6 +128,8 @@ comp = (e1, e2) -> ((Comparable<E>) e1).compareTo(e2);
 
 I private E find skrivs istället:
 int compResult = comp.compare(x, n.data);
+
+
 
 **Överkurs:** 
 - ""? super E" betyder "ökänd superklass till E (inklusive E)"

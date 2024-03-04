@@ -351,7 +351,7 @@ Ett datagram som består av header och payload (nyttolast). Totalt 65536 bytes.
 
 #### IPv6
 - 128 bitar / 26 bytes
-- Tillåter inte fragmentering hos rounter, men har fragmenteringsmekanism själv. Den fragmenterar automatiskt. Om en väg inte klarar längden får paketet kastas, drf måste sändaren veta hur paketet ska skickas genom nätet.
+- Tillåter inte fragmentering hos router, men har fragmenteringsmekanism själv. Den fragmenterar automatiskt. Om en väg inte klarar längden får paketet kastas, drf måste sändaren veta hur paketet ska skickas genom nätet.
 - Vid adressering för IPv6 kan man förkorta. Kom ihåg att dubbla semikolon kan ersätta hela följder av nollor MEN endast en gång
 - Jämfört med IPv4 har denna fler adresser, bättre headerformat, funktioner för realtidsdata, säkerhetsfunktioner och möjlighet till utökning av protokollet. 
 **Addressering**:

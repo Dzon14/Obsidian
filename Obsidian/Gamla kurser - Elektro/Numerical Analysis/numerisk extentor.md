@@ -7,9 +7,9 @@ tags: [num]
 - [[2017-08-24 numerisk]]
 - [[2018-04-05 numerisk]]
 - [[2019-04-24 numerisk]]
-- [[2020-08-22 numerisk]] (svår)
+- [[2020-08-22 numerisk 1]] (svår)
 - [[2021-06-05 numerisk]] (på tavlan)
-- [[2021-08-17 numerisk]]
+- [[2021-08-17 numerisk 1]]
 
 
 ## To do

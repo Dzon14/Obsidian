@@ -19,7 +19,7 @@ Ett interface kan innehålla:
 - abstrakta metoder
 - konstanter (statiska attribut som är final)
 - statiska metoder
-- default-metoder
+- default-metoder - innehåller metodkropp
 
 ![[Pasted image 20211222144145.png]]
 
@@ -30,3 +30,4 @@ Ett funktionellt interface kan däremot använda flera statiska- och default-met
 ## Några interface
 ![[Pasted image 20230808204003.png]] 
 
+![[Pasted image 20231228130838.png]]

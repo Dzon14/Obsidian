@@ -4,7 +4,7 @@ tags: [hållbar]
 # Hållbar utveckling F9 - Politik, ekonomi och styrmedel
 
 ## Topics
-- [[styrmedel]]
+- [[styrmedel i hållbarhet]]
 
 ## Summary
 1. Varför behövs miljöpolitik?

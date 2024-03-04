@@ -1,5 +1,9 @@
 ---
-aliases: [Agilt, Agile]
+aliases:
+  - Agilt
+  - Agile
+tags:
+  - el
 ---
 # Agilt
 

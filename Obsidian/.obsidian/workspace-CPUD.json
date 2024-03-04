@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "920f44f14d8c8f5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "28566bfc8b1fb374",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435f9a7ee92b915c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdcd850f9b06865e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88fc3c298d66b1f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e3ec1b9ff1eda60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a930cc0a84b17676",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e70cc71243ca13d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "midpoint rule",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0e3a59327b7a23d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "41b017e71151d7bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a206e9f51f27a73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91d1e86eee472fa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ab1866075b8c57f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2b5745b46ea75ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hållbar utveckling/hållbar F2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f64eaaceaa0e151",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "aead7cc2fd8e1962",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.1735824744220444,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "f08b0c21d3f2f706",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "840a1cf680355f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0562055e02b61b05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc1e798c4cd6d944",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "cdcd850f9b06865e",
+  "lastOpenFiles": [
+    "Gamla kurser - Elektro/Lund Formula Student/BMS-code.md",
+    "Gamla kurser - Elektro/Lund Formula Student/Battery Management System.md",
+    "Gamla kurser - Elektro/Lund Formula Student/Architecture of a BMS.md",
+    "Gamla kurser - Elektro/Lund Formula Student/Lund Formula Student.md",
+    "Gamla kurser - Elektro/Lund Formula Student/Abbreviation LFS.md",
+    "Gamla kurser - Elektro/Lund Formula Student",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Z-transform.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/variabelt varvtal.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/växelströmsmotor.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/transient.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Unit step function.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/trefas växelriktare.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Signal symmetries.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Steady state response.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Sinc function.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Sampling.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Relation between z-transform and DTFT.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Region of convergence.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/pumpar och fläktar.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Poles.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Power density spectrum of periodic signals.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Phase systems.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Nyquist sampling theorem.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Notch filters.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Linear phase.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/LTI systems as filters.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling/Linear and time-invariant (LTI) systems.md",
+    "Gamla kurser - Elektro/Digital Signalbehandling",
+    "Gamla kurser - Elektro/C++",
+    "Externredovisning",
+    "Gamla kurser - Ekonomi/Marknadsföring",
+    "Gamla kurser - Ekonomi/Handelsrättslig översiktskurs",
+    "Gamla kurser - Ekonomi/Ledarskap och Organisation A",
+    "Gamla kurser - Ekonomi",
+    "Gamla kurser - Elektro/Matematisk statistik",
+    "Gamla kurser - Elektro/Electromagnetic Fields",
+    "images/Pasted image 20230526182141.png",
+    "images/Pasted image 20230526180651.png",
+    "images/Pasted image 20230526174239.png",
+    "images/Pasted image 20230526170514.png",
+    "images/Pasted image 20230526155126.png",
+    "images/Pasted image 20230526134459.png",
+    "images/Pasted image 20230526101956.png",
+    "images/Pasted image 20230526101245.png",
+    "images/Pasted image 20230525141032.png",
+    "images/Pasted image 20230525140744.png"
+  ]
+}

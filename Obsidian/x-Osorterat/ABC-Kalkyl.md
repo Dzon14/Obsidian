@@ -7,8 +7,8 @@ aliases: [ABC-kalkylering]
 - De indirekta kostnadern fördelas via Kostnadsdrivare istället för Pålägg
 		- Principen typ densamma, kostnadsdrivare är direkt kopplad till produkten och dess relativa användning används för att fördela aktivitetens indirekta kostnader till de olika produkterna. (typ samma som pålägg)
 		- I ABC-kalkyl gör vi detta på en mängd olika aktiviteter (skillnad från pålägg)
-- Ger bättre precision än [[Påläggskalkyl]] genom användning av fler fördelningsnycklar för att fördela de indirekta kostnaderna
-		- I [[Påläggskalkyl|påläggskalkylering]] används schablonmässigt ett fåtal påläggsbaser och pålägg.
+- Ger bättre precision än [[påläggskalkyl]] genom användning av fler fördelningsnycklar för att fördela de indirekta kostnaderna
+		- I [[påläggskalkyl|påläggskalkylering]] används schablonmässigt ett fåtal påläggsbaser och pålägg.
 		- ABC-kalkylering använder ett stort antal aktiviteter och tillhörande kostnadsdrivare
 - Ökar möjligheterna att bedöma aktiviteternas kundvärde
 - Kräver dock mer detaljerad information och leder till ökad komplexitet. Detta är en utmaning. 

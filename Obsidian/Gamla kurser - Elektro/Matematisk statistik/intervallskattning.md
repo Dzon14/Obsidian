@@ -22,7 +22,7 @@ Om man tar en sample A så är konfidensintervallet det intervallet där vi med 
 ![[Pasted image 20231025161507.png]]
 **Vad betyder "med 95% konfidens?""**
 Om vi upprepar undersökningen m˚anga g˚anger s˚a kommer vi 95% av g˚angerna f˚a ett intervall som inneh˚aller den verkliga andelen egenföretagare, men 5% av g˚angerna inneh˚aller intervallet inte denna andel.
-- Alltså inte att 95% att egenföretagare är i intervalet (för intervallet är ej fixt och p ändras ej slumpvis (eftersom p inte är slumpvariabel utan verklig andel)).
+- Alltså inte att 95% att egenföretagare är i intervallet (för intervallet är ej fixt och p ändras ej slumpvis (eftersom p inte är slumpvariabel utan verklig andel)).
 - Varje g˚ang vi samlar in data kan vi beräkna ett nytt konfidensintervall. I genomsnitt kommer 95% av dessa inneh˚alla p, men 5% missar p
 
 ## Urvalsstorlek
@@ -42,6 +42,14 @@ Om vi upprepar undersökningen m˚anga g˚anger s˚a kommer vi 95% av g˚angerna
 
 **Nödvändig urvalsstorlek för given felmarginal:**
 ![[Pasted image 20231025163155.png]]
+
+## Konfidensintervall för ett medelvärde
+- One sample t-interval
+![[Pasted image 20231128143441.png|500]]
+##### Exempel
+![[Pasted image 20231128143534.png|550]]
+![[Pasted image 20231128143543.png|550]]
+
 
 
 # MatStat

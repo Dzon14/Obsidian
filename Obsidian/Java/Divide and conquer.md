@@ -3,6 +3,7 @@ aliases: [Söndra och härska]
 tags: [prog]
 ---
 # Divide and conquer
+- Mergesort och Quicksort
 - Teknik för att konstruera rekursiva algoritmer
 - Avser rekursiva algoritmer som minst två rekursiva anrop i varje upplaga.
 		- Problemet delas upp i två eller flera mindre som löses [[Rekursion|rekursivt]] (söndra)

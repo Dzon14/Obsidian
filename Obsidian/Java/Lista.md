@@ -22,3 +22,19 @@ LinkedList: använder en cirkulär, dubbellänkad struktur
 ## ArrayList vs LinkedList
 ![[Pasted image 20230809160105.png]]
 
+## Exempel på metoder i en enkellänkad lista
+
+#### Insättning och borttagning först i listan
+![[Pasted image 20240103210921.png|600]]
+
+#### Traversering av elementen i en lista
+![[Pasted image 20240103211308.png|600]]
+
+#### Insättning sist i listan
+![[Pasted image 20240103211403.png|600]]
+###### Mönster: 
+![[Pasted image 20240103211926.png|400]]
+
+#### Borttagning sist i listan
+![[Pasted image 20240103211955.png|600]]
+

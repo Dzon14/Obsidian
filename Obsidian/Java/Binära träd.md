@@ -43,6 +43,7 @@ Ordning noder skrivs ut beror på var vi placerar utskriftssatsen i förhålland
 - **Preorder** - roten, vänster subträd, höger subträd
 - **Inorder** - vänster subträd, roten, höger subträd
 - **Postorder** - vänster subträd, höger subträd, roten
+![[Pasted image 20240101164131.png|400]]
 
 ## Skriv ut alla noder (Traversering)
 - Antag att vi ska besöka alla noderna i träder, t.ex. för att skriva ut innehåller i träder.
@@ -103,3 +104,11 @@ private void print(Node<E> n) {
 ## Strikt binärt
 - Ett träd är strikt binärt om varje nod har noll eller två barn. D.v.s. alla noder som inte är löv har två barn.
 ![[Pasted image 20220809103420.png]]
+
+## Visualisera träd - översätta till sträng
+![[Pasted image 20240101164913.png]]
+#### Utan indentering
+![[Pasted image 20240101164903.png]]
+
+#### Med indentering
+![[Pasted image 20240101165310.png]]

@@ -1,7 +1,7 @@
 # Indek - Föreläsning 2 - Vad är Företag och Företagande? #indek 
 
 ## Del 1 innehåll:
-[[Ekonomi]]
+[[x-Osorterat/Ekonomi]]
 [[Ekonomiska system]]
 [[Lagstiftning]]
 [[Företagsekonomi]]

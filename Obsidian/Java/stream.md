@@ -1,5 +1,10 @@
 ---
-tags: [prog]
+tags:
+  - prog
+aliases:
+  - ström
+  - strömmar
+  - streams
 ---
 # Stream
 - Man kan använda strömmar för att behandla alla element i en samling eller en vektor.
@@ -12,10 +17,13 @@ Här är några vanliga operationer som kan utföras med Streams:
 2. `distinct`: It filters out duplicate elements from the stream 
 3. `map`: Omvandlar varje element till ett annat format.
 4. `sorted`: Sorterar elementen enligt en viss ordning.
-5. `collect`: Samlar resultatet av strömmen till en samling.
+5. `collect`: Samlar resultatet av strömmen till en samling. (Collectors.toSet())
 6. `reduce`: Utför en binär operation på elementen i strömmen för att producera en aggregatvärde.
 
 Streams gör det möjligt att skriva kod som är mer koncis, lättläst och parallellt behandlingsbar, vilket kan leda till mer effektiv och underhållbar kod.
+
+## Exempel
+![[Pasted image 20231229150600.png]]
 
 ## Exempel
 ![[Pasted image 20230813123446.png]]
@@ -28,6 +36,17 @@ Men vi abstraherar bort loopen med en ström.
 
 ## Struktur
 ![[Pasted image 20230813123613.png]]
+
+#### Intermediära metoder
+![[Pasted image 20231229151539.png]]
+- Map
+
+#### Avslutande metoder
+![[Pasted image 20231229151611.png]]
+![[Pasted image 20231229152012.png]]
+![[Pasted image 20231229152204.png]]
+
+
 
 ## Tentauppgift
 ![[Pasted image 20230813123059.png|650]]

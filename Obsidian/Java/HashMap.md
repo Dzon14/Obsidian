@@ -11,6 +11,6 @@ Snabbare än motsvarande trädklasser
 
 ## Varför skuggning
 ![[Pasted image 20230810114430.png]]
-
+![[Pasted image 20240102125610.png]]
 ## Exempel
 ![[Pasted image 20230810114455.png]]![[Pasted image 20230810114531.png]]

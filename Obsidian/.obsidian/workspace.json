@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6097724664430a40",
+        "id": "accfad91c29f79ce",
         "type": "tabs",
         "children": [
           {
-            "id": "3bf977c7ae0b5ceb",
+            "id": "ee8553862b9497cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iqr",
+                "query": "ordinal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "41b017e71151d7bd",
@@ -164,7 +162,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -220,53 +220,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3bf977c7ae0b5ceb",
+  "active": "ee8553862b9497cc",
   "lastOpenFiles": [
-    "Externredovisning/obeskattade reserver.md",
-    "Gamla kurser - Elektro/Matematisk statistik/spridningsmått.md",
+    "Gamla kurser - Elektro/Electromagnetic Fields/capacitance.md",
+    "Gamla kurser - Elektro/Electromagnetic Fields/Elmagi F9.md",
+    "x-Osorterat/Java.md",
+    "Gamla kurser - Elektro/Programmering/Programmering.md",
+    "Tillämpad affärsanalys/Tillämpad affärsanalys.md",
+    "automation F13.md",
+    "Dataanalys och statistik/hypotesprövning för ett medelvärde.md",
+    "Dataanalys och statistik/datstat - villkor.md",
+    "Automation/measurement processing.md",
+    "images/Pasted image 20240221175233.png",
+    "images/Pasted image 20240221175208.png",
+    "Automation/process monitoring.md",
+    "Dataanalys och statistik/typ-fel.md",
+    "Automation/Automation.md",
+    "Automation/supervision.md",
+    "images/Pasted image 20240221155821.png",
+    "images/Pasted image 20240221154219.png",
+    "Dataanalys och statistik/Dataanalys och statistik.md",
+    "Tillämpad affärsanalys/statistiska metoder i undersökningsbranschen.md",
+    "Tillämpad affärsanalys/tillämpad F7.md",
+    "images/Pasted image 20240220113949.png",
+    "images/Pasted image 20240220101950.png",
+    "images/Pasted image 20240220101349.png",
+    "Gamla kurser - Elektro/Communication Systems/komsys - sammanfattning.md",
+    "Gamla kurser - Elektro/Communication Systems/Communication Systems.md",
+    "Dataanalys och statistik/datastat - F18.md",
+    "Dataanalys och statistik/konfidensintervall och hypotesprövning för två medelvärden.md",
+    "Dataanalys och statistik/konfidensintervall och hypotesprövning för två andelar.md",
+    "Dataanalys och statistik/datastat - F17.md",
+    "Dataanalys och statistik/datastat - F16.md",
+    "Gamla kurser - Elektro/Matematisk statistik/hypotesprövning.md",
     "Gamla kurser - Elektro/Matematisk statistik/intervallskattning.md",
-    "Dataanalys och statistik/enkel linjär regression.md",
-    "Dataanalys och statistik/låddiagram.md",
-    "Dataanalys och statistik/residual.md",
-    "Dataanalys och statistik/outlier.md",
-    "Externredovisning/eget kapital.md",
-    "Elektronik i produkter/Elektronik i produkter.md",
-    "x-Osorterat/Bokföring.md",
-    "images/Pasted image 20231030182532.png",
-    "Externredovisning/aktiebolagets inkomstskatt.md",
-    "Energimarknader/Energimarknader.md",
-    "Elektronik i produkter",
-    "Energimarknader/energimarknader F1.md",
-    "Energimarknader/elmarknad.md",
-    "images/Pasted image 20231030131548.png",
-    "Energimarknader",
-    "Gamla kurser - Elektro/Matematisk statistik/Poisson-fördelning.md",
-    "Gamla kurser - Elektro/Matematisk statistik/binomialfördelning.md",
-    "Dataanalys och statistik/datastat - F2.md",
-    "Dataanalys och statistik/Pearsonkorrelation.md",
-    "Gamla kurser - Elektro/Matematisk statistik/korrelationskoefficienten.md",
-    "Externredovisning/Extern F7.md",
-    "Externredovisning/fordringar.md",
-    "images/Pasted image 20231028113546.png",
-    "images/Pasted image 20231028113534.png",
-    "Externredovisning/Externredovisning A.md",
-    "Externredovisning/Extern F6.md",
-    "Gamla kurser - Elektro/Matematisk statistik/centrala gränsvärdessatsen.md",
-    "Dataanalys och statistik/datastat - F14.md",
-    "images/Pasted image 20231025163155.png",
-    "images/Pasted image 20231025162852.png",
-    "images/Pasted image 20231025162626.png",
-    "images/Pasted image 20231025161507.png",
-    "images/Pasted image 20231025155526.png",
-    "images/Pasted image 20231025155338.png",
+    "Dataanalys och statistik/datastat - F15.md",
+    "images/Pasted image 20240215095002.png",
+    "images/Pasted image 20240215094945.png",
+    "images/Pasted image 20240215094926.png",
+    "Ledarskap och Organisation B",
+    "Mikroekonomi",
+    "Automation",
+    "Tillämpad affärsanalys",
+    "Persiska",
+    "Gamla kurser - Ekonomi/Ekonomi- och verksamhetsstyrning",
+    "Gamla kurser - Elektro/Elektronik i produkter",
+    "Gamla kurser - Elektro/Energimarknader",
     "Gamla kurser - Ekonomi/Untitled.canvas",
     "Gamla kurser - Elektro",
-    "Dataanalys och statistik",
-    "Externredovisning",
-    "Untitled 1",
-    "El- och elhybridfordonsteknik",
-    "Teknologistrategier",
-    "Gamla kurser - Ekonomi/Marknadsföring",
-    "Gamla kurser - Elektro/Numerical Analysis"
+    "Dataanalys och statistik"
   ]
 }

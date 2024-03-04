@@ -3,7 +3,7 @@
 
 # Innehåll:
 [[Orderkalkyl]]
-[[Påläggskalkyl]]
+[[påläggskalkyl]]
 [[ABC-Kalkyl]]
 
 #indek 

@@ -47,7 +47,7 @@ Linjär teknik:
 		
 Ett problem vid sluten hashtabell med linjär kollisiontsteknik är borttagningar. Det kan leda till problem vid sökningar om nyckeln tagits bort på en plats innan den sökta. Lösning är att markera det borttagna elementet ( med en bokstav eller liknande)
 **Fler problem med linjär teknik:**
-- primär klustring, om fler objekt kolldierar kommer de att ligga i ett kluster kring platsen
+- primär klustring, om fler objekt kolliderar kommer de att ligga i ett kluster kring platsen
 - Stora kluster ger långsam sökning
 		
 Kvadratisk teknik:
@@ -69,21 +69,20 @@ Notera att talet som är sist i följen ska vara längst till vänster i listan.
 - Sökning (och instättn. och borttagn.) i en hashtabell innebär
 		-  beräkning av index
 		-  Sökning bland kolliderande nycklar
-- I värsta fall är det O(n), där n är antalet element som finns insatta i tabellen.
-- Medelfall: O(1)
+- I värsta fall är det O(n), där n är antalet element som finns insatta i tabellen. Inträffar om alla element kolliderar och hamnar i samma lista. Undviks om man väljer en bra hashfunktion och har en tillräckligt stor tabell. 
+- Medelfall: O(1) - praktiskt kan man alltid räkna med detta för javas hashtabeller.
 
 ## Fyllnadsgrad
 - Ett mått på hur fylld tabellen är.
 - Fyllnadsgrad = antal insatta element / vektorns storlek (antal platser)
 - Ett lämpligt val är 0.75, man vill inte fylla den för mke.
-- En sluten tabell bör ej fyllas mer än hälften. 
+- En sluten tabell bör ej fyllas mer än hälften (0.5). 
 
 ### Rehashing
 Om tabellen blir för fylld.
 Då måste man bygga om tabellen:
 	- Skapa en dubbelt så stor tabell
 	Sätt in alla element i den nya tabellen
-	
 	
 ## [[Skuggning]] av hashCode och equals
 ![[Pasted image 20220809140055.png|600]]

@@ -1,4 +1,4 @@
-# Viktiga begrepp inom [[Ekonomi]]
+# Viktiga begrepp inom [[x-Osorterat/Ekonomi]]
 Bokföring:
 
 **Utgift**

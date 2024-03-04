@@ -2,7 +2,6 @@
 aliases: [mappar, mappen]
 tags: [prog]
 ---
-
 # Datatypen Map
 [[TreeMap]] och [[HashMap]]
 
@@ -29,6 +28,10 @@ nyckel-värde tabell
 
 ##### Alternativ iterering
 ![[Pasted image 20230810113722.png]]
+![[Pasted image 20231228131018.png]]
 
+## Interfacet Map i Java
+![[Pasted image 20240102124823.png]]
 
-
+## Använda Map för att räkna frekvenser
+![[Pasted image 20240102125209.png]]

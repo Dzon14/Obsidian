@@ -1,7 +1,7 @@
 ---
 tags: [datastat]
 ---
-<# Dataanalys och statistik för ekonomer
+# Dataanalys och statistik för ekonomer
 
 ## Föreläsningar
 
@@ -19,10 +19,14 @@ tags: [datastat]
 - [[datastat - F12]]
 - [[datastat - F13]]
 - [[datastat - F14]]
-
 #### Del 2
+- [[datastat - F15]]
+- [[datastat - F16]]
+- [[datastat - F17]]
+- [[datastat - F18]]
 
-
+## Inför tenta
+- [[datstat - villkor]]
 
 ## Del 1
 

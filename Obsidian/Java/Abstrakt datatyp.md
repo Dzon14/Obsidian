@@ -16,3 +16,4 @@ En abstrakt modell tillsammans med de operationer man kan utföra på den.
 
 ![[KlasseriJFC.png]]
 
+![[Pasted image 20231218204856.png]]

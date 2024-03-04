@@ -2,6 +2,21 @@
 tags: [matstat]
 ---
 # Hypotesprövning 
+
+# Ekonomi
+## Hypotesprövning för en populationsandel
+![[Pasted image 20231128145028.png|600]]
+![[Pasted image 20231128151737.png]]
+#### Exempel för en andel
+![[Pasted image 20231128151925.png]]
+- Om även nya metoden ger 9% defekta s˚a är det 3,84% sannolikhet att f˚a 7,4% defekta eller lägre andel när vi tillverkar 1000 med nya metoden
+![[Pasted image 20231128153251.png|550]]
+## Effektstorlek 
+![[Pasted image 20231128152850.png|600]]
+![[Pasted image 20231128152930.png|600]]
+
+
+# MatStat
 Kan utföras med 3 olika metoder:
 1. Direktmetoden eller P-värde
 - Antag att $H_{0}$ sann

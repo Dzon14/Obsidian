@@ -1,3 +1,7 @@
+---
+tags:
+  - prog
+---
 # Sortering
 För att göra sökning effektivare. (binärsökning exempelvis)
 För att förenkla vissa algoritmer.
@@ -39,9 +43,10 @@ passar bra i speciella sammanhang och är enkla att implementera (två nästlade
 ![[Pasted image 20211202142426.png|400]]
 
 ## [[Mergesort]]
-Snabb metod
-Sortera vänstra halvan, sen högra halvan och sedan samsortera (merge) de båda sorterade halvorna
-- Stabil sorteringsalgoritm
+- [[Divide and conquer|Söndra och härska]]-algoritm
+- Snabb metod
+- Sortera vänstra halvan, sen högra halvan och sedan samsortera (merge) de båda sorterade halvorna
+- Stabil sorteringsalgoritm (bibehåller ordningen för element med lika nycklar efter sorteringen)
 
 Nedan används [[Divide and conquer]] tekniken i [[Mergesort]].
 ```java
@@ -69,6 +74,7 @@ private static void mergeSort(int[] a, int first, int last) {
 - Mergesort kan göras stabil (ordning ändras ej för lika element)
 
 ## Quicksort
+- [[Divide and conquer|Söndra och härska]]-algoritm
 - Välj ut ett element (pivotelement)
 - Partitionera vektorn: Flytta om elementen så att element <= pivot hamnar till vänster och element >= pivot hamnar till höger
 - Upprepa [[Rekursion|rekursivt]] på de båda delvektorerna till vänster respektive till höger om pivotelement
@@ -106,8 +112,9 @@ Quicksort behöver inget extra minnesutrymme för temporär vektor
 
 ## Quicksort vs Mergesort
 Quicksort:
-- Snabb i medelfall (O(nlogn)), men O(n^2) i värsta fall. 
+- Snabb i medelfall (O(nlogn)), men O(n^2) i värsta fall (sämre än mergesort i värsta fall). Värsta fall kan göra statistiskt omöjligt.
 - Behöver inget extra minnesutrymme för temporär vektor
+- Ej stabil
 
 Mergesort:
 	- O(nlogn) i både medel- och värsta fall.
